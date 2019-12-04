@@ -1,29 +1,25 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-'''
-	abre o whatsapp web e navega entre todas as conversas pegando todo o historico de cada uma delas e tambem as informacoes de contato com o qual a conversa aconteceu
-'''
-
-# In[286]:
+# In[1]:
 
 
 import bs4
 import time
 import os
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 import pprint
 import pandas as pd
 # pd.set_option('display.max_rows', 1000)
 
 
-# In[327]:
+# In[2]:
 
 
 from engines import saveData
 
 
-# In[265]:
+# In[11]:
 
 
 from selenium import webdriver
@@ -44,7 +40,7 @@ driver = webdriver.Chrome(options=options, executable_path="./webdriver/chromedr
 driver.get('https://web.whatsapp.com/')
 
 
-# In[3]:
+# In[5]:
 
 
 # FUNCOES QUE PEGAM AS INFORMACOES DO CONTATO
@@ -110,7 +106,7 @@ def get_Name():
         #print('getName() [step 2] error: {}'.format(error))
 
 
-# In[4]:
+# In[6]:
 
 
 # FUNCOES DE NAVEGACAO PELO WHATSAPP COM CLIQUES E TECLAS DO TECLADO
@@ -144,7 +140,7 @@ def esc_conversation():
     press_esc.perform()
 
 
-# In[5]:
+# In[7]:
 
 
 # PEGA AS INFORMACOES DO CONTATO COM O QUAL TEVE A CONVERSA
@@ -178,7 +174,7 @@ def getContactData():
     return contact_info
 
 
-# In[9]:
+# In[81]:
 
 
 # FUNCOES QUE LIDAM COM O SCROLL UP DAS CONVERSAS PARA CAPUTRAR TODO O HISTORICO
@@ -190,11 +186,37 @@ def block_time(mensagem):
         if len(content) == 10 and content[2] == '/' and content[5] == '/':
             return content
         elif content in days_week:
+            #chama funcao que vai tratar o dia da semana e devolver uma data
+            content = correct_day(content)
             return content
         else:
             return False
     except Exception as error:
         return False
+    
+#CORRIGE O DIA DA SEMANA CASO NAO SEJA UMA DATA ESPECIFICA
+def correct_day(day_name):
+    #traduz o dia da semana caso o whatsapp esteja em portugues
+    d = date.today()
+    
+    days_pt = {'SEGUNDA-FEIRA': 'monday', 'TERÇA-FEIRA': 'tuesday', 'QUARTA-FEIRA': 'wednesday', 'QUINTA-FEIRA': 'thursday', 'SEXTA-FEIRA': 'friday', 'SÁBADO': 'saturday', 'DOMINGO': 'sunday', 'HOJE': 'TODAY', 'ONTEM': 'YESTERDAY'}
+    if day_name in days_pt.keys():
+        day_name = days_pt[day_name]
+    
+    if day_name == 'TODAY':
+        corrected = date.today()
+        return corrected.strftime('%d/%m/%Y')
+    elif day_name == 'YESTERDAY':
+        corrected = d + timedelta(days=-1)
+        return corrected.strftime('%d/%m/%Y')
+    
+    days_of_week = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
+    target_day = days_of_week.index(day_name.lower())
+    delta_day = target_day - d.isoweekday()
+    
+    if delta_day >= 0: delta_day -= 7 # go back 7 days
+    corrected = d + timedelta(days=delta_day)
+    return corrected.strftime('%d/%m/%Y')
 
 # VERIFICA SE EH O FIM DA CONVERSA
 def verify_end():
@@ -223,7 +245,7 @@ def scroll_history():
     return True
 
 
-# In[262]:
+# In[130]:
 
 
 # FUNCOES PARA TRATAR CADA MENSAGEM, TIME, STATUS, SE FOI ENVIADA OU RECEBIDA E CONTEUDO
@@ -280,7 +302,11 @@ def verify_content(mensagem):
                 #se nao for imagem nem video nem audio eh texto, se for documento pegara o nome do arquivo
                 try:
                     content_msg = mensagem.text.split('\n')
-                    if len(content_msg) > 2 and content[0].startswith('+55') and content[2].startswith('+55') :
+                    
+                    if '#NaBike' in content_msg:
+                        content['content'] = '|'.join(content_msg)
+                        content['type'] = 'automatic'
+                    elif len(content_msg) > 2 and content[0].startswith('+55') and content[2].startswith('+55') :
                         content['content'] = '|'.join(content_msg)
                         content['type'] = 'replie'
                     else:
@@ -294,19 +320,44 @@ def verify_content(mensagem):
                             content['content'] = mensagem.text.split('\n')[0]
                             content['type'] = 'text'
                 except Exception as error:
+                    print(error)
                     content['content'] = 'desconhecido'
                     content['type'] = 'unknown' 
     
     return content
 
 
-# In[275]:
+# In[131]:
+
+
+verify_content(mensagens[7])
+
+
+# In[89]:
+
+
+div_chat = driver.find_element_by_class_name('_1ays2')
+mensagens = div_chat.find_elements_by_class_name('FTBzM')
+
+
+# In[94]:
+
+
+mensagens[7].text
+
+
+# In[121]:
+
+
+
+
+
+# In[82]:
 
 
 # PEGA O CONTEUDO DAS MENSAGENS E DO CONTATO
 def getContent():
     div_chat = driver.find_element_by_class_name('_1ays2')
-    #driver.execute_script("arguments[0].scrollIntoView(true);", div_chat)
     mensagens = div_chat.find_elements_by_class_name('FTBzM')
 
     
@@ -349,19 +400,14 @@ def getContent():
     return data
 
 
-# In[424]:
-
-
-
-
-
-# In[412]:
+# In[83]:
 
 
 # SALVA AS INFORMACOES COLETADAS NO BANCO DE DADOS
 def save_to_db(data):
     #RECEBE O DICIONARIO GERADO COM AS DUAS CHAVES PRINCIPAIS E SALVA NO BANCO DA DADOS
     
+    database = saveData.Database()
     #salva as informacoes de contato no banco
     database.save_contact_info(data['contact'])
 
@@ -375,7 +421,7 @@ def save_to_db(data):
     print('Saved!')
 
 
-# In[439]:
+# In[154]:
 
 
 # SALVA LOCALMENTE AS INFORMACOES COLETADAS
@@ -413,40 +459,45 @@ def history_csv(history, contact_name):
     return 'history info saved as: ' + str(history_name)
 
 
-# In[435]:
+# In[155]:
 
 
+def total_conversations():
+    try:
+        chat_list = driver.find_elements_by_class_name('X7YrQ')
+        
+        total = 0
+        for chat in chat_list:
+            starter = chat.get_attribute('style').find(':')
+            delimiter = chat.get_attribute('style').find(';')
+            found = int(''.join(filter(str.isdigit, chat.get_attribute('style')[starter:delimiter])))
+            if found > total:
+                total = found
+        return total
+    except:
+        return 'Total Not Found'
 
 
-
-# In[ ]:
-
-
-database = saveData.Database()
+# In[158]:
 
 
-# In[276]:
-
-
+#eh preciso o argumento force=True para iniciar a navegacao pelas conversas
+down_chat(force=True)
+count = 0
+chats = total_conversations()
 for i in range(3):
-    down_chat(force=True)
+    count += 1
     time.sleep(1)
     if scroll_history():
         data_contact = getContent()
         
-        save_to_db(data_contact)
-        contact_info_txt(data_contact['contact'])
-        history_csv(data_contact['history'], data_contact['contact']['phone'])
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-#criar funcao que limpa as datas caso seja um dia da semana e exclui ENGINES do historico
+        #save_to_db(data_contact)
+        print(contact_info_txt(data_contact['contact']))
+        print(history_csv(data_contact['history'], data_contact['contact']['phone']))
+    
+    print('\n{} de {} historicos salvos'.format(count, chats))
+    down_chat(force=False)
+    choice = input('continuar? aperte 1 se deseja parar')
+    if choice == '1':
+        break
 
