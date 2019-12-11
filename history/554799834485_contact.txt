@@ -1,0 +1,12 @@
+phone: +55 47 9983-4485
+business: False
+name: Eliseu Mar 268
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F62093623_351351075779671_5584705241518964736_n.jpg%3Foe%3D5DF3717F%26oh%3D9b975615e04af9b143c7df2ac64a409c&t=l&u=554799834485%40c.us&i=1563367579
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F62093623_351351075779671_5584705241518964736_n.jpg%3Foe%3D5DF46CC7%26oh%3D5b86fb72119b09c7787d1feede8483f6&t=l&u=554799834485%40c.us&i=1563367579
+saved: True
+business: False
+caption: None
+phone: +55 47 9983-4485
+name: Eliseu Mar 268

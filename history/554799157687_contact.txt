@@ -1,0 +1,12 @@
+phone: +55 47 9915-7687
+business: False
+name: Taina Pediu Para Passar Buscar
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73589200_2282494468521419_6841386125663550336_n.jpg%3Foe%3D5DF36F23%26oh%3Dec25d136892740767011eaca1ee8db63&t=l&u=554799157687%40c.us&i=1575296398
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73589200_2282494468521419_6841386125663550336_n.jpg%3Foe%3D5DF46A5F%26oh%3Daf585872ac47b38814dd273d6edc3646&t=l&u=554799157687%40c.us&i=1575296398
+saved: True
+business: False
+caption: None
+phone: +55 47 9915-7687
+name: 

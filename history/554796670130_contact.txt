@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69114748_2661544097257558_1155729099165686629_n.jpg%3Foe%3D5DF450F8%26oh%3Ddce52eba13b44fd4702cfb3565f7b523&t=l&u=554796670130%40c.us&i=1575946447
+saved: True
+business: False
+caption: None
+phone: +55 47 9667-0130
+name: Silvana Valerio

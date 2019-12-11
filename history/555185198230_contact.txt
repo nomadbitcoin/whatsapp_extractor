@@ -1,0 +1,12 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56511000_2507949922562636_4359418133589524480_n.jpg%3Foe%3D5DF45084%26oh%3D25d5a6c14893a010f20a18f016365323&t=l&u=555185198230%40c.us&i=1532138169
+saved: True
+business: False
+caption: None
+phone: +55 51 8519-8230
+name: Digo
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56511000_2507949922562636_4359418133589524480_n.jpg%3Foe%3D5DF450F8%26oh%3D0e6033bc2c03cb95a1b24da48d854d2c&t=l&u=555185198230%40c.us&i=1532138169
+saved: True
+business: False
+caption: None
+phone: +55 51 8519-8230
+name: Digo

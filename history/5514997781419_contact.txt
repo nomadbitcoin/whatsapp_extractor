@@ -1,0 +1,6 @@
+phone: +55 14 99778-1419
+business: False
+name: Mrx
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F68240184_416188939102630_1600111304738078720_n.jpg%3Foe%3D5DF30E91%26oh%3D9d803bba756ca22a849ac99ae5647589&t=l&u=5514997781419%40c.us&i=1567462914

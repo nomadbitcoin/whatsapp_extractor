@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9647-0770
+name: Bruno 230
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56064560_277763223110087_3575977779100909568_n.jpg%3Foe%3D5DF2796A%26oh%3D9d832f3b6c9d7aa095913866a7b1d795&t=l&u=554796470770%40c.us&i=1499814963

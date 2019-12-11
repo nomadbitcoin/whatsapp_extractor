@@ -1,0 +1,12 @@
+phone: +55 47 9288-9271
+business: False
+name: Alessandra 218/60/404
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55961986_2338698066364454_2855525632564002816_n.jpg%3Foe%3D5DF30D1F%26oh%3Dc5787127dc2c05c5768efe31a0c723a6&t=l&u=554792889271%40c.us&i=1536697634
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55961986_2338698066364454_2855525632564002816_n.jpg%3Foe%3D5DF45F01%26oh%3D3511241e67fd8ba7d5314702fca4033e&t=l&u=554792889271%40c.us&i=1536697634
+saved: True
+business: False
+caption: None
+phone: +55 47 9288-9271
+name: 

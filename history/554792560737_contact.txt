@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F61900152_1338453176315656_7382400177337794560_n.jpg%3Foe%3D5DF4A1D8%26oh%3D1032f252ac4c0c2482b95c917016457f&t=l&u=554792560737%40c.us&i=1564785718
+saved: True
+business: False
+caption: None
+phone: +55 47 9256-0737
+name: Nathani Ribeiro Abif

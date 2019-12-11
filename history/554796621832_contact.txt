@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9662-1832
+name: Kelly Hassi
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F60633970_620658698447048_5995397762483486720_n.jpg%3Foe%3D5DF28DCB%26oh%3Df5e0bdf4d95fc98d3100127fae762e85&t=l&u=554796621832%40c.us&i=1560558784

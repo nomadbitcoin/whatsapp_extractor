@@ -1,0 +1,65 @@
+2019/12/11-10:45:12.788 3f90 Recovering log #2130
+2019/12/11-10:45:12.804 3f90 Reusing old log /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002130.log 
+2019/12/11-10:45:12.953 3f90 Delete type=3 #2098
+2019/12/11-10:45:34.552 406f Compacting 1@1 + 2@2 files
+2019/12/11-10:45:34.930 406f Generated table #2145@1: 37174 keys, 2009449 bytes
+2019/12/11-10:45:34.930 406f Compacted 1@1 + 2@2 files => 2009449 bytes
+2019/12/11-10:45:35.476 406f compacted to: files[ 0 3 21 0 0 0 0 ]
+2019/12/11-10:45:35.477 406f Delete type=2 #2068
+2019/12/11-10:45:35.477 406f Delete type=2 #2134
+2019/12/11-10:45:35.477 406f Delete type=2 #2138
+2019/12/11-10:46:14.569 406f Level-0 table #2147: started
+2019/12/11-10:46:14.725 406f Level-0 table #2147: 1109504 bytes OK
+2019/12/11-10:46:14.767 406f Delete type=0 #2130
+2019/12/11-10:46:17.062 406f Compacting 1@0 + 3@1 files
+2019/12/11-10:46:17.275 406f Generated table #2148@0: 65796 keys, 2265869 bytes
+2019/12/11-10:46:17.342 406f Generated table #2149@0: 12304 keys, 482020 bytes
+2019/12/11-10:46:17.398 406f Generated table #2150@0: 4 keys, 2896 bytes
+2019/12/11-10:46:17.443 406f Generated table #2151@0: 10 keys, 38930 bytes
+2019/12/11-10:46:17.443 406f Compacted 1@0 + 3@1 files => 2789715 bytes
+2019/12/11-10:46:17.532 406f compacted to: files[ 0 4 21 0 0 0 0 ]
+2019/12/11-10:46:17.533 406f Delete type=2 #2126
+2019/12/11-10:46:17.533 406f Delete type=2 #2147
+2019/12/11-10:46:17.533 406f Delete type=2 #2136
+2019/12/11-10:46:17.533 406f Delete type=2 #2133
+2019/12/11-10:46:39.261 406f Expanding@1 1+2 (2265869+3940644 bytes) to 2+2 (2747889+3940644 bytes)
+2019/12/11-10:46:39.261 406f Compacting 2@1 + 2@2 files
+2019/12/11-10:46:39.515 406f Generated table #2152@1: 32913 keys, 1455096 bytes
+2019/12/11-10:46:39.515 406f Compacted 2@1 + 2@2 files => 1455096 bytes
+2019/12/11-10:46:39.581 406f compacted to: files[ 0 2 20 0 0 0 0 ]
+2019/12/11-10:46:39.581 406f Delete type=2 #2148
+2019/12/11-10:46:39.581 406f Delete type=2 #2137
+2019/12/11-10:46:39.581 406f Delete type=2 #2145
+2019/12/11-10:46:39.581 406f Delete type=2 #2149
+2019/12/11-10:49:28.724 406f Level-0 table #2154: started
+2019/12/11-10:49:28.840 406f Level-0 table #2154: 1302176 bytes OK
+2019/12/11-10:49:28.907 406f Delete type=0 #2146
+2019/12/11-10:49:31.552 406f Compacting 1@0 + 1@1 files
+2019/12/11-10:49:31.667 406f Generated table #2155@0: 21987 keys, 434768 bytes
+2019/12/11-10:49:31.713 406f Generated table #2156@0: 20 keys, 167179 bytes
+2019/12/11-10:49:31.713 406f Compacted 1@0 + 1@1 files => 601947 bytes
+2019/12/11-10:49:31.768 406f compacted to: files[ 0 3 20 0 0 0 0 ]
+2019/12/11-10:49:31.768 406f Delete type=2 #2154
+2019/12/11-10:49:31.768 406f Delete type=2 #2150
+2019/12/11-10:49:32.411 406f Compacting 1@1 + 1@2 files
+2019/12/11-10:49:32.559 406f Generated table #2157@1: 37626 keys, 1641479 bytes
+2019/12/11-10:49:32.559 406f Compacted 1@1 + 1@2 files => 1641479 bytes
+2019/12/11-10:49:32.626 406f compacted to: files[ 0 2 20 0 0 0 0 ]
+2019/12/11-10:49:32.626 406f Delete type=2 #2152
+2019/12/11-10:49:32.626 406f Delete type=2 #2155
+2019/12/11-10:55:02.092 406f Level-0 table #2159: started
+2019/12/11-10:55:02.214 406f Level-0 table #2159: 1272105 bytes OK
+2019/12/11-10:55:02.281 406f Delete type=0 #2153
+2019/12/11-10:55:05.873 406f Compacting 1@0 + 1@1 files
+2019/12/11-10:55:05.993 406f Generated table #2160@0: 22760 keys, 447710 bytes
+2019/12/11-10:55:06.065 406f Generated table #2161@0: 34 keys, 301774 bytes
+2019/12/11-10:55:06.065 406f Compacted 1@0 + 1@1 files => 749484 bytes
+2019/12/11-10:55:06.131 406f compacted to: files[ 0 3 20 0 0 0 0 ]
+2019/12/11-10:55:06.132 406f Delete type=2 #2156
+2019/12/11-10:55:06.132 406f Delete type=2 #2159
+2019/12/11-10:55:08.553 406f Compacting 1@1 + 1@2 files
+2019/12/11-10:55:08.690 406f Generated table #2162@1: 42631 keys, 1803652 bytes
+2019/12/11-10:55:08.690 406f Compacted 1@1 + 1@2 files => 1803652 bytes
+2019/12/11-10:55:08.756 406f compacted to: files[ 0 2 20 0 0 0 0 ]
+2019/12/11-10:55:08.756 406f Delete type=2 #2157
+2019/12/11-10:55:08.756 406f Delete type=2 #2160

@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9287-1020
+name: Cassiano
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69313923_525519901613592_6878888787426934784_n.jpg%3Foe%3D5DF29C3F%26oh%3De44f65ebc55c4fc19e76781b2bd39625&t=l&u=554792871020%40c.us&i=1568318260

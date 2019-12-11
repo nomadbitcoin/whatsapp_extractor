@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9919-5163
+name: B Juliane Santos
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64639450_923281064702599_8082650167808884736_n.jpg%3Foe%3D5DF28AF0%26oh%3D7746be8dc123fa9c9fb6067fe537c5a3&t=l&u=554799195163%40c.us&i=1568055281

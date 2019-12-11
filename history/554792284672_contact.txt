@@ -1,0 +1,12 @@
+phone: +55 47 9228-4672
+business: False
+name: Isabela Bruna Fit
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71970298_428254708082539_3712452647560660988_n.jpg%3Foe%3D5DF3712C%26oh%3Dba793a2fa0a03ad3868e45190d9a5b0d&t=l&u=554792284672%40c.us&i=1575721112
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71970298_428254708082539_3712452647560660988_n.jpg%3Foe%3D5DF46C80%26oh%3D6a76b679ccae1b257ea99fe4b30319af&t=l&u=554792284672%40c.us&i=1575721112
+saved: True
+business: False
+caption: None
+phone: +55 47 9228-4672
+name: 

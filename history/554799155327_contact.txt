@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9915-5327
+name: Izabel Rodrigues 120
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71100998_178495553232701_2780610715954152534_n.jpg%3Foe%3D5DF2A2A1%26oh%3Dd2895d787e10c368b46d78a2371bebcb&t=l&u=554799155327%40c.us&i=1575774320

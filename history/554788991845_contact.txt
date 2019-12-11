@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 8899-1845
+name: Raquel Laura*
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73436673_162973555088104_5614168909470297449_n.jpg%3Foe%3D5DF2D31A%26oh%3D7ae036c54ded181594409b9e6d9cf5ad&t=l&u=554788991845%40c.us&i=1575935641

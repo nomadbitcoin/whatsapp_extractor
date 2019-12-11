@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 8908-6062
+name: Dauana
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71033504_556703511554710_3667686089588218937_n.jpg%3Foe%3D5DF2C219%26oh%3D4ddec657d5699cfadc1d935841cfb50a&t=l&u=554789086062%40c.us&i=1575060390

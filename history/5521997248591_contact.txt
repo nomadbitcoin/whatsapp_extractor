@@ -1,0 +1,6 @@
+saved: True
+phone: +55 21 99724-8591
+name: Nego Fabio
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72488057_422006058743557_5303320172875910400_n.jpg%3Foe%3D5DF28446%26oh%3D5cacbeaaf81b29e019a20b9de84515aa&t=l&u=5521997248591%40c.us&i=1574882987

@@ -1,0 +1,6 @@
+saved: True
+phone: +55 49 9117-4233
+name: Ortobon 262 2
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F68448235_372441167034284_9213079048945664000_n.jpg%3Foe%3D5DF2A5C6%26oh%3D59db92ce915f398bd1a54faaf5214c04&t=l&u=554991174233%40c.us&i=1567680563

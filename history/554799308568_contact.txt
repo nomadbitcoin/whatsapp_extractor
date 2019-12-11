@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56105971_2219986594885273_2378176451821174784_n.jpg%3Foe%3D5DF4C96D%26oh%3D279a97ea2e9fe8ca507cc574ff645d77&t=l&u=554799308568%40c.us&i=1543465603
+saved: True
+business: False
+caption: None
+phone: +55 47 9930-8568
+name: Jorge Loko

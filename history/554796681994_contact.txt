@@ -1,0 +1,12 @@
+phone: +55 47 9668-1994
+business: True
+name: Geovane Gas Mar
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70348411_471825307008589_8148697079670112256_n.jpg%3Foe%3D5DF36F67%26oh%3D176ea702b94b8858b01a08df731b5835&t=l&u=554796681994%40c.us&i=1569241441
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70348411_471825307008589_8148697079670112256_n.jpg%3Foe%3D5DF46494%26oh%3D938cb41271d2c785d146788a359ee94b&t=l&u=554796681994%40c.us&i=1569241441
+saved: True
+business: True
+caption: None
+phone: +55 47 9668-1994
+name: Geovane Gas Mar

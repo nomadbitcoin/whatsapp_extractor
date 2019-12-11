@@ -1,0 +1,12 @@
+phone: +55 47 9976-5122
+business: False
+name: Pescados Ferreira
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F60627608_2291706420919271_5568079341511770112_n.jpg%3Foe%3D5DF30F35%26oh%3Dde2f5facc38f2c4499cd3a7f6c36146d&t=l&u=554799765122%40c.us&i=1559843791
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F60627608_2291706420919271_5568079341511770112_n.jpg%3Foe%3D5DF4612D%26oh%3Da59ca48a28ee312075b743368f115d40&t=l&u=554799765122%40c.us&i=1559843791
+saved: True
+business: False
+caption: None
+phone: +55 47 9976-5122
+name: Pescados Ferreira

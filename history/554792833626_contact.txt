@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69962317_1502932576529257_1917120747758233439_n.jpg%3Foe%3D5DF4CB2B%26oh%3D9d81eee3df03eb9c1f936102584aabaf&t=l&u=554792833626%40c.us&i=1575465322
+saved: True
+business: False
+caption: None
+phone: +55 47 9283-3626
+name: Edineia Pereque

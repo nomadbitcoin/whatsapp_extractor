@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9261-4974
+name: Rafaela Robeti
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74917335_1016034772082760_6539206490474346268_n.jpg%3Foe%3D5DF29E32%26oh%3D4a787cb136db1d17800e8806c1f6a2c6&t=l&u=554792614974%40c.us&i=1575635752

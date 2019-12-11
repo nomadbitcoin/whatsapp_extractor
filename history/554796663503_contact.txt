@@ -1,0 +1,6 @@
+phone: +55 47 9666-3503
+business: False
+name: Fabi
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F57294371_2118101674937634_3799533120370245632_n.jpg%3Foe%3D5DF367A6%26oh%3D63e038aa8e49a0a7c3915516ae365249&t=l&u=554796663503%40c.us&i=1481316098

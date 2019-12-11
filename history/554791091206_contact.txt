@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9109-1206
+name: Beatriz
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71068074_465794517377788_93133121031793840_n.jpg%3Foe%3D5DF272DF%26oh%3D032d0bb6957e5286fba42e1250ebbd63&t=l&u=554791091206%40c.us&i=1573763348

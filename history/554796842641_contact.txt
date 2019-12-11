@@ -1,0 +1,6 @@
+saved: False
+phone: +55 47 9684-2641
+name: Natália
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73135103_2458277607795128_6961710587415887872_n.jpg%3Foe%3D5DF272DF%26oh%3D061937228788956d0f6b33bddf503039&t=l&u=554796842641%40c.us&i=1571939845

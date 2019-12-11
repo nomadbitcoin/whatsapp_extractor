@@ -1,0 +1,6 @@
+phone: +55 47 9665-7614
+business: False
+name: Waldemar Pedrei
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74722496_420898178834772_7385825941937945282_n.jpg%3Foe%3D5DF36B1B%26oh%3D8b78fe49a0f7dba1527122b84b088599&t=l&u=554796657614%40c.us&i=1573401446

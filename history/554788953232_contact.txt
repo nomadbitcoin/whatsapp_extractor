@@ -1,0 +1,12 @@
+phone: +55 47 8895-3232
+business: False
+name: Zarel 249
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55963742_1090657721138033_227306793338929152_n.jpg%3Foe%3D5DF30F3B%26oh%3Dddf4f1ef056876cf5f1ab1c2003c048f&t=l&u=554788953232%40c.us&i=1554004980
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55963742_1090657721138033_227306793338929152_n.jpg%3Foe%3D5DF45EE9%26oh%3Dd26e3cdf37d913b6c26d94263dca609e&t=l&u=554788953232%40c.us&i=1554004980
+saved: True
+business: False
+caption: None
+phone: +55 47 8895-3232
+name: Zarel 249

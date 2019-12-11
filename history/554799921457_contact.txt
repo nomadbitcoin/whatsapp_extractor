@@ -1,0 +1,12 @@
+phone: +55 47 9992-1457
+business: False
+name: Sem Nome47
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55963739_402396300490165_4487659526266290176_n.jpg%3Foe%3D5DF37D54%26oh%3Dc759266334bd5b61370f6a8dd7cc6cd2&t=l&u=554799921457%40c.us&i=1480806554
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55963739_402396300490165_4487659526266290176_n.jpg%3Foe%3D5DF476C2%26oh%3D9d5b94736818b3d7248354b749cc42a5&t=l&u=554799921457%40c.us&i=1480806554
+saved: True
+business: False
+caption: None
+phone: +55 47 9992-1457
+name: Sem Nome47

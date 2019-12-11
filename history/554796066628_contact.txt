@@ -1,0 +1,6 @@
+phone: +55 47 9606-6628
+business: False
+name: Imobiliaria Fernando
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55964147_2942473546072633_3905001475457155072_n.jpg%3Foe%3D5DF37756%26oh%3De1c9dddfada3ca0b8ed31464e57a8e9f&t=l&u=554796066628%40c.us&i=1517569308

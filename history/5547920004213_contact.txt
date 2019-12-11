@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 92000-4213
+name: Junior 315
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F68758456_782698915484904_4845493644200771584_n.jpg%3Foe%3D5DF272DF%26oh%3D91c7401f6d9bac273b1cc12f28193c70&t=l&u=5547920004213%40c.us&i=1568476159

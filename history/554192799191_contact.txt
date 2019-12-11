@@ -1,0 +1,6 @@
+phone: +55 41 9279-9191
+business: False
+name: Cezar Renann
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71811903_139448447355433_6281350775212063227_n.jpg%3Foe%3D5DF37623%26oh%3D53bdf25bf70f34854e90393d81fdc586&t=l&u=554192799191%40c.us&i=1573431380

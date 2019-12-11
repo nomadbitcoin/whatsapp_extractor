@@ -1,0 +1,6 @@
+phone: +55 47 8465-0891
+business: False
+name: Gabriela
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69369320_485656875345912_3465716992130940928_n.jpg%3Foe%3D5DF3756A%26oh%3De3a8e1e5d2cc6f74d4feb569b2c42030&t=l&u=554784650891%40c.us&i=1568112820

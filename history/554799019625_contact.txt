@@ -1,0 +1,12 @@
+phone: +55 47 9901-9625
+business: False
+name: Laura Ifood
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72988389_125143058904556_3397689219323161773_n.jpg%3Foe%3D5DF37D54%26oh%3D47cd1dec99c474116edeaa091e66822f&t=l&u=554799019625%40c.us&i=1573498416
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72988389_125143058904556_3397689219323161773_n.jpg%3Foe%3D5DF476C2%26oh%3Dc306a86c373afdbb98bc8d7f578f5be2&t=l&u=554799019625%40c.us&i=1573498416
+saved: True
+business: False
+caption: None
+phone: +55 47 9901-9625
+name: Laura Ifood

@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72985645_2570660603163824_7476456656505092579_n.jpg%3Foe%3D5DF4B428%26oh%3D4aaef5790237ca4c7963019ef052f012&t=l&u=554799607648%40c.us&i=1574169762
+saved: True
+business: False
+caption: None
+phone: +55 47 9960-7648
+name: Sergio - Fenza

@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9935-1014
+name: Daniela
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64679012_2327129550888555_5075579624977596416_n.jpg%3Foe%3D5DF2BEA6%26oh%3Dbdd5f73a373fc6cd164a7f89c718f6ba&t=l&u=554799351014%40c.us&i=1563843274

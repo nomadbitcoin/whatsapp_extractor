@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9257-6578
+name: Camila Fit
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F62266075_445078832998687_2937613276613181440_n.jpg%3Foe%3D5DF28C3B%26oh%3D62325e5d7730fa84d741449c9341ada3&t=l&u=554792576578%40c.us&i=1563158172

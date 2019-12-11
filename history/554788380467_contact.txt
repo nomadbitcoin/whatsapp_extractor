@@ -1,0 +1,12 @@
+saved: True
+phone: +55 47 8838-0467
+name: Marcia ?
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71169658_614741622608050_7037582964813426267_n.jpg%3Foe%3D5DF2C4FB%26oh%3Db2342601871bdef6401d26ef05c489d2&t=l&u=554788380467%40c.us&i=1575910867
+phone: +55 47 8838-0467
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71169658_614741622608050_7037582964813426267_n.jpg%3Foe%3D5DF39AF3%26oh%3D96708687d6b882bf9b5121c744b3b6fe&t=l&u=554788380467%40c.us&i=1575910867
+caption: None
+business: False
+name: Marcia ?
+saved: True

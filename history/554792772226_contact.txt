@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9277-2226
+name: Thaline Ifood
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64397795_1570340183102196_4758585032505819136_n.jpg%3Foe%3D5DF29C3F%26oh%3D38fe89a23953f340d91d28ab2c7e7a51&t=l&u=554792772226%40c.us&i=1561996524

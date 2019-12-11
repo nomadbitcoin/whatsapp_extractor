@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56514015_1192451004262820_5577421028524556288_n.jpg%3Foe%3D5DF4C487%26oh%3D9b06da52e2c1aa6ebd468c6e5c408057&t=l&u=554799504774%40c.us&i=1555248639
+saved: True
+business: False
+caption: None
+phone: +55 47 9950-4774
+name: Bruno Prime

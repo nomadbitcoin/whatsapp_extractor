@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F60724994_659739414472484_2053227816140406784_n.jpg%3Foe%3D5DF4A561%26oh%3Da5be6f89a01cdb2bddf49abb9b97e9fa&t=l&u=554796198616%40c.us&i=1558396935
+saved: True
+business: False
+caption: None
+phone: +55 47 9619-8616
+name: Ludwing Brand Jerosch

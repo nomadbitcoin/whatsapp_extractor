@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9727-9680
+name: Kristine MP
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74618419_1012896962391779_6898058597553107908_n.jpg%3Foe%3D5DF2AABB%26oh%3D0c914ce6d307e9e8494c63994a6a32f6&t=l&u=554797279680%40c.us&i=1575144123

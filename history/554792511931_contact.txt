@@ -1,0 +1,6 @@
+phone: +55 47 9251-1931
+business: False
+name: MA Corretores Imobiliaria
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74947297_450004139033211_8192321012199310204_n.jpg%3Foe%3D5DF37756%26oh%3De29f4b8de208d3310fc5bc36bc64d73a&t=l&u=554792511931%40c.us&i=1575489290

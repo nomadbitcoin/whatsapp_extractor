@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9958-5802
+name: Helio Joaqim Mp
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F60717388_2420009321391884_1938743023324102656_n.jpg%3Foe%3D5DF2A707%26oh%3Dabc118413f2e4217b37dc2c578c62891&t=l&u=554799585802%40c.us&i=1566172063

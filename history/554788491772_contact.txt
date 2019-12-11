@@ -1,0 +1,12 @@
+phone: +55 47 8849-1772
+business: False
+name: Kely Duarte
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72900805_2484357255219978_5072136697809800614_n.jpg%3Foe%3D5DF30D22%26oh%3D5f9c238a766e96925277f33c6b4690ef&t=l&u=554788491772%40c.us&i=1575057619
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72900805_2484357255219978_5072136697809800614_n.jpg%3Foe%3D5DF45F8E%26oh%3D9e78d073f207feecc26d073cef5a9368&t=l&u=554788491772%40c.us&i=1575057619
+saved: True
+business: False
+caption: None
+phone: +55 47 8849-1772
+name: Kely Duarte

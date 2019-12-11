@@ -1,0 +1,6 @@
+saved: True
+phone: +55 54 9978-3841
+name: Vania Castracao
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56105960_654285885000551_2879092113822187520_n.jpg%3Foe%3D5DF2ADF6%26oh%3Ddbd9f5ed96a46dd052b405b2dde18ba7&t=l&u=555499783841%40c.us&i=1544734524

@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75226742_2659337757445243_5092471583098094187_n.jpg%3Foe%3D5DF4AB88%26oh%3Dca935eeefa63217fef800620bba656c1&t=l&u=554799326719%40c.us&i=1574090135
+saved: True
+business: False
+caption: None
+phone: +55 47 9932-6719
+name: B Jean Tatoo

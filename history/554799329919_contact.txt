@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9932-9919
+name: Emiliane Face
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69010190_256861451955113_8771389013903167458_n.jpg%3Foe%3D5DF28FB6%26oh%3D949c9c50f720bdedac519419aca10aaa&t=l&u=554799329919%40c.us&i=1575772797

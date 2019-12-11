@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9914-5716
+name: Juliana 254a
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55995621_432675550893322_2248520314096975872_n.jpg%3Foe%3D5DF27BC7%26oh%3D1cdbb772b23d111d956f7625f5ee825c&t=l&u=554799145716%40c.us&i=1522769165

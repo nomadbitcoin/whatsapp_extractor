@@ -1,0 +1,12 @@
+phone: +55 47 9947-4298
+business: False
+name: Jana Vitalli
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71529276_157144405514305_6388067112837259218_n.jpg%3Foe%3D5DF36CBE%26oh%3D99fadabf860cdc55693f156904aaa2a0&t=l&u=554799474298%40c.us&i=1575384594
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71529276_157144405514305_6388067112837259218_n.jpg%3Foe%3D5DF46A15%26oh%3D153ba1a3f98349318c0860193dea5623&t=l&u=554799474298%40c.us&i=1575384594
+saved: True
+business: False
+caption: None
+phone: +55 47 9947-4298
+name: Jana Vitalli

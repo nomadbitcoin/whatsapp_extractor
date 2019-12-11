@@ -1,0 +1,12 @@
+phone: +55 47 9990-0873
+business: False
+name: Lui Cris
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70885840_495390167998285_492992588733681553_n.jpg%3Foe%3D5DF3794E%26oh%3D61d4261280cb83faf591c5f4ee0b7992&t=l&u=554799900873%40c.us&i=1573671058
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70885840_495390167998285_492992588733681553_n.jpg%3Foe%3D5DF473D4%26oh%3D62a16fb6aff6f2a4857a55e81da4a1f1&t=l&u=554799900873%40c.us&i=1573671058
+saved: True
+business: False
+caption: None
+phone: +55 47 9990-0873
+name: Lui Cris

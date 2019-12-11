@@ -1,0 +1,6 @@
+phone: +55 47 8481-1014
+business: False
+name: Iana
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70657632_3091323997563149_7667642038529026423_n.jpg%3Foe%3D5DF37A6E%26oh%3D75cd46ed713b4edbdc59f930de3fd9dc&t=l&u=554784811014%40c.us&i=1575676044

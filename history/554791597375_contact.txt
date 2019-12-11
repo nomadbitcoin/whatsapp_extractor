@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56274058_427114661405020_2379387847347011584_n.jpg%3Foe%3D5DF48803%26oh%3Deaa0b65ec5c8f9f6fe5f67868cf723fb&t=l&u=554791597375%40c.us&i=1457987031
+saved: True
+business: False
+caption: None
+phone: +55 47 9159-7375
+name: Germino Mar

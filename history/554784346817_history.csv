@@ -1,0 +1,35 @@
+,date,status,content,time,type
+0,03/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,03/12/2019,received,Oi,16:42,text
+2,03/12/2019,viewed,Boa tarde,16:46,text
+3,03/12/2019,viewed,Como podemos ajudar vc?,16:47,text
+4,03/12/2019,received,Amanhã você manda o cardápio,17:18,text
+5,03/12/2019,viewed,Claro Apartir das 9hs vc já recebe,17:25,text
+6,03/12/2019,viewed,Qual seu nome pra adicionar aqui?,17:25,text
+7,03/12/2019,received,Jania,17:27,text
+8,04/12/2019,viewed,blob:https://web.whatsapp.com/213255a7-1ed7-410c-aaf2-8e90e9caad5a,09:30,image
+9,05/12/2019,viewed,blob:https://web.whatsapp.com/9fb1c1fc-cdf3-4767-96b1-145b6c668095,09:23,image
+10,06/12/2019,viewed,blob:https://web.whatsapp.com/0cede27d-c7d8-4725-b807-5a07a730b913,09:11,image
+11,06/12/2019,viewed,audio: blob:https://web.whatsapp.com/c94f0470-412e-44d5-96bd-b186681eb0cf,09:37,audio
+12,06/12/2019,viewed,Bom Dia,09:40,text
+13,06/12/2019,viewed,Onde fica?,09:40,text
+14,06/12/2019,viewed,Perequê?,09:40,text
+15,06/12/2019,viewed,Itapema?,09:40,text
+16,06/12/2019,viewed,Tem como nos mandar a localização por favor,09:41,text
+17,06/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.162694931030273%2C+-48.581512451171875&signature=tnIeQWa0An683xH_Ud9gc4FV5S8=,09:41,image
+18,06/12/2019,viewed,Ok porém 11:30 tá recém saindo da cozinha os pedidos,09:42,text
+19,06/12/2019,viewed,Nossas entregas são de bike,09:42,text
+20,06/12/2019,viewed,Consigo chegar aí por volta 11:45,09:43,text
+21,06/12/2019,viewed,Pode ser?,09:43,text
+22,06/12/2019,received,Ok,09:43,text
+23,06/12/2019,viewed,Certo,09:43,text
+24,06/12/2019,viewed,Confirmando o endereço...,09:43,text
+25,06/12/2019,viewed,Rua José neli Cruz 174?,09:44,text
+26,06/12/2019,received,Sim,09:44,text
+27,06/12/2019,viewed,Ok combinado então,09:44,text
+28,06/12/2019,viewed,Reservado 2 almoços pra vc,09:44,text
+29,06/12/2019,viewed,Obrigada,09:44,text
+30,06/12/2019,viewed,audio: blob:https://web.whatsapp.com/cdafad30-3645-4636-8639-a7a3249504ec,11:38,audio
+31,06/12/2019,received,https://web.whatsapp.com/img/4742377b4ae743abd4f117e58c6c829b_w_741-40.png,12:03,image
+32,06/12/2019,viewed,"Bom Dia ,informamos que os pedidos de hoje ja estão encerrados.Agradecemos muito a preferência e o sucesso de sempre!||#NaBike|#ComidaInteligente|12:03",12:03,automatic
+33,09/12/2019,viewed,blob:https://web.whatsapp.com/1cb26654-0871-419e-9189-6aa69c0031cc,10:39,image

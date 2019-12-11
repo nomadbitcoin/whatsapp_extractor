@@ -1,0 +1,6 @@
+saved: True
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F65061575_2424091544296877_3731715947543658496_n.jpg%3Foe%3D5DF5079B%26oh%3D8737c1fae9a19aaa4a1c82ae7450c4ff&t=l&u=554797050525%40c.us&i=1564187500
+name: Rodrigo Vip
+phone: +55 47 9705-0525

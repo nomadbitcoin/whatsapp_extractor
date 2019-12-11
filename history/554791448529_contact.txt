@@ -1,0 +1,6 @@
+saved: True
+phone: +55 47 9144-8529
+name: Marco Antonio Bork
+caption: None
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64392802_345828296351283_5612826114687762432_n.jpg%3Foe%3D5DF2C978%26oh%3D47d4e1d32657d6284b26e366ee0e8a6c&t=l&u=554791448529%40c.us&i=1562959618

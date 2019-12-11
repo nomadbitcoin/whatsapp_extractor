@@ -1,0 +1,577 @@
+2019/12/11-10:58:45.987 4578 Reusing MANIFEST /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-002144
+2019/12/11-10:58:45.987 4578 Recovering log #2158
+2019/12/11-10:58:46.039 4578 Reusing old log /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002158.log 
+2019/12/11-10:59:12.918 466b Level-0 table #2165: started
+2019/12/11-10:59:13.044 466b Level-0 table #2165: 1201290 bytes OK
+2019/12/11-10:59:13.108 466b Delete type=0 #2158
+2019/12/11-10:59:13.924 466b Compacting 1@0 + 2@1 files
+2019/12/11-10:59:14.039 466b Generated table #2166@0: 22986 keys, 435810 bytes
+2019/12/11-10:59:14.096 466b Generated table #2167@0: 38 keys, 369572 bytes
+2019/12/11-10:59:14.140 466b Generated table #2168@0: 20 keys, 77512 bytes
+2019/12/11-10:59:14.140 466b Compacted 1@0 + 2@1 files => 882894 bytes
+2019/12/11-10:59:14.196 466b compacted to: files[ 0 3 20 0 0 0 0 ]
+2019/12/11-10:59:14.196 466b Delete type=2 #2165
+2019/12/11-10:59:14.196 466b Delete type=2 #2161
+2019/12/11-10:59:14.196 466b Delete type=2 #2151
+2019/12/11-10:59:14.930 466b Compacting 1@1 + 1@2 files
+2019/12/11-10:59:15.134 466b Generated table #2169@1: 47767 keys, 1959898 bytes
+2019/12/11-10:59:15.134 466b Compacted 1@1 + 1@2 files => 1959898 bytes
+2019/12/11-10:59:15.211 466b compacted to: files[ 0 2 20 0 0 0 0 ]
+2019/12/11-10:59:15.211 466b Delete type=2 #2166
+2019/12/11-10:59:15.211 466b Delete type=2 #2162
+2019/12/11-11:01:19.052 466b Level-0 table #2171: started
+2019/12/11-11:01:19.182 466b Level-0 table #2171: 1177673 bytes OK
+2019/12/11-11:01:19.238 466b Delete type=0 #2164
+2019/12/11-11:01:21.637 466b Compacting 1@0 + 1@1 files
+2019/12/11-11:01:21.761 466b Generated table #2172@0: 26079 keys, 500048 bytes
+2019/12/11-11:01:21.870 466b Generated table #2173@0: 46 keys, 419389 bytes
+2019/12/11-11:01:21.870 466b Compacted 1@0 + 1@1 files => 919437 bytes
+2019/12/11-11:01:21.940 466b compacted to: files[ 0 3 20 0 0 0 0 ]
+2019/12/11-11:01:21.940 466b Delete type=2 #2171
+2019/12/11-11:01:21.940 466b Delete type=2 #2167
+2019/12/11-11:01:23.351 466b Compacting 1@1 + 1@2 files
+2019/12/11-11:01:23.546 466b Generated table #2174@1: 53433 keys, 2164175 bytes
+2019/12/11-11:01:23.546 466b Compacted 1@1 + 1@2 files => 2164175 bytes
+2019/12/11-11:01:23.611 466b compacted to: files[ 0 2 20 0 0 0 0 ]
+2019/12/11-11:01:23.612 466b Delete type=2 #2169
+2019/12/11-11:01:23.612 466b Delete type=2 #2172
+2019/12/11-11:04:27.363 466b Level-0 table #2176: started
+2019/12/11-11:04:27.478 466b Level-0 table #2176: 1441049 bytes OK
+2019/12/11-11:04:27.545 466b Delete type=0 #2170
+2019/12/11-11:04:31.615 466b Compacting 1@0 + 1@1 files
+2019/12/11-11:04:31.746 466b Generated table #2177@0: 19174 keys, 376381 bytes
+2019/12/11-11:04:31.815 466b Generated table #2178@0: 61 keys, 680959 bytes
+2019/12/11-11:04:31.815 466b Compacted 1@0 + 1@1 files => 1057340 bytes
+2019/12/11-11:04:31.880 466b compacted to: files[ 0 3 20 0 0 0 0 ]
+2019/12/11-11:04:31.881 466b Delete type=2 #2173
+2019/12/11-11:04:31.881 466b Delete type=2 #2176
+2019/12/11-11:04:37.820 466b Compacting 1@1 + 1@2 files
+2019/12/11-11:04:38.063 466b Generated table #2179@1: 57641 keys, 2324682 bytes
+2019/12/11-11:04:38.063 466b Compacted 1@1 + 1@2 files => 2324682 bytes
+2019/12/11-11:04:38.129 466b compacted to: files[ 0 2 20 0 0 0 0 ]
+2019/12/11-11:04:38.129 466b Delete type=2 #2177
+2019/12/11-11:04:38.129 466b Delete type=2 #2174
+2019/12/11-11:09:51.414 466b Level-0 table #2181: started
+2019/12/11-11:09:51.524 466b Level-0 table #2181: 1334536 bytes OK
+2019/12/11-11:09:51.591 466b Delete type=0 #2175
+2019/12/11-11:09:54.860 466b Compacting 1@0 + 1@1 files
+2019/12/11-11:09:54.937 466b Generated table #2182@0: 19773 keys, 397914 bytes
+2019/12/11-11:09:55.006 466b Generated table #2183@0: 61 keys, 680959 bytes
+2019/12/11-11:09:55.061 466b Generated table #2184@0: 24 keys, 175421 bytes
+2019/12/11-11:09:55.061 466b Compacted 1@0 + 1@1 files => 1254294 bytes
+2019/12/11-11:09:55.130 466b compacted to: files[ 0 4 20 0 0 0 0 ]
+2019/12/11-11:09:55.130 466b Delete type=2 #2178
+2019/12/11-11:09:55.130 466b Delete type=2 #2181
+2019/12/11-11:09:57.552 466b Compacting 1@1 + 4@2 files
+2019/12/11-11:09:57.733 466b Generated table #2185@1: 61947 keys, 2301323 bytes
+2019/12/11-11:09:57.918 466b Generated table #2186@1: 324 keys, 3407197 bytes
+2019/12/11-11:09:58.119 466b Generated table #2187@1: 287 keys, 3467802 bytes
+2019/12/11-11:09:58.297 466b Generated table #2188@1: 311 keys, 3405161 bytes
+2019/12/11-11:09:58.346 466b Generated table #2189@1: 15 keys, 194084 bytes
+2019/12/11-11:09:58.346 466b Compacted 1@1 + 4@2 files => 12775567 bytes
+2019/12/11-11:09:58.413 466b compacted to: files[ 0 3 21 0 0 0 0 ]
+2019/12/11-11:09:58.413 466b Delete type=2 #2179
+2019/12/11-11:09:58.414 466b Delete type=2 #2140
+2019/12/11-11:09:58.414 466b Delete type=2 #2182
+2019/12/11-11:09:58.415 466b Delete type=2 #2141
+2019/12/11-11:09:58.415 466b Delete type=2 #2139
+2019/12/11-11:16:12.053 466b Level-0 table #2191: started
+2019/12/11-11:16:12.174 466b Level-0 table #2191: 1381506 bytes OK
+2019/12/11-11:16:12.241 466b Delete type=0 #2180
+2019/12/11-11:16:14.530 466b Compacting 1@0 + 0@1 files
+2019/12/11-11:16:14.654 466b Generated table #2192@0: 19536 keys, 579304 bytes
+2019/12/11-11:16:14.699 466b Generated table #2193@0: 7 keys, 22422 bytes
+2019/12/11-11:16:14.699 466b Compacted 1@0 + 0@1 files => 601726 bytes
+2019/12/11-11:16:14.766 466b compacted to: files[ 0 5 21 0 0 0 0 ]
+2019/12/11-11:16:14.766 466b Delete type=2 #2191
+2019/12/11-11:16:17.665 466b Compacting 1@1 + 4@2 files
+2019/12/11-11:16:18.029 466b Generated table #2194@1: 64040 keys, 2241601 bytes
+2019/12/11-11:16:18.243 466b Generated table #2195@1: 2409 keys, 3364605 bytes
+2019/12/11-11:16:18.460 466b Generated table #2196@1: 290 keys, 3475654 bytes
+2019/12/11-11:16:18.684 466b Generated table #2197@1: 305 keys, 3437363 bytes
+2019/12/11-11:16:18.770 466b Generated table #2198@1: 54 keys, 423206 bytes
+2019/12/11-11:16:18.770 466b Compacted 1@1 + 4@2 files => 12942429 bytes
+2019/12/11-11:16:18.871 466b compacted to: files[ 0 4 22 0 0 0 0 ]
+2019/12/11-11:16:18.872 466b Delete type=2 #2187
+2019/12/11-11:16:18.873 466b Delete type=2 #2186
+2019/12/11-11:16:18.873 466b Delete type=2 #2188
+2019/12/11-11:16:18.873 466b Delete type=2 #2185
+2019/12/11-11:16:18.873 466b Delete type=2 #2192
+2019/12/11-11:21:22.606 466b Level-0 table #2200: started
+2019/12/11-11:21:22.835 466b Level-0 table #2200: 1388047 bytes OK
+2019/12/11-11:21:22.916 466b Delete type=0 #2190
+2019/12/11-11:21:26.720 466b Compacting 1@0 + 1@1 files
+2019/12/11-11:21:26.843 466b Generated table #2201@0: 19539 keys, 404726 bytes
+2019/12/11-11:21:26.899 466b Generated table #2202@0: 31 keys, 220391 bytes
+2019/12/11-11:21:26.899 466b Compacted 1@0 + 1@1 files => 625117 bytes
+2019/12/11-11:21:26.966 466b compacted to: files[ 0 5 22 0 0 0 0 ]
+2019/12/11-11:21:26.966 466b Delete type=2 #2193
+2019/12/11-11:21:26.966 466b Delete type=2 #2200
+2019/12/11-11:21:31.353 466b Compacting 1@1 + 2@2 files
+2019/12/11-11:21:31.537 466b Generated table #2203@1: 60711 keys, 2239106 bytes
+2019/12/11-11:21:31.699 466b Generated table #2204@1: 9944 keys, 3297557 bytes
+2019/12/11-11:21:31.749 466b Generated table #2205@1: 30 keys, 250835 bytes
+2019/12/11-11:21:31.749 466b Compacted 1@1 + 2@2 files => 5787498 bytes
+2019/12/11-11:21:31.816 466b compacted to: files[ 0 4 23 0 0 0 0 ]
+2019/12/11-11:21:31.816 466b Delete type=2 #2194
+2019/12/11-11:21:31.817 466b Delete type=2 #2195
+2019/12/11-11:21:31.817 466b Delete type=2 #2201
+2019/12/11-11:26:25.339 466b Level-0 table #2207: started
+2019/12/11-11:26:25.452 466b Level-0 table #2207: 1336127 bytes OK
+2019/12/11-11:26:25.519 466b Delete type=0 #2199
+2019/12/11-11:26:40.154 466b Compacting 1@0 + 2@1 files
+2019/12/11-11:26:40.271 466b Generated table #2208@0: 19551 keys, 389968 bytes
+2019/12/11-11:26:40.328 466b Generated table #2209@0: 79 keys, 660325 bytes
+2019/12/11-11:26:40.384 466b Generated table #2210@0: 36 keys, 432203 bytes
+2019/12/11-11:26:40.384 466b Compacted 1@0 + 2@1 files => 1482496 bytes
+2019/12/11-11:26:40.450 466b compacted to: files[ 0 5 23 0 0 0 0 ]
+2019/12/11-11:26:40.450 466b Delete type=2 #2202
+2019/12/11-11:26:40.450 466b Delete type=2 #2183
+2019/12/11-11:26:40.450 466b Delete type=2 #2207
+2019/12/11-11:26:43.229 466b Compacting 1@1 + 2@2 files
+2019/12/11-11:26:43.378 466b Generated table #2211@1: 58475 keys, 2239652 bytes
+2019/12/11-11:26:43.562 466b Generated table #2212@1: 16417 keys, 3157978 bytes
+2019/12/11-11:26:43.624 466b Generated table #2213@1: 7 keys, 293609 bytes
+2019/12/11-11:26:43.624 466b Compacted 1@1 + 2@2 files => 5691239 bytes
+2019/12/11-11:26:43.690 466b compacted to: files[ 0 4 24 0 0 0 0 ]
+2019/12/11-11:26:43.691 466b Delete type=2 #2204
+2019/12/11-11:26:43.691 466b Delete type=2 #2203
+2019/12/11-11:26:43.691 466b Delete type=2 #2208
+2019/12/11-11:32:20.023 466b Level-0 table #2215: started
+2019/12/11-11:32:20.154 466b Level-0 table #2215: 1319832 bytes OK
+2019/12/11-11:32:20.222 466b Delete type=0 #2206
+2019/12/11-11:32:25.020 466b Compacting 1@0 + 2@1 files
+2019/12/11-11:32:25.114 466b Generated table #2216@0: 18126 keys, 371631 bytes
+2019/12/11-11:32:25.195 466b Generated table #2217@0: 94 keys, 823714 bytes
+2019/12/11-11:32:25.250 466b Generated table #2218@0: 45 keys, 466868 bytes
+2019/12/11-11:32:25.250 466b Compacted 1@0 + 2@1 files => 1662213 bytes
+2019/12/11-11:32:25.316 466b compacted to: files[ 0 5 24 0 0 0 0 ]
+2019/12/11-11:32:25.316 466b Delete type=2 #2209
+2019/12/11-11:32:25.316 466b Delete type=2 #2210
+2019/12/11-11:32:25.316 466b Delete type=2 #2215
+2019/12/11-11:32:30.165 466b Compacting 1@1 + 2@2 files
+2019/12/11-11:32:30.341 466b Generated table #2219@1: 56106 keys, 2239715 bytes
+2019/12/11-11:32:30.513 466b Generated table #2220@1: 22724 keys, 3023214 bytes
+2019/12/11-11:32:30.576 466b Generated table #2221@1: 7 keys, 289974 bytes
+2019/12/11-11:32:30.576 466b Compacted 1@1 + 2@2 files => 5552903 bytes
+2019/12/11-11:32:30.653 466b compacted to: files[ 0 4 25 0 0 0 0 ]
+2019/12/11-11:32:30.653 466b Delete type=2 #2212
+2019/12/11-11:32:30.654 466b Delete type=2 #2211
+2019/12/11-11:32:30.654 466b Delete type=2 #2216
+2019/12/11-11:41:05.160 466b Level-0 table #2223: started
+2019/12/11-11:41:05.356 466b Level-0 table #2223: 1285159 bytes OK
+2019/12/11-11:41:05.423 466b Delete type=0 #2214
+2019/12/11-11:41:09.626 466b Compacting 1@0 + 2@1 files
+2019/12/11-11:41:09.748 466b Generated table #2224@0: 16349 keys, 399607 bytes
+2019/12/11-11:41:09.828 466b Generated table #2225@0: 97 keys, 836376 bytes
+2019/12/11-11:41:09.894 466b Generated table #2226@0: 54 keys, 568206 bytes
+2019/12/11-11:41:09.894 466b Compacted 1@0 + 2@1 files => 1804189 bytes
+2019/12/11-11:41:09.960 466b compacted to: files[ 0 5 25 0 0 0 0 ]
+2019/12/11-11:41:09.960 466b Delete type=2 #2217
+2019/12/11-11:41:09.960 466b Delete type=2 #2223
+2019/12/11-11:41:09.960 466b Delete type=2 #2218
+2019/12/11-11:41:18.527 466b Compacting 1@1 + 8@2 files
+2019/12/11-11:41:18.710 466b Generated table #2227@1: 53987 keys, 2239951 bytes
+2019/12/11-11:41:18.893 466b Generated table #2228@1: 28544 keys, 2912254 bytes
+2019/12/11-11:41:19.135 466b Generated table #2229@1: 274 keys, 3562501 bytes
+2019/12/11-11:41:19.356 466b Generated table #2230@1: 316 keys, 3347049 bytes
+2019/12/11-11:41:19.496 466b Generated table #2231@1: 125 keys, 1602118 bytes
+2019/12/11-11:41:19.496 466b Compacted 1@1 + 8@2 files => 13663873 bytes
+2019/12/11-11:41:19.559 466b compacted to: files[ 0 4 22 0 0 0 0 ]
+2019/12/11-11:41:19.560 466b Delete type=2 #2196
+2019/12/11-11:41:19.560 466b Delete type=2 #2197
+2019/12/11-11:41:19.561 466b Delete type=2 #2220
+2019/12/11-11:41:19.561 466b Delete type=2 #2198
+2019/12/11-11:41:19.561 466b Delete type=2 #2221
+2019/12/11-11:41:19.561 466b Delete type=2 #2219
+2019/12/11-11:41:19.561 466b Delete type=2 #2205
+2019/12/11-11:41:19.561 466b Delete type=2 #2213
+2019/12/11-11:41:19.561 466b Delete type=2 #2224
+2019/12/11-12:17:40.106 466b Level-0 table #2233: started
+2019/12/11-12:17:40.279 466b Level-0 table #2233: 1109338 bytes OK
+2019/12/11-12:17:40.344 466b Delete type=0 #2222
+2019/12/11-12:17:46.222 466b Compacting 1@0 + 1@1 files
+2019/12/11-12:17:46.294 466b Generated table #2234@0: 19341 keys, 282547 bytes
+2019/12/11-12:17:46.385 466b Generated table #2235@0: 110 keys, 898810 bytes
+2019/12/11-12:17:46.385 466b Compacted 1@0 + 1@1 files => 1181357 bytes
+2019/12/11-12:17:46.472 466b compacted to: files[ 0 5 22 0 0 0 0 ]
+2019/12/11-12:17:46.473 466b Delete type=2 #2225
+2019/12/11-12:17:46.473 466b Delete type=2 #2233
+2019/12/11-12:17:53.634 466b Compacting 1@1 + 2@2 files
+2019/12/11-12:17:53.877 466b Generated table #2236@1: 52447 keys, 2239226 bytes
+2019/12/11-12:17:54.093 466b Generated table #2237@1: 35076 keys, 2842495 bytes
+2019/12/11-12:17:54.145 466b Generated table #2238@1: 22 keys, 222104 bytes
+2019/12/11-12:17:54.145 466b Compacted 1@1 + 2@2 files => 5303825 bytes
+2019/12/11-12:17:54.200 466b compacted to: files[ 0 4 23 0 0 0 0 ]
+2019/12/11-12:17:54.200 466b Delete type=2 #2228
+2019/12/11-12:17:54.200 466b Delete type=2 #2234
+2019/12/11-12:17:54.200 466b Delete type=2 #2227
+2019/12/11-12:27:01.047 466b Level-0 table #2240: started
+2019/12/11-12:27:01.192 466b Level-0 table #2240: 1289547 bytes OK
+2019/12/11-12:27:01.299 466b Delete type=0 #2232
+2019/12/11-12:27:06.357 466b Compacting 1@0 + 1@1 files
+2019/12/11-12:27:06.457 466b Generated table #2241@0: 14491 keys, 242180 bytes
+2019/12/11-12:27:06.549 466b Generated table #2242@0: 143 keys, 1086615 bytes
+2019/12/11-12:27:06.549 466b Compacted 1@0 + 1@1 files => 1328795 bytes
+2019/12/11-12:27:06.603 466b compacted to: files[ 0 5 23 0 0 0 0 ]
+2019/12/11-12:27:06.603 466b Delete type=2 #2235
+2019/12/11-12:27:06.603 466b Delete type=2 #2240
+2019/12/11-12:27:18.904 466b Compacting 1@1 + 2@2 files
+2019/12/11-12:27:19.135 466b Generated table #2243@1: 50465 keys, 2238051 bytes
+2019/12/11-12:27:19.351 466b Generated table #2244@1: 40893 keys, 2785766 bytes
+2019/12/11-12:27:19.414 466b Generated table #2245@1: 31 keys, 208121 bytes
+2019/12/11-12:27:19.414 466b Compacted 1@1 + 2@2 files => 5231938 bytes
+2019/12/11-12:27:19.480 466b compacted to: files[ 0 4 24 0 0 0 0 ]
+2019/12/11-12:27:19.481 466b Delete type=2 #2237
+2019/12/11-12:27:19.481 466b Delete type=2 #2241
+2019/12/11-12:27:19.481 466b Delete type=2 #2236
+2019/12/11-12:35:20.567 466b Level-0 table #2247: started
+2019/12/11-12:35:20.694 466b Level-0 table #2247: 1303587 bytes OK
+2019/12/11-12:35:20.787 466b Delete type=0 #2239
+2019/12/11-12:35:32.661 466b Compacting 1@0 + 3@1 files
+2019/12/11-12:35:32.737 466b Generated table #2248@0: 12469 keys, 214488 bytes
+2019/12/11-12:35:32.829 466b Generated table #2249@0: 151 keys, 1174464 bytes
+2019/12/11-12:35:32.945 466b Generated table #2250@0: 96 keys, 883290 bytes
+2019/12/11-12:35:32.945 466b Compacted 1@0 + 3@1 files => 2272242 bytes
+2019/12/11-12:35:33.038 466b compacted to: files[ 0 4 24 0 0 0 0 ]
+2019/12/11-12:35:33.039 466b Delete type=2 #2184
+2019/12/11-12:35:33.039 466b Delete type=2 #2247
+2019/12/11-12:35:33.039 466b Delete type=2 #2242
+2019/12/11-12:35:33.039 466b Delete type=2 #2226
+2019/12/11-12:35:47.931 466b Compacting 1@1 + 9@2 files
+2019/12/11-12:35:48.125 466b Generated table #2251@1: 50053 keys, 2237571 bytes
+2019/12/11-12:35:48.286 466b Generated table #2252@1: 44686 keys, 2749188 bytes
+2019/12/11-12:35:48.480 466b Generated table #2253@1: 317 keys, 3423326 bytes
+2019/12/11-12:35:48.692 466b Generated table #2254@1: 278 keys, 3484011 bytes
+2019/12/11-12:35:48.935 466b Generated table #2255@1: 290 keys, 3515914 bytes
+2019/12/11-12:35:49.122 466b Generated table #2256@1: 215 keys, 2414959 bytes
+2019/12/11-12:35:49.123 466b Compacted 1@1 + 9@2 files => 17824969 bytes
+2019/12/11-12:35:49.183 466b compacted to: files[ 0 3 21 0 0 0 0 ]
+2019/12/11-12:35:49.184 466b Delete type=2 #2248
+2019/12/11-12:35:49.184 466b Delete type=2 #2229
+2019/12/11-12:35:49.184 466b Delete type=2 #2238
+2019/12/11-12:35:49.184 466b Delete type=2 #2189
+2019/12/11-12:35:49.184 466b Delete type=2 #2243
+2019/12/11-12:35:49.185 466b Delete type=2 #2230
+2019/12/11-12:35:49.185 466b Delete type=2 #2244
+2019/12/11-12:35:49.185 466b Delete type=2 #2231
+2019/12/11-12:35:49.186 466b Delete type=2 #2142
+2019/12/11-12:35:49.186 466b Delete type=2 #2245
+2019/12/11-12:49:05.162 466b Level-0 table #2258: started
+2019/12/11-12:49:05.256 466b Level-0 table #2258: 1303964 bytes OK
+2019/12/11-12:49:05.323 466b Delete type=0 #2246
+2019/12/11-12:49:18.182 466b Compacting 1@0 + 1@1 files
+2019/12/11-12:49:18.251 466b Generated table #2259@0: 13299 keys, 342735 bytes
+2019/12/11-12:49:18.354 466b Generated table #2260@0: 166 keys, 1268679 bytes
+2019/12/11-12:49:18.354 466b Compacted 1@0 + 1@1 files => 1611414 bytes
+2019/12/11-12:49:18.418 466b compacted to: files[ 0 4 21 0 0 0 0 ]
+2019/12/11-12:49:18.419 466b Delete type=2 #2249
+2019/12/11-12:49:18.419 466b Delete type=2 #2258
+2019/12/11-12:49:34.120 466b Compacting 1@1 + 8@2 files
+2019/12/11-12:49:34.381 466b Generated table #2261@1: 49857 keys, 2236924 bytes
+2019/12/11-12:49:34.596 466b Generated table #2262@1: 48488 keys, 2697261 bytes
+2019/12/11-12:49:34.780 466b Generated table #2263@1: 329 keys, 3402296 bytes
+2019/12/11-12:49:34.982 466b Generated table #2264@1: 279 keys, 3486834 bytes
+2019/12/11-12:49:35.180 466b Generated table #2265@1: 284 keys, 3521728 bytes
+2019/12/11-12:49:35.429 466b Generated table #2266@1: 270 keys, 3605421 bytes
+2019/12/11-12:49:35.641 466b Generated table #2267@1: 250 keys, 3415589 bytes
+2019/12/11-12:49:35.641 466b Compacted 1@1 + 8@2 files => 22366053 bytes
+2019/12/11-12:49:35.717 466b compacted to: files[ 0 3 20 0 0 0 0 ]
+2019/12/11-12:49:35.718 466b Delete type=2 #2252
+2019/12/11-12:49:35.718 466b Delete type=2 #2259
+2019/12/11-12:49:35.718 466b Delete type=2 #2251
+2019/12/11-12:49:35.719 466b Delete type=2 #2255
+2019/12/11-12:49:35.720 466b Delete type=2 #2256
+2019/12/11-12:49:35.720 466b Delete type=2 #2253
+2019/12/11-12:49:35.721 466b Delete type=2 #2254
+2019/12/11-12:49:35.721 466b Delete type=2 #2143
+2019/12/11-12:49:35.722 466b Delete type=2 #2046
+2019/12/11-12:57:12.807 466b Level-0 table #2269: started
+2019/12/11-12:57:12.933 466b Level-0 table #2269: 1298111 bytes OK
+2019/12/11-12:57:13.000 466b Delete type=0 #2257
+2019/12/11-12:57:22.796 466b Compacting 1@0 + 2@1 files
+2019/12/11-12:57:22.871 466b Generated table #2270@0: 11852 keys, 203037 bytes
+2019/12/11-12:57:23.009 466b Generated table #2271@0: 170 keys, 1328788 bytes
+2019/12/11-12:57:23.097 466b Generated table #2272@0: 121 keys, 1078264 bytes
+2019/12/11-12:57:23.097 466b Compacted 1@0 + 2@1 files => 2610089 bytes
+2019/12/11-12:57:23.161 466b compacted to: files[ 0 4 20 0 0 0 0 ]
+2019/12/11-12:57:23.162 466b Delete type=2 #2250
+2019/12/11-12:57:23.162 466b Delete type=2 #2260
+2019/12/11-12:57:23.162 466b Delete type=2 #2269
+2019/12/11-12:57:35.564 466b Compacting 1@1 + 2@2 files
+2019/12/11-12:57:35.799 466b Generated table #2273@1: 49726 keys, 2236684 bytes
+2019/12/11-12:57:35.991 466b Generated table #2274@1: 51785 keys, 2645579 bytes
+2019/12/11-12:57:36.044 466b Generated table #2275@1: 25 keys, 172570 bytes
+2019/12/11-12:57:36.044 466b Compacted 1@1 + 2@2 files => 5054833 bytes
+2019/12/11-12:57:36.100 466b compacted to: files[ 0 3 21 0 0 0 0 ]
+2019/12/11-12:57:36.100 466b Delete type=2 #2262
+2019/12/11-12:57:36.100 466b Delete type=2 #2261
+2019/12/11-12:57:36.100 466b Delete type=2 #2270
+2019/12/11-13:04:58.594 466b Level-0 table #2277: started
+2019/12/11-13:04:58.703 466b Level-0 table #2277: 1282167 bytes OK
+2019/12/11-13:04:58.772 466b Delete type=0 #2268
+2019/12/11-13:05:13.291 466b Compacting 1@0 + 2@1 files
+2019/12/11-13:05:13.374 466b Generated table #2278@0: 10605 keys, 315633 bytes
+2019/12/11-13:05:13.479 466b Generated table #2279@0: 170 keys, 1328788 bytes
+2019/12/11-13:05:13.580 466b Generated table #2280@0: 133 keys, 1233403 bytes
+2019/12/11-13:05:13.580 466b Compacted 1@0 + 2@1 files => 2877824 bytes
+2019/12/11-13:05:13.643 466b compacted to: files[ 0 4 21 0 0 0 0 ]
+2019/12/11-13:05:13.644 466b Delete type=2 #2277
+2019/12/11-13:05:13.644 466b Delete type=2 #2271
+2019/12/11-13:05:13.645 466b Delete type=2 #2272
+2019/12/11-13:05:29.952 466b Compacting 1@1 + 6@2 files
+2019/12/11-13:05:30.137 466b Generated table #2281@1: 49590 keys, 2236584 bytes
+2019/12/11-13:05:30.296 466b Generated table #2282@1: 54782 keys, 2595444 bytes
+2019/12/11-13:05:30.515 466b Generated table #2283@1: 330 keys, 3394729 bytes
+2019/12/11-13:05:30.738 466b Generated table #2284@1: 289 keys, 3469499 bytes
+2019/12/11-13:05:30.958 466b Generated table #2285@1: 286 keys, 3494321 bytes
+2019/12/11-13:05:31.029 466b Generated table #2286@1: 48 keys, 479444 bytes
+2019/12/11-13:05:31.029 466b Compacted 1@1 + 6@2 files => 15670021 bytes
+2019/12/11-13:05:31.097 466b compacted to: files[ 0 3 21 0 0 0 0 ]
+2019/12/11-13:05:31.098 466b Delete type=2 #2265
+2019/12/11-13:05:31.098 466b Delete type=2 #2275
+2019/12/11-13:05:31.098 466b Delete type=2 #2274
+2019/12/11-13:05:31.099 466b Delete type=2 #2264
+2019/12/11-13:05:31.099 466b Delete type=2 #2263
+2019/12/11-13:05:31.099 466b Delete type=2 #2273
+2019/12/11-13:05:31.099 466b Delete type=2 #2278
+2019/12/11-13:15:20.220 466b Level-0 table #2288: started
+2019/12/11-13:15:20.355 466b Level-0 table #2288: 1324824 bytes OK
+2019/12/11-13:15:20.456 466b Delete type=0 #2276
+2019/12/11-13:15:48.306 466b Compacting 1@0 + 1@1 files
+2019/12/11-13:15:48.400 466b Generated table #2289@0: 11013 keys, 214631 bytes
+2019/12/11-13:15:48.528 466b Generated table #2290@0: 207 keys, 1569363 bytes
+2019/12/11-13:15:48.528 466b Compacted 1@0 + 1@1 files => 1783994 bytes
+2019/12/11-13:15:48.621 466b compacted to: files[ 0 4 21 0 0 0 0 ]
+2019/12/11-13:15:48.622 466b Delete type=2 #2279
+2019/12/11-13:15:48.622 466b Delete type=2 #2288
+2019/12/11-13:15:55.435 466b Compacting 1@1 + 5@2 files
+2019/12/11-13:15:55.729 466b Generated table #2291@1: 49846 keys, 2236892 bytes
+2019/12/11-13:15:55.906 466b Generated table #2292@1: 57494 keys, 2553151 bytes
+2019/12/11-13:15:56.112 466b Generated table #2293@1: 323 keys, 3403412 bytes
+2019/12/11-13:15:56.316 466b Generated table #2294@1: 291 keys, 3463758 bytes
+2019/12/11-13:15:56.549 466b Generated table #2295@1: 296 keys, 3454839 bytes
+2019/12/11-13:15:56.606 466b Generated table #2296@1: 6 keys, 204010 bytes
+2019/12/11-13:15:56.607 466b Compacted 1@1 + 5@2 files => 15316062 bytes
+2019/12/11-13:15:56.706 466b compacted to: files[ 0 3 22 0 0 0 0 ]
+2019/12/11-13:15:56.707 466b Delete type=2 #2283
+2019/12/11-13:15:56.708 466b Delete type=2 #2282
+2019/12/11-13:15:56.708 466b Delete type=2 #2285
+2019/12/11-13:15:56.708 466b Delete type=2 #2281
+2019/12/11-13:15:56.708 466b Delete type=2 #2289
+2019/12/11-13:15:56.709 466b Delete type=2 #2284
+2019/12/11-13:22:42.856 466b Level-0 table #2298: started
+2019/12/11-13:22:43.022 466b Level-0 table #2298: 1306218 bytes OK
+2019/12/11-13:22:43.133 466b Delete type=0 #2287
+2019/12/11-13:22:56.124 466b Compacting 1@0 + 2@1 files
+2019/12/11-13:22:56.238 466b Generated table #2299@0: 11040 keys, 187224 bytes
+2019/12/11-13:22:56.386 466b Generated table #2300@0: 231 keys, 1831463 bytes
+2019/12/11-13:22:56.532 466b Generated table #2301@0: 139 keys, 1247106 bytes
+2019/12/11-13:22:56.532 466b Compacted 1@0 + 2@1 files => 3265793 bytes
+2019/12/11-13:22:56.594 466b compacted to: files[ 0 4 22 0 0 0 0 ]
+2019/12/11-13:22:56.595 466b Delete type=2 #2298
+2019/12/11-13:22:56.595 466b Delete type=2 #2280
+2019/12/11-13:22:56.595 466b Delete type=2 #2290
+2019/12/11-13:23:05.448 466b Compacting 1@1 + 2@2 files
+2019/12/11-13:23:05.698 466b Generated table #2302@1: 49750 keys, 2237443 bytes
+2019/12/11-13:23:05.867 466b Generated table #2303@1: 60577 keys, 2513109 bytes
+2019/12/11-13:23:05.910 466b Generated table #2304@1: 16 keys, 155228 bytes
+2019/12/11-13:23:05.910 466b Compacted 1@1 + 2@2 files => 4905780 bytes
+2019/12/11-13:23:05.977 466b compacted to: files[ 0 3 23 0 0 0 0 ]
+2019/12/11-13:23:05.977 466b Delete type=2 #2299
+2019/12/11-13:23:05.977 466b Delete type=2 #2291
+2019/12/11-13:23:05.977 466b Delete type=2 #2292
+2019/12/11-13:30:36.606 466b Level-0 table #2306: started
+2019/12/11-13:30:36.722 466b Level-0 table #2306: 1321027 bytes OK
+2019/12/11-13:30:36.789 466b Delete type=0 #2297
+2019/12/11-13:30:41.593 466b Compacting 1@0 + 2@1 files
+2019/12/11-13:30:41.692 466b Generated table #2307@0: 11658 keys, 312256 bytes
+2019/12/11-13:30:41.807 466b Generated table #2308@0: 231 keys, 1831463 bytes
+2019/12/11-13:30:41.907 466b Generated table #2309@0: 153 keys, 1387187 bytes
+2019/12/11-13:30:41.907 466b Compacted 1@0 + 2@1 files => 3530906 bytes
+2019/12/11-13:30:41.960 466b compacted to: files[ 0 4 23 0 0 0 0 ]
+2019/12/11-13:30:41.960 466b Delete type=2 #2301
+2019/12/11-13:30:41.960 466b Delete type=2 #2300
+2019/12/11-13:30:41.960 466b Delete type=2 #2306
+2019/12/11-13:30:44.518 466b Compacting 1@1 + 6@2 files
+2019/12/11-13:30:44.676 466b Generated table #2310@1: 49864 keys, 2236931 bytes
+2019/12/11-13:30:44.856 466b Generated table #2311@1: 63651 keys, 2468324 bytes
+2019/12/11-13:30:45.061 466b Generated table #2312@1: 327 keys, 3395771 bytes
+2019/12/11-13:30:45.455 466b Generated table #2313@1: 284 keys, 3470826 bytes
+2019/12/11-13:30:46.160 466b Generated table #2314@1: 320 keys, 3409165 bytes
+2019/12/11-13:30:46.302 466b Generated table #2315@1: 32 keys, 471842 bytes
+2019/12/11-13:30:46.302 466b Compacted 1@1 + 6@2 files => 15452859 bytes
+2019/12/11-13:30:46.368 466b compacted to: files[ 0 3 23 0 0 0 0 ]
+2019/12/11-13:30:46.368 466b Delete type=2 #2307
+2019/12/11-13:30:46.368 466b Delete type=2 #2302
+2019/12/11-13:30:46.369 466b Delete type=2 #2293
+2019/12/11-13:30:46.369 466b Delete type=2 #2294
+2019/12/11-13:30:46.370 466b Delete type=2 #2295
+2019/12/11-13:30:46.371 466b Delete type=2 #2303
+2019/12/11-13:30:46.371 466b Delete type=2 #2304
+2019/12/11-13:38:46.250 466b Level-0 table #2317: started
+2019/12/11-13:38:46.365 466b Level-0 table #2317: 1330105 bytes OK
+2019/12/11-13:38:46.432 466b Delete type=0 #2305
+2019/12/11-13:38:58.486 466b Compacting 1@0 + 1@1 files
+2019/12/11-13:38:58.577 466b Generated table #2318@0: 12952 keys, 337839 bytes
+2019/12/11-13:38:58.767 466b Generated table #2319@0: 250 keys, 1956439 bytes
+2019/12/11-13:38:58.767 466b Compacted 1@0 + 1@1 files => 2294278 bytes
+2019/12/11-13:38:58.817 466b compacted to: files[ 0 4 23 0 0 0 0 ]
+2019/12/11-13:38:58.817 466b Delete type=2 #2317
+2019/12/11-13:38:58.818 466b Delete type=2 #2308
+2019/12/11-13:39:21.050 466b Compacting 1@1 + 10@2 files
+2019/12/11-13:39:21.270 466b Generated table #2320@1: 49644 keys, 2235858 bytes
+2019/12/11-13:39:21.428 466b Generated table #2321@1: 67320 keys, 2402922 bytes
+2019/12/11-13:39:21.637 466b Generated table #2322@1: 324 keys, 3392064 bytes
+2019/12/11-13:39:21.881 466b Generated table #2323@1: 298 keys, 3472356 bytes
+2019/12/11-13:39:22.070 466b Generated table #2324@1: 310 keys, 3417641 bytes
+2019/12/11-13:39:22.328 466b Generated table #2325@1: 291 keys, 3530261 bytes
+2019/12/11-13:39:22.539 466b Generated table #2326@1: 274 keys, 3559526 bytes
+2019/12/11-13:39:22.623 466b Generated table #2327@1: 78 keys, 1403200 bytes
+2019/12/11-13:39:22.623 466b Compacted 1@1 + 10@2 files => 23413828 bytes
+2019/12/11-13:39:22.697 466b compacted to: files[ 0 3 21 0 0 0 0 ]
+2019/12/11-13:39:22.698 466b Delete type=2 #2313
+2019/12/11-13:39:22.698 466b Delete type=2 #2286
+2019/12/11-13:39:22.699 466b Delete type=2 #2314
+2019/12/11-13:39:22.699 466b Delete type=2 #2310
+2019/12/11-13:39:22.699 466b Delete type=2 #2315
+2019/12/11-13:39:22.699 466b Delete type=2 #2267
+2019/12/11-13:39:22.700 466b Delete type=2 #2266
+2019/12/11-13:39:22.700 466b Delete type=2 #2318
+2019/12/11-13:39:22.700 466b Delete type=2 #2312
+2019/12/11-13:39:22.700 466b Delete type=2 #2311
+2019/12/11-13:39:22.700 466b Delete type=2 #2296
+2019/12/11-13:47:10.960 466b Level-0 table #2329: started
+2019/12/11-13:47:11.100 466b Level-0 table #2329: 1311011 bytes OK
+2019/12/11-13:47:11.201 466b Delete type=0 #2316
+2019/12/11-13:47:28.433 466b Compacting 1@0 + 2@1 files
+2019/12/11-13:47:28.505 466b Generated table #2330@0: 11471 keys, 188275 bytes
+2019/12/11-13:47:28.701 466b Generated table #2331@0: 233 keys, 1871449 bytes
+2019/12/11-13:47:28.813 466b Generated table #2332@0: 201 keys, 1733810 bytes
+2019/12/11-13:47:28.813 466b Compacted 1@0 + 2@1 files => 3793534 bytes
+2019/12/11-13:47:28.880 466b compacted to: files[ 0 4 21 0 0 0 0 ]
+2019/12/11-13:47:28.881 466b Delete type=2 #2309
+2019/12/11-13:47:28.881 466b Delete type=2 #2319
+2019/12/11-13:47:28.881 466b Delete type=2 #2329
+2019/12/11-13:47:51.792 466b Compacting 1@1 + 2@2 files
+2019/12/11-13:47:52.037 466b Generated table #2333@1: 49847 keys, 2236700 bytes
+2019/12/11-13:47:52.240 466b Generated table #2334@1: 70216 keys, 2359222 bytes
+2019/12/11-13:47:52.312 466b Generated table #2335@1: 13 keys, 139688 bytes
+2019/12/11-13:47:52.312 466b Compacted 1@1 + 2@2 files => 4735610 bytes
+2019/12/11-13:47:52.383 466b compacted to: files[ 0 3 22 0 0 0 0 ]
+2019/12/11-13:47:52.383 466b Delete type=2 #2320
+2019/12/11-13:47:52.383 466b Delete type=2 #2330
+2019/12/11-13:47:52.383 466b Delete type=2 #2321
+2019/12/11-13:56:06.306 466b Level-0 table #2337: started
+2019/12/11-13:56:06.418 466b Level-0 table #2337: 1358715 bytes OK
+2019/12/11-13:56:06.529 466b Delete type=0 #2328
+2019/12/11-13:56:18.168 466b Compacting 1@0 + 2@1 files
+2019/12/11-13:56:18.245 466b Generated table #2338@0: 11605 keys, 352908 bytes
+2019/12/11-13:56:18.460 466b Generated table #2339@0: 233 keys, 1871449 bytes
+2019/12/11-13:56:18.589 466b Generated table #2340@0: 216 keys, 1853016 bytes
+2019/12/11-13:56:18.589 466b Compacted 1@0 + 2@1 files => 4077373 bytes
+2019/12/11-13:56:18.648 466b compacted to: files[ 0 4 22 0 0 0 0 ]
+2019/12/11-13:56:18.648 466b Delete type=2 #2331
+2019/12/11-13:56:18.649 466b Delete type=2 #2332
+2019/12/11-13:56:18.649 466b Delete type=2 #2337
+2019/12/11-13:56:29.956 466b Compacting 1@1 + 5@2 files
+2019/12/11-13:56:30.208 466b Generated table #2341@1: 49848 keys, 2236821 bytes
+2019/12/11-13:56:30.398 466b Generated table #2342@1: 73352 keys, 2310276 bytes
+2019/12/11-13:56:30.617 466b Generated table #2343@1: 324 keys, 3407197 bytes
+2019/12/11-13:56:30.831 466b Generated table #2344@1: 290 keys, 3465079 bytes
+2019/12/11-13:56:30.911 466b Generated table #2345@1: 61 keys, 449288 bytes
+2019/12/11-13:56:30.911 466b Compacted 1@1 + 5@2 files => 11868661 bytes
+2019/12/11-13:56:30.977 466b compacted to: files[ 0 3 22 0 0 0 0 ]
+2019/12/11-13:56:30.977 466b Delete type=2 #2335
+2019/12/11-13:56:30.977 466b Delete type=2 #2338
+2019/12/11-13:56:30.978 466b Delete type=2 #2334
+2019/12/11-13:56:30.978 466b Delete type=2 #2333
+2019/12/11-13:56:30.978 466b Delete type=2 #2322
+2019/12/11-13:56:30.980 466b Delete type=2 #2323
+2019/12/11-14:05:18.912 466b Level-0 table #2347: started
+2019/12/11-14:05:19.115 466b Level-0 table #2347: 1313929 bytes OK
+2019/12/11-14:05:19.311 466b Delete type=0 #2336
+2019/12/11-14:05:23.053 466b Compacting 1@0 + 1@1 files
+2019/12/11-14:05:23.282 466b Generated table #2348@0: 13885 keys, 323101 bytes
+2019/12/11-14:05:23.789 466b Generated table #2349@0: 249 keys, 1990187 bytes
+2019/12/11-14:05:23.789 466b Compacted 1@0 + 1@1 files => 2313288 bytes
+2019/12/11-14:05:23.948 466b compacted to: files[ 0 4 22 0 0 0 0 ]
+2019/12/11-14:05:23.963 466b Delete type=2 #2339
+2019/12/11-14:05:23.963 466b Delete type=2 #2347
+2019/12/11-14:05:27.641 466b Compacting 1@1 + 8@2 files
+2019/12/11-14:05:27.967 466b Generated table #2350@1: 49857 keys, 2237615 bytes
+2019/12/11-14:05:28.189 466b Generated table #2351@1: 76755 keys, 2250146 bytes
+2019/12/11-14:05:28.464 466b Generated table #2352@1: 658 keys, 3374956 bytes
+2019/12/11-14:05:28.688 466b Generated table #2353@1: 284 keys, 3479274 bytes
+2019/12/11-14:05:28.922 466b Generated table #2354@1: 335 keys, 3357189 bytes
+2019/12/11-14:05:29.148 466b Generated table #2355@1: 263 keys, 3606365 bytes
+2019/12/11-14:05:29.394 466b Generated table #2356@1: 285 keys, 3579949 bytes
+2019/12/11-14:05:29.473 466b Generated table #2357@1: 93 keys, 721967 bytes
+2019/12/11-14:05:29.473 466b Compacted 1@1 + 8@2 files => 22607461 bytes
+2019/12/11-14:05:29.539 466b compacted to: files[ 0 3 22 0 0 0 0 ]
+2019/12/11-14:05:29.539 466b Delete type=2 #2326
+2019/12/11-14:05:29.539 466b Delete type=2 #2345
+2019/12/11-14:05:29.553 466b Delete type=2 #2343
+2019/12/11-14:05:29.554 466b Delete type=2 #2324
+2019/12/11-14:05:29.554 466b Delete type=2 #2325
+2019/12/11-14:05:29.558 466b Delete type=2 #2344
+2019/12/11-14:05:29.558 466b Delete type=2 #2348
+2019/12/11-14:05:29.558 466b Delete type=2 #2341
+2019/12/11-14:05:29.558 466b Delete type=2 #2342
+2019/12/11-14:13:50.822 466b Level-0 table #2359: started
+2019/12/11-14:13:50.993 466b Level-0 table #2359: 1323649 bytes OK
+2019/12/11-14:13:51.128 466b Delete type=0 #2346
+2019/12/11-14:13:57.711 466b Compacting 1@0 + 2@1 files
+2019/12/11-14:13:57.832 466b Generated table #2360@0: 11594 keys, 199832 bytes
+2019/12/11-14:13:57.994 466b Generated table #2361@0: 256 keys, 2068562 bytes
+2019/12/11-14:13:58.138 466b Generated table #2362@0: 237 keys, 2034755 bytes
+2019/12/11-14:13:58.138 466b Compacted 1@0 + 2@1 files => 4303149 bytes
+2019/12/11-14:13:58.189 466b compacted to: files[ 0 4 22 0 0 0 0 ]
+2019/12/11-14:13:58.190 466b Delete type=2 #2359
+2019/12/11-14:13:58.190 466b Delete type=2 #2340
+2019/12/11-14:13:58.190 466b Delete type=2 #2349
+2019/12/11-14:14:08.542 466b Compacting 1@1 + 6@2 files
+2019/12/11-14:14:08.751 466b Generated table #2363@1: 49848 keys, 2236313 bytes
+2019/12/11-14:14:08.930 466b Generated table #2364@1: 74582 keys, 2248692 bytes
+2019/12/11-14:14:09.187 466b Generated table #2365@1: 5959 keys, 3343045 bytes
+2019/12/11-14:14:09.445 466b Generated table #2366@1: 296 keys, 3476592 bytes
+2019/12/11-14:14:09.655 466b Generated table #2367@1: 343 keys, 3313907 bytes
+2019/12/11-14:14:09.902 466b Generated table #2368@1: 255 keys, 3674969 bytes
+2019/12/11-14:14:09.946 466b Generated table #2369@1: 17 keys, 135166 bytes
+2019/12/11-14:14:09.946 466b Compacted 1@1 + 6@2 files => 18428684 bytes
+2019/12/11-14:14:10.012 466b compacted to: files[ 0 3 23 0 0 0 0 ]
+2019/12/11-14:14:10.012 466b Delete type=2 #2351
+2019/12/11-14:14:10.013 466b Delete type=2 #2354
+2019/12/11-14:14:10.014 466b Delete type=2 #2355
+2019/12/11-14:14:10.015 466b Delete type=2 #2352
+2019/12/11-14:14:10.015 466b Delete type=2 #2353
+2019/12/11-14:14:10.015 466b Delete type=2 #2350
+2019/12/11-14:14:10.015 466b Delete type=2 #2360
+2019/12/11-14:22:53.280 466b Level-0 table #2371: started
+2019/12/11-14:22:53.387 466b Level-0 table #2371: 1286547 bytes OK
+2019/12/11-14:22:53.454 466b Delete type=0 #2358
+2019/12/11-14:23:01.139 466b Compacting 1@0 + 1@1 files
+2019/12/11-14:23:01.215 466b Generated table #2372@0: 11781 keys, 344817 bytes
+2019/12/11-14:23:01.387 466b Generated table #2373@0: 273 keys, 2180091 bytes
+2019/12/11-14:23:01.388 466b Compacted 1@0 + 1@1 files => 2524908 bytes
+2019/12/11-14:23:01.449 466b compacted to: files[ 0 4 23 0 0 0 0 ]
+2019/12/11-14:23:01.449 466b Delete type=2 #2371
+2019/12/11-14:23:01.450 466b Delete type=2 #2361
+2019/12/11-14:23:08.214 466b Compacting 1@1 + 6@2 files
+2019/12/11-14:23:08.421 466b Generated table #2374@1: 49853 keys, 2236483 bytes
+2019/12/11-14:23:08.588 466b Generated table #2375@1: 72704 keys, 2247809 bytes
+2019/12/11-14:23:08.997 466b Generated table #2376@1: 10997 keys, 3298183 bytes
+2019/12/11-14:23:09.320 466b Generated table #2377@1: 293 keys, 3473453 bytes
+2019/12/11-14:23:09.519 466b Generated table #2378@1: 354 keys, 3232520 bytes
+2019/12/11-14:23:09.789 466b Generated table #2379@1: 267 keys, 3605529 bytes
+2019/12/11-14:23:09.847 466b Generated table #2380@1: 10 keys, 441558 bytes
+2019/12/11-14:23:09.847 466b Compacted 1@1 + 6@2 files => 18535535 bytes
+2019/12/11-14:23:09.924 466b compacted to: files[ 0 3 24 0 0 0 0 ]
+2019/12/11-14:23:09.925 466b Delete type=2 #2367
+2019/12/11-14:23:09.925 466b Delete type=2 #2365
+2019/12/11-14:23:09.926 466b Delete type=2 #2368
+2019/12/11-14:23:09.926 466b Delete type=2 #2366
+2019/12/11-14:23:09.926 466b Delete type=2 #2363
+2019/12/11-14:23:09.926 466b Delete type=2 #2364
+2019/12/11-14:23:09.926 466b Delete type=2 #2372
+                                                                                                                                                                              

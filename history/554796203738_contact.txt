@@ -1,0 +1,6 @@
+phone: +55 47 9620-3738
+business: False
+name: Amanda Pediu Mesa P 4
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75363526_102490591205767_1425733045312050548_n.jpg%3Foe%3D5DF36F67%26oh%3D9e6c5b166d14dab0cda5a1dcc7037a15&t=l&u=554796203738%40c.us&i=1575937515

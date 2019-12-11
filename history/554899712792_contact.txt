@@ -1,0 +1,12 @@
+phone: +55 48 9971-2792
+business: False
+name: Laura - Cliente Sushi
+saved: True
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56947242_658705554579724_7288848170358931456_n.jpg%3Foe%3D5DF3739C%26oh%3Dc08cf379f74fc0bcd8b440210b27b773&t=l&u=554899712792%40c.us&i=1437046814
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56947242_658705554579724_7288848170358931456_n.jpg%3Foe%3D5DF46EA6%26oh%3D034a3b0209fb9e62ee7eab63440057bd&t=l&u=554899712792%40c.us&i=1437046814
+saved: True
+business: False
+caption: None
+phone: +55 48 9971-2792
+name: Laura - Cliente Sushi
