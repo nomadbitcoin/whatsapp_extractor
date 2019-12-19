@@ -1,0 +1,6 @@
+business: True
+name: B Lavacao
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55664384_409747256489064_2762025186667528192_n.jpg%3Foe%3D5DF65163%26oh%3D69b13242b011f12645e564d4f382698d&t=l&u=554899918593%40c.us&i=1552947739
+caption: None
+phone: +55 48 9991-8593
+saved: True

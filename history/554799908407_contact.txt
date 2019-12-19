@@ -1,0 +1,6 @@
+saved: True
+name: Alessandro Pousada
+phone: +55 47 9990-8407
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73426838_521377638447409_1101040262190683091_n.jpg%3Foe%3D5DFA99A2%26oh%3Dd1dbf31ef22679c8c91d5fb430a4309b&t=l&u=554799908407%40c.us&i=1574796046
+business: False
+caption: None

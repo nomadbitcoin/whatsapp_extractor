@@ -1,0 +1,6 @@
+saved: True
+name: Cristiano Caobele
+phone: +55 47 8865-1368
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72489477_2399975066934392_5872760939853707420_n.jpg%3Foe%3D5DFA90A3%26oh%3D0638360a21af1aff8efd9d0b3819b0fe&t=l&u=554788651368%40c.us&i=1574117670
+business: False
+caption: None

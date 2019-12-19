@@ -1,0 +1,6 @@
+saved: True
+name: Fábio Rabello
+phone: +55 47 9985-1821
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70664724_2500872693570974_4642499123126206464_n.jpg%3Foe%3D5DFA82D7%26oh%3D7bce3ccc3aa33946ea91fa875154b281&t=l&u=554799851821%40c.us&i=1570409312
+business: False
+caption: None

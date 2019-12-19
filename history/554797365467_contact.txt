@@ -4,3 +4,9 @@ name: Tamara Tania
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71905610_152897802763643_6102382650859574437_n.jpg%3Foe%3D5DF2CF35%26oh%3D01aa83b2a1de75af40fafcf543434ffd&t=l&u=554797365467%40c.us&i=1574265639
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73545697_803040776808350_7057601143380520482_n.jpg%3Foe%3D5DF5D813%26oh%3Dc49bafa33df0785e64e9bbdf123944a0&t=l&u=554797365467%40c.us&i=1575990753
+caption: None
+saved: True
+name: 
+phone: +55 47 9736-5467

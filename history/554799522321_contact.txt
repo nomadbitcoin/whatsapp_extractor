@@ -1,0 +1,6 @@
+image: None
+name: Nicolle Itajai Fit
+business: False
+saved: True
+caption: None
+phone: +55 47 9952-2321

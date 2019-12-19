@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64490579_479090756190082_4401365129254404096_n.jpg%3Foe%3D5DFE96E4%26oh%3D95a42c404b55e61666850df050c259af&t=l&u=554799473064%40c.us&i=1564517768
+name: B Via Bela
+business: False
+saved: True
+caption: None
+phone: +55 47 9947-3064

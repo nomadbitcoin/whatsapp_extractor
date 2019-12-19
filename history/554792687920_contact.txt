@@ -1,0 +1,36 @@
+business: False
+name: Diego Jaques
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75643392_139917637347720_5385268233934651956_n.jpg%3Foe%3D5DF63E9A%26oh%3Da2af10918db60832fc6fbe6341943d1d&t=l&u=554792687920%40c.us&i=1573053963
+caption: None
+phone: +55 47 9268-7920
+saved: False
+saved: False
+name: Diego Jaques
+phone: +55 47 9268-7920
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75643392_139917637347720_5385268233934651956_n.jpg%3Foe%3D5DFA5809%26oh%3D21f49b9bb30fe4edc74a9b128c48ab30&t=l&u=554792687920%40c.us&i=1573053963
+business: False
+caption: None
+name: Diego Jaques
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75643392_139917637347720_5385268233934651956_n.jpg%3Foe%3D5DFD465F%26oh%3Dd00f8ea3388662e81317f8badaafa127&t=l&u=554792687920%40c.us&i=1573053963
+saved: False
+business: False
+phone: +55 47 9268-7920
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75643392_139917637347720_5385268233934651956_n.jpg%3Foe%3D5DFE20C7%26oh%3D92b2e2939e11e16e96b41cfee14dd479&t=l&u=554792687920%40c.us&i=1573053963
+saved: False
+caption: None
+phone: +55 47 9268-7920
+business: False
+name: Diego Jaques
+phone: +55 47 9268-7920
+name: Diego Jaques
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75643392_139917637347720_5385268233934651956_n.jpg%3Foe%3D5DFE4DA6%26oh%3Dd9575ef3df539bf32c6da079b0daeac9&t=l&u=554792687920%40c.us&i=1573053963
+caption: None
+saved: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75643392_139917637347720_5385268233934651956_n.jpg%3Foe%3D5DFE52A5%26oh%3D80c6df69dabb6239435044bab9f95ab7&t=l&u=554792687920%40c.us&i=1573053963
+name: Diego Jaques
+business: False
+saved: False
+caption: None
+phone: +55 47 9268-7920

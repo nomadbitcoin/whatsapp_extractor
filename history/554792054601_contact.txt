@@ -4,3 +4,9 @@ name: Erika?
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56567453_417780372352997_7743101306201440256_n.jpg%3Foe%3D5DF2A5B5%26oh%3Dc972342e38b7d30efd3ecb2711e684c2&t=l&u=554792054601%40c.us&i=1547673740
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56567453_417780372352997_7743101306201440256_n.jpg%3Foe%3D5DF5BEB6%26oh%3D59192b2203002f867c3292628666e304&t=l&u=554792054601%40c.us&i=1547673740
+caption: None
+saved: True
+name: Erika?
+phone: +55 47 9205-4601

@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72697487_109903530319387_1489132537973258034_n.jpg%3Foe%3D5DF78781%26oh%3D736c258ee02164fe6d920a2d2a95e051&t=l&u=554797403077%40c.us&i=1574723044
+phone: +55 47 9740-3077
+caption: None
+business: False
+saved: True
+name: Tina

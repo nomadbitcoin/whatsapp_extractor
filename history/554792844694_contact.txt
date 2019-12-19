@@ -1,0 +1,6 @@
+saved: True
+name: Marcia 690
+phone: +55 47 9284-4694
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73441049_1853951461406353_1675880928256442248_n.jpg%3Foe%3D5DFA77F3%26oh%3D78240e0fe08d3b6ad014b09978b057a4&t=l&u=554792844694%40c.us&i=1574861307
+business: False
+caption: None

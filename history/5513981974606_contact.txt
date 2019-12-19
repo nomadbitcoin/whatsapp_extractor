@@ -1,0 +1,6 @@
+business: False
+name: Komprao
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71035317_595742801161961_8013282590789545447_n.jpg%3Foe%3D5DF66E65%26oh%3Df5951a7ed818a16d1965ce955b572fa1&t=l&u=5513981974606%40c.us&i=1575636331
+caption: None
+phone: +55 13 98197-4606
+saved: True

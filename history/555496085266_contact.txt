@@ -1,0 +1,6 @@
+saved: True
+name: Paty Mensal
+phone: +55 54 9608-5266
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73169938_3207888872618074_2093802731288235898_n.jpg%3Foe%3D5DFA6EBC%26oh%3D78d97277962194c241a10996526130a0&t=l&u=555496085266%40c.us&i=1575207754
+business: False
+caption: None

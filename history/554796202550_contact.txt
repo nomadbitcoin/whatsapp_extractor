@@ -1,0 +1,12 @@
+saved: False
+name: Sônia Terezinha O. Xavier
+phone: +55 47 9620-2550
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55964148_411646602714456_2878188070451019776_n.jpg%3Foe%3D5DFA79BA%26oh%3D32a04dd89e9f773a9f493accc6ce015c&t=l&u=554796202550%40c.us&i=1548469914
+business: False
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55964148_411646602714456_2878188070451019776_n.jpg%3Foe%3D5DFE6064%26oh%3De8bfb0429aec21ee33a090bd4a1b7c30&t=l&u=554796202550%40c.us&i=1548469914
+name: Sônia Terezinha O. Xavier
+business: False
+saved: False
+caption: None
+phone: +55 47 9620-2550

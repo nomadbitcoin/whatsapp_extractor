@@ -1,0 +1,6 @@
+saved: True
+name: Jefferson Miranda
+phone: +55 47 9136-4441
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F65811330_503960440358708_6983790902615474176_n.jpg%3Foe%3D5DFA8013%26oh%3Dce5ac1cc7a8535f754061a6542835548&t=l&u=554791364441%40c.us&i=1565713560
+business: True
+caption: None

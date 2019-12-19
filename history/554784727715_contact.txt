@@ -1,0 +1,6 @@
+saved: True
+name: B Jc Marcenaria
+phone: +55 47 8472-7715
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56008524_574630373033503_7048728437309046784_n.jpg%3Foe%3D5DFA77F3%26oh%3D3650045fc2e9b884af48507ad4dd4c4b&t=l&u=554784727715%40c.us&i=1516812063
+business: False
+caption: None

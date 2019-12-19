@@ -4,11 +4,9 @@
 # In[1]:
 
 
-import bs4
 import time
 import os
 from datetime import datetime, date, timedelta
-import pprint
 import pandas as pd
 # pd.set_option('display.max_rows', 1000)
 
@@ -19,7 +17,7 @@ import pandas as pd
 from engines import saveData
 
 
-# In[11]:
+# In[194]:
 
 
 from selenium import webdriver
@@ -35,12 +33,13 @@ options = webdriver.ChromeOptions()
 # open with saved informations in cache
 options.add_argument("profile")
 options.add_argument("user-data-dir=./whatsapp_nabike")
+# options.add_argument("user-data-dir=./whatsapp_yan")
 
 driver = webdriver.Chrome(options=options, executable_path="./webdriver/chromedriver")
 driver.get('https://web.whatsapp.com/')
 
 
-# In[5]:
+# In[4]:
 
 
 # FUNCOES QUE PEGAM AS INFORMACOES DO CONTATO
@@ -106,7 +105,7 @@ def get_Name():
         #print('getName() [step 2] error: {}'.format(error))
 
 
-# In[6]:
+# In[5]:
 
 
 # FUNCOES DE NAVEGACAO PELO WHATSAPP COM CLIQUES E TECLAS DO TECLADO
@@ -140,7 +139,7 @@ def esc_conversation():
     press_esc.perform()
 
 
-# In[7]:
+# In[6]:
 
 
 # PEGA AS INFORMACOES DO CONTATO COM O QUAL TEVE A CONVERSA
@@ -174,7 +173,7 @@ def getContactData():
     return contact_info
 
 
-# In[81]:
+# In[7]:
 
 
 # FUNCOES QUE LIDAM COM O SCROLL UP DAS CONVERSAS PARA CAPUTRAR TODO O HISTORICO
@@ -245,7 +244,7 @@ def scroll_history():
     return True
 
 
-# In[130]:
+# In[191]:
 
 
 # FUNCOES PARA TRATAR CADA MENSAGEM, TIME, STATUS, SE FOI ENVIADA OU RECEBIDA E CONTEUDO
@@ -317,42 +316,30 @@ def verify_content(mensagem):
                             content['type'] = 'deleted'
                         except:
                             #se nao for nenhuma das possibilidaes anteriores, eh texto
-                            content['content'] = mensagem.text.split('\n')[0]
+                            lengh = mensagem.text.split('\n')
+                            if len(lengh) > 1:
+                                content['content'] = str(mensagem.text)
+                                content['type'] = 'text'
+                            else:
+                                content['content'] = lengh[0]
+                                content['type'] = 'text'
+                except:
+                    try:
+                        lengh = mensagem.text.split('\n')
+                        if len(lengh) > 1:
+                            content['content'] = str(mensagem.text)
                             content['type'] = 'text'
-                except Exception as error:
-                    print(error)
-                    content['content'] = 'desconhecido'
-                    content['type'] = 'unknown' 
-    
+                        else:
+                            content['content'] = lengh[0]
+                            content['type'] = 'text'
+                    except Exception as error:
+                        print(error)
+                        content['content'] = 'desconhecido'
+                        content['type'] = 'unknown'  
     return content
 
 
-# In[131]:
-
-
-verify_content(mensagens[7])
-
-
-# In[89]:
-
-
-div_chat = driver.find_element_by_class_name('_1ays2')
-mensagens = div_chat.find_elements_by_class_name('FTBzM')
-
-
-# In[94]:
-
-
-mensagens[7].text
-
-
-# In[121]:
-
-
-
-
-
-# In[82]:
+# In[192]:
 
 
 # PEGA O CONTEUDO DAS MENSAGENS E DO CONTATO
@@ -400,7 +387,7 @@ def getContent():
     return data
 
 
-# In[83]:
+# In[10]:
 
 
 # SALVA AS INFORMACOES COLETADAS NO BANCO DE DADOS
@@ -421,45 +408,53 @@ def save_to_db(data):
     print('Saved!')
 
 
-# In[154]:
+# In[11]:
 
 
 # SALVA LOCALMENTE AS INFORMACOES COLETADAS
 def contact_info_txt(contact_info):
-    if 'history' not in os.listdir():
-        os.mkdir('history')
-    
-    contact_name = 'history/' + str(''.join(filter(str.isdigit, contact_info['phone']))) + '_contact.txt'
-    
-    with open(contact_name, 'a') as filee:
-        for key in contact_info.keys():
-            line = str(key) + ': ' + str(data_contact['contact'][key]) + '\n'
-            filee.writelines(line)
-    
-    
-    return 'contact info saved as: ' + str(contact_name)
+    try:
+        if 'history' not in os.listdir():
+            os.mkdir('history')
 
+        contact_name = 'history/' + str(''.join(filter(str.isdigit, contact_info['phone']))) + '_contact.txt'
+
+        with open(contact_name, 'a') as filee:
+            for key in contact_info.keys():
+                line = str(key) + ': ' + str(data_contact['contact'][key]) + '\n'
+                filee.writelines(line)
+
+
+        return 'contact info saved as: ' + str(contact_name)
+    except Exception as error:
+        print(type(error))
+        print(error)
+    
 def history_csv(history, contact_name):
     # CRIA UM DATAFRAME COM O HISTORICO DE CONVERSAS
-    df = pd.DataFrame(columns=['date', 'status', 'content', 'time', 'type'])
-    
-    for date in history:
-        #o historico esta salvo como uma lista de dicionarios onde cada dicionario possui uma data como chave e uma lista de dicionarios com dados da mensagem
-        date_key = [key for key in date.keys()][0] #extrai a chave data
-        for msg in date[date_key]:
-            df = df.append({'date': date_key, 'status': msg['status'], 'content': msg['content'], 'time': msg['time'], 'type': msg['type']}, ignore_index=True)
-            
-    # EXPORTA EM CSV
-    if 'history' not in os.listdir():
-        os.mkdir('history')
-    
-    history_name = 'history/' + str(''.join(filter(str.isdigit, contact_name))) + '_history.csv'
-    df.to_csv(history_name, encoding='utf-8')
-    
-    return 'history info saved as: ' + str(history_name)
+    try:
+        df = pd.DataFrame(columns=['date', 'status', 'content', 'time', 'type'])
+
+        for date in history:
+            #o historico esta salvo como uma lista de dicionarios onde cada dicionario possui uma data como chave e uma lista de dicionarios com dados da mensagem
+            date_key = [key for key in date.keys()][0] #extrai a chave data
+            for msg in date[date_key]:
+                df = df.append({'date': date_key, 'status': msg['status'], 'content': msg['content'], 'time': msg['time'], 'type': msg['type']}, ignore_index=True)
+
+        # EXPORTA EM CSV
+        if 'history' not in os.listdir():
+            os.mkdir('history')
+
+        history_name = 'history/' + str(''.join(filter(str.isdigit, contact_name))) + '_history.csv'
+        df.to_csv(history_name, encoding='utf-8')
+
+        return 'history info saved as: ' + str(history_name)
+    except Exception as error:
+        print(type(error))
+        print(error)
 
 
-# In[155]:
+# In[12]:
 
 
 def total_conversations():
@@ -478,26 +473,92 @@ def total_conversations():
         return 'Total Not Found'
 
 
-# In[158]:
+# In[13]:
+
+
+# #eh preciso o argumento force=True para iniciar a navegacao pelas conversas
+# # down_chat(force=True)
+# count = 178
+# chats = total_conversations()
+# for i in range(chats):
+#     count += 1
+#     time.sleep(1)
+#     if scroll_history():
+#         data_contact = getContent()
+        
+#         #save_to_db(data_contact)
+#         print(contact_info_txt(data_contact['contact']))
+#         print(history_csv(data_contact['history'], data_contact['contact']['phone']))
+    
+#     print('\n{} de {} historicos salvos'.format(count, chats))
+#     down_chat(force=False)
+#     if count == chats - 10:
+#         choice = input('continuar? aperte 1 se deseja parar')
+#         if choice == '1':
+#             break
+
+
+# In[15]:
+
+
+# VERIFICA OS QUE JA ESTAO SALVOS NO DIRETORIO
+path = './history/'
+saved = []
+for item in os.listdir(path):
+    if item.endswith('.txt'):
+        with open(path + item, 'r') as filee:
+            data = filee.readlines()
+            for line in data:
+                if ('name') in line:
+                    saved.append(line[line.find(':')+2:line.find('\n')])
+
+
+# In[16]:
+
+input('aperte enter se o whatsapp ja estiver aberto')
+# count = 0
+# down_chat(force=True)
+# for i in range(850):
+# 	down_chat()
+# 	time.sleep(0.1)
+# 	count +=1
+	
+
+
+
+# In[193]:
 
 
 #eh preciso o argumento force=True para iniciar a navegacao pelas conversas
-down_chat(force=True)
-count = 0
+# down_chat(force=True)
+
+i = len(saved)
 chats = total_conversations()
-for i in range(3):
-    count += 1
-    time.sleep(1)
-    if scroll_history():
-        data_contact = getContent()
-        
-        #save_to_db(data_contact)
-        print(contact_info_txt(data_contact['contact']))
-        print(history_csv(data_contact['history'], data_contact['contact']['phone']))
-    
-    print('\n{} de {} historicos salvos'.format(count, chats))
-    down_chat(force=False)
-    choice = input('continuar? aperte 1 se deseja parar')
-    if choice == '1':
-        break
+for i in range(chats):
+    try:
+        time.sleep(0.5)
+        name = driver.find_element_by_xpath("//div[@class='_19vo_']").text
+        if name not in saved:
+            if scroll_history():
+                try:
+                    data_contact = getContent()
+
+                    #save_to_db(data_contact)
+                    print(contact_info_txt(data_contact['contact']))
+                    print(history_csv(data_contact['history'], data_contact['contact']['phone']))
+                except:
+                    print('ao salvar conversa')
+                    # break
+                print('\n{} de {} historicos salvos'.format(i, chats))
+            down_chat()
+        else:
+            time.sleep(0.5)
+            down_chat()
+    except Exception as error:
+        print('quebrou no loop principal')
+        # break
+        print(type(error))
+        print(error)
+        pass
+    # break
 

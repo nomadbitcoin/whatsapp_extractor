@@ -1,0 +1,6 @@
+name: Aline Komprao
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70915779_2431916913555261_5692181605485903872_n.jpg%3Foe%3D5DFEBCE7%26oh%3D2cb71d4ca570aa135b73ac366ddda4d8&t=l&u=554788356669%40c.us&i=1571178985
+business: False
+saved: True
+phone: +55 47 8835-6669

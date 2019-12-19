@@ -1,0 +1,6 @@
+saved: True
+name: Dione 248
+phone: +55 47 9232-4981
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72456755_930895827293554_7005400970435756032_n.jpg%3Foe%3D5DFA5F31%26oh%3D19c8bf87e62ee9b0285d1a043ebcfbff&t=l&u=554792324981%40c.us&i=1571677660
+business: False
+caption: None

@@ -1,3 +1,66 @@
-2019/12/11-10:45:12.718 3f90 Reusing MANIFEST leveldb/MANIFEST-000001
-2019/12/11-10:45:12.718 3f90 Recovering log #366
-2019/12/11-10:45:12.718 3f90 Reusing old log leveldb/000366.log 
+2019/12/18-22:43:07.016 3d49 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/12/18-22:43:07.018 3d49 Recovering log #1426
+2019/12/18-22:43:07.018 3d49 Reusing old log leveldb/001426.log 
+2019/12/18-22:47:07.027 3d49 Level-0 table #1431: started
+2019/12/18-22:47:07.076 3d49 Level-0 table #1431: 88338 bytes OK
+2019/12/18-22:47:07.121 3d49 Delete type=0 #1426
+2019/12/18-22:57:07.027 3e7b Level-0 table #1433: started
+2019/12/18-22:57:07.075 3e7b Level-0 table #1433: 85480 bytes OK
+2019/12/18-22:57:07.109 3e7b Delete type=0 #1430
+2019/12/18-23:05:07.027 3d49 Level-0 table #1435: started
+2019/12/18-23:05:07.079 3d49 Level-0 table #1435: 85465 bytes OK
+2019/12/18-23:05:07.124 3d49 Delete type=0 #1432
+2019/12/18-23:08:07.027 3e7b Level-0 table #1437: started
+2019/12/18-23:08:07.082 3e7b Level-0 table #1437: 85435 bytes OK
+2019/12/18-23:08:07.127 3e7b Delete type=0 #1434
+2019/12/18-23:08:07.127 3d8a Compacting 4@0 + 1@1 files
+2019/12/18-23:08:07.172 3d8a Generated table #1438@0: 234 keys, 93801 bytes
+2019/12/18-23:08:07.172 3d8a Compacted 4@0 + 1@1 files => 93801 bytes
+2019/12/18-23:08:07.250 3d8a compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/12/18-23:08:07.250 3d8a Delete type=2 #1433
+2019/12/18-23:08:07.250 3d8a Delete type=2 #1431
+2019/12/18-23:08:07.250 3d8a Delete type=2 #1437
+2019/12/18-23:08:07.250 3d8a Delete type=2 #1428
+2019/12/18-23:08:07.250 3d8a Delete type=2 #1435
+2019/12/18-23:13:07.027 499f Level-0 table #1440: started
+2019/12/18-23:13:07.082 499f Level-0 table #1440: 85820 bytes OK
+2019/12/18-23:13:07.129 499f Delete type=0 #1436
+2019/12/18-23:16:07.027 3d8a Level-0 table #1442: started
+2019/12/18-23:16:07.084 3d8a Level-0 table #1442: 86365 bytes OK
+2019/12/18-23:16:07.129 3d8a Delete type=0 #1439
+2019/12/18-23:19:07.027 3d8a Level-0 table #1444: started
+2019/12/18-23:19:07.088 3d8a Level-0 table #1444: 87183 bytes OK
+2019/12/18-23:19:07.133 3d8a Delete type=0 #1441
+2019/12/18-23:22:07.028 3d8a Level-0 table #1446: started
+2019/12/18-23:22:07.091 3d8a Level-0 table #1446: 87365 bytes OK
+2019/12/18-23:22:07.158 3d8a Delete type=0 #1443
+2019/12/18-23:22:07.158 3e7b Compacting 4@0 + 1@1 files
+2019/12/18-23:22:07.214 3e7b Generated table #1447@0: 236 keys, 95737 bytes
+2019/12/18-23:22:07.214 3e7b Compacted 4@0 + 1@1 files => 95737 bytes
+2019/12/18-23:22:07.247 3e7b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/12/18-23:22:07.248 3e7b Delete type=2 #1444
+2019/12/18-23:22:07.248 3e7b Delete type=2 #1438
+2019/12/18-23:22:07.248 3e7b Delete type=2 #1440
+2019/12/18-23:22:07.248 3e7b Delete type=2 #1446
+2019/12/18-23:22:07.248 3e7b Delete type=2 #1442
+2019/12/18-23:23:07.028 3e7b Level-0 table #1449: started
+2019/12/18-23:23:07.083 3e7b Level-0 table #1449: 88105 bytes OK
+2019/12/18-23:23:07.128 3e7b Delete type=0 #1445
+2019/12/18-23:24:07.028 3d8a Level-0 table #1451: started
+2019/12/18-23:24:07.078 3d8a Level-0 table #1451: 88148 bytes OK
+2019/12/18-23:24:07.145 3d8a Delete type=0 #1448
+2019/12/18-23:25:07.027 499f Level-0 table #1453: started
+2019/12/18-23:25:07.085 499f Level-0 table #1453: 89013 bytes OK
+2019/12/18-23:25:07.130 499f Delete type=0 #1450
+2019/12/18-23:27:07.027 499f Level-0 table #1455: started
+2019/12/18-23:27:07.082 499f Level-0 table #1455: 89303 bytes OK
+2019/12/18-23:27:07.126 499f Delete type=0 #1452
+2019/12/18-23:27:07.127 3d8a Compacting 4@0 + 1@1 files
+2019/12/18-23:27:07.171 3d8a Generated table #1456@0: 237 keys, 97759 bytes
+2019/12/18-23:27:07.171 3d8a Compacted 4@0 + 1@1 files => 97759 bytes
+2019/12/18-23:27:07.216 3d8a compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/12/18-23:27:07.217 3d8a Delete type=2 #1449
+2019/12/18-23:27:07.217 3d8a Delete type=2 #1453
+2019/12/18-23:27:07.217 3d8a Delete type=2 #1447
+2019/12/18-23:27:07.217 3d8a Delete type=2 #1451
+2019/12/18-23:27:07.217 3d8a Delete type=2 #1455

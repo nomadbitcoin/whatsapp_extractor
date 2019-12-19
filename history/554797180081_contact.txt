@@ -1,0 +1,6 @@
+saved: True
+name: B Beli
+phone: +55 47 9718-0081
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F60425367_913733342307391_59927476817625088_n.jpg%3Foe%3D5DFA6BDD%26oh%3D5dd1c1e81c4615fda67a40169f143c07&t=l&u=554797180081%40c.us&i=1560199322
+business: False
+caption: None

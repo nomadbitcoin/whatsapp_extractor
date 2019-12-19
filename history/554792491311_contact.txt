@@ -1,0 +1,6 @@
+saved: True
+name: Jo Morretes
+phone: +55 47 9249-1311
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71886427_593425831398236_2197817444283338031_n.jpg%3Foe%3D5DFA7720%26oh%3Dcc1b93d182a974ad1fa55ac2d177e932&t=l&u=554792491311%40c.us&i=1574644806
+business: False
+caption: None

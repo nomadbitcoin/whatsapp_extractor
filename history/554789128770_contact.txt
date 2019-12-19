@@ -1,0 +1,18 @@
+business: False
+name: Vanessa
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69615273_390915578468871_8512885094912884736_n.jpg%3Foe%3D5DF646BE%26oh%3D0298f1c0053d8335e19165ab71c31110&t=l&u=554789128770%40c.us&i=1570326389
+caption: None
+phone: +55 47 8912-8770
+saved: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70628153_109619057036720_9083041154684600586_n.jpg%3Foe%3D5DF798B9%26oh%3D44d0b8c72c8c0283a17bf96207ee5aff&t=l&u=554789128770%40c.us&i=1576242275
+phone: +55 47 8912-8770
+caption: None
+business: False
+saved: False
+name: Vanessa
+saved: False
+name: Vanessa
+phone: +55 47 8912-8770
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72985275_214426606226827_5708745492600964892_n.jpg%3Foe%3D5DFA5A91%26oh%3D3cb8eeca02450c7ebe87833f1b59bae1&t=l&u=554789128770%40c.us&i=1576417840
+business: False
+caption: None

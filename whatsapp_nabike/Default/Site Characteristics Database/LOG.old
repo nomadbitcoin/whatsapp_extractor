@@ -1,3 +1,4 @@
-2019/12/11-10:45:11.673 3f8f Reusing MANIFEST /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/Site Characteristics Database/MANIFEST-000001
-2019/12/11-10:45:11.675 3f8f Recovering log #3
-2019/12/11-10:45:11.675 3f8f Reusing old log /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/Site Characteristics Database/000003.log 
+2019/12/18-22:43:05.711 3d3e Reusing MANIFEST /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/Site Characteristics Database/MANIFEST-000001
+2019/12/18-22:43:05.711 3d3e Recovering log #3
+2019/12/18-22:43:05.711 3d3e (ignoring error) /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/Site Characteristics Database/000003.log: dropping 235 bytes; Corruption: checksum mismatch
+2019/12/18-22:43:05.711 3d3e Reusing old log /home/yan/Desktop/chatbot_whatsapp/whatsapp_extractor/whatsapp_nabike/Default/Site Characteristics Database/000003.log 

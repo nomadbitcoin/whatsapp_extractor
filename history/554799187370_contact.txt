@@ -1,0 +1,6 @@
+saved: True
+name: 1the Place 232
+phone: +55 47 9918-7370
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71844857_186090972549824_5572318571661115659_n.jpg%3Foe%3D5DFA95AF%26oh%3D753e0c648de8de3b1e82028e7c5c2a87&t=l&u=554799187370%40c.us&i=1573222269
+business: False
+caption: None

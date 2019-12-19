@@ -1,0 +1,6 @@
+saved: True
+name: Sabrina?
+phone: +55 47 8889-4230
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74900915_676889236052588_7457109088265834884_n.jpg%3Foe%3D5DFA6A50%26oh%3Dbf8dfe873e2b9fc0f4b0c9bc3e22a237&t=l&u=554788894230%40c.us&i=1575714634
+business: False
+caption: None

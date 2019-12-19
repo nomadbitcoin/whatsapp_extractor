@@ -1,0 +1,6 @@
+saved: True
+name: Sem Nome2
+phone: +55 51 8638-6667
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71661074_2190619064576296_1631925010632649299_n.jpg%3Foe%3D5DFA95AF%26oh%3Dc55cab6438317f94a7eff17b84fd49dc&t=l&u=555186386667%40c.us&i=1576082672
+business: False
+caption: None

@@ -1,0 +1,6 @@
+business: False
+name: Mani Lista
+image: None
+caption: None
+phone: +55 47 9613-8523
+saved: True

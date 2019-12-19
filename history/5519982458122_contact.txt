@@ -1,0 +1,6 @@
+saved: True
+name: Patricia 244 384 301
+phone: +55 19 98245-8122
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56153851_325368964835049_3255058686032216064_n.jpg%3Foe%3D5DFA82D7%26oh%3D2a1e9b099f3213609fd8fabd08bc9daa&t=l&u=5519982458122%40c.us&i=1542592524
+business: False
+caption: None

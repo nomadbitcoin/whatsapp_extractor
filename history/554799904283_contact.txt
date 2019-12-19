@@ -4,3 +4,9 @@ name: Paula
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F57581248_419434952207517_4212788486974996480_n.jpg%3Foe%3D5DF272E0%26oh%3D0e099c4ef7009f5f588cd6c27f5be8ff&t=l&u=554799904283%40c.us&i=1555981399
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F57581248_419434952207517_4212788486974996480_n.jpg%3Foe%3D5DF788E2%26oh%3D6d0335673f3424ad9d1e73723c4eea08&t=l&u=554799904283%40c.us&i=1555981399
+phone: +55 47 9990-4283
+caption: None
+business: False
+saved: True
+name: Paula Fit

@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64296777_2383103275279777_3518692450199666688_n.jpg%3Foe%3D5DFE8009%26oh%3D428e7f05f4aa81a39d6d9b955b6bc986&t=l&u=554797116446%40c.us&i=1563810233
+name: BrunoItajai
+business: False
+saved: True
+caption: None
+phone: +55 47 9711-6446

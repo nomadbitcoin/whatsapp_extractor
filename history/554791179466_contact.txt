@@ -1,0 +1,6 @@
+saved: True
+name: Luis 246 Intelbras
+phone: +55 47 9117-9466
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75210402_250836069227548_3118417521370049129_n.jpg%3Foe%3D5DFA808F%26oh%3Dd467ae1fb25db22a7ec3973596907b3f&t=l&u=554791179466%40c.us&i=1575663026
+business: False
+caption: None

@@ -1,0 +1,6 @@
+business: False
+name: Verônica
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56811585_350546655804157_4650891854294810624_n.jpg%3Foe%3D5DF64F58%26oh%3D4f20c7e945e2e55beaedde8b695a41a2&t=l&u=554797610779%40c.us&i=1482140674
+caption: None
+phone: +55 47 9761-0779
+saved: True

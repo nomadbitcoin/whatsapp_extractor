@@ -1,0 +1,12 @@
+phone: +55 47 9657-6916
+name: Re
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74588997_2703172086405565_7561360849350508773_n.jpg%3Foe%3D5DFE4D5B%26oh%3D86cc87636d72e101c5b5b5ba5531d368&t=l&u=554796576916%40c.us&i=1573951527
+caption: None
+saved: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74588997_2703172086405565_7561360849350508773_n.jpg%3Foe%3D5DFE5215%26oh%3De011e142932d89579280f2297e0bf819&t=l&u=554796576916%40c.us&i=1573951527
+name: Renata Sandra 264
+business: False
+saved: True
+caption: None
+phone: +55 47 9657-6916

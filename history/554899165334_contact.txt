@@ -1,0 +1,6 @@
+saved: True
+name: Nadia Cris
+phone: +55 48 9916-5334
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71526293_185792422591541_3140956632992342318_n.jpg%3Foe%3D5DFA5F31%26oh%3D821cb98ab1978af2f9e84e7efc0e51ec&t=l&u=554899165334%40c.us&i=1573834406
+business: False
+caption: None

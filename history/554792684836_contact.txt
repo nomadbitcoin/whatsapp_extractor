@@ -1,0 +1,18 @@
+saved: False
+name: Leonardo
+phone: +55 47 9268-4836
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69024495_383390682349254_6518317078812819456_n.jpg%3Foe%3D5DFA75A7%26oh%3Df9ad93239cdfd7cafe19136ca966aa36&t=l&u=554792684836%40c.us&i=1568647500
+business: False
+caption: None
+name: 
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69024495_383390682349254_6518317078812819456_n.jpg%3Foe%3D5DFD623D%26oh%3D6f042ef52d6bf4c6c8c731c94b020646&t=l&u=554792684836%40c.us&i=1568647500
+saved: True
+business: False
+phone: +55 47 9268-4836
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69024495_383390682349254_6518317078812819456_n.jpg%3Foe%3D5DFE605F%26oh%3D63d192319eb9e94a459520371f08cb43&t=l&u=554792684836%40c.us&i=1568647500
+name: Leoonardo
+business: False
+saved: True
+caption: None
+phone: +55 47 9268-4836

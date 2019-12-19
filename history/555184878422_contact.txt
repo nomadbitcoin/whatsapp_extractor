@@ -1,0 +1,6 @@
+name: Bina
+image: None
+saved: True
+business: False
+phone: +55 51 8487-8422
+caption: None

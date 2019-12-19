@@ -1,0 +1,12 @@
+saved: False
+name: LuhLiarth
+phone: +55 51 8636-0386
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71815998_173046870423299_9055900797745981139_n.jpg%3Foe%3D5DFA7AEA%26oh%3Dd9e1fbd1c278b063afb48f425a4f29ff&t=l&u=555186360386%40c.us&i=1576283953
+business: False
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71815998_173046870423299_9055900797745981139_n.jpg%3Foe%3D5DFE6160%26oh%3Dc2a22c5b1aaa14a7f9d6a26932d36e96&t=l&u=555186360386%40c.us&i=1576283953
+name: Lu Liarte
+business: False
+saved: True
+caption: None
+phone: +55 51 8636-0386

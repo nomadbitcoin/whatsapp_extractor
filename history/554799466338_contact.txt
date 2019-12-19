@@ -1,0 +1,6 @@
+business: False
+name: Carmo Bijus
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F62579025_424919158104261_6113731799479746560_n.jpg%3Foe%3D5DF65122%26oh%3Db5d2531c218b60f634438206b0a6e488&t=l&u=554799466338%40c.us&i=1560720232
+caption: None
+phone: +55 47 9946-6338
+saved: True

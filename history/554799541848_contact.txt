@@ -1,0 +1,6 @@
+image: None
+name: Natan Rusalen
+business: False
+saved: True
+caption: None
+phone: +55 47 9954-1848

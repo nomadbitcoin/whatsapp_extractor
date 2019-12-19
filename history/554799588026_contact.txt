@@ -1,0 +1,6 @@
+saved: True
+name: Yohana Komprao
+phone: +55 47 9958-8026
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69354740_163024054765667_585652257111331689_n.jpg%3Foe%3D5DFA7CEB%26oh%3Db8f593ef26719c4acb781f167b448c5f&t=l&u=554799588026%40c.us&i=1573580250
+business: False
+caption: None

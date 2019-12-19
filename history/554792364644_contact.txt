@@ -4,3 +4,9 @@ business: False
 caption: None
 phone: +55 47 9236-4644
 name: 
+business: True
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56985707_2152014491533702_4487655209824157696_n.jpg%3Foe%3D5DF5FD9F%26oh%3Dc957a8fcc2390b8f07a3fba79f0a29c3&t=l&u=554792364644%40c.us&i=1539953300
+caption: None
+saved: True
+name: Fb Imobiliária (Yan)
+phone: +55 47 9236-4644

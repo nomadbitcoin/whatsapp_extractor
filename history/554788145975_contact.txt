@@ -4,3 +4,9 @@ name: Rafa Komprao
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73714451_770517656796219_1194864218310210117_n.jpg%3Foe%3D5DF2902B%26oh%3D8483bad0d9e875da1c0701afd9ac4148&t=l&u=554788145975%40c.us&i=1575405975
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75379511_599882947483345_9097847738547593895_n.jpg%3Foe%3D5DF5B2A9%26oh%3D5da53173c0d32bc3e6533626942cc95b&t=l&u=554788145975%40c.us&i=1575939888
+caption: None
+saved: True
+name: 
+phone: +55 47 8814-5975

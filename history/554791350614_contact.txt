@@ -1,0 +1,6 @@
+saved: True
+name: K Renata
+phone: +55 47 9135-0614
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72483951_470553770228714_8547485987104620544_n.jpg%3Foe%3D5DFA86D5%26oh%3De712c602700bb2cbb4a6826c9d04734f&t=l&u=554791350614%40c.us&i=1571606569
+business: False
+caption: None

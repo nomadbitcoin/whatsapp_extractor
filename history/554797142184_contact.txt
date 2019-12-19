@@ -1,0 +1,6 @@
+saved: True
+name: #salao Sinal
+phone: +55 47 9714-2184
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56832673_885628851789801_7323689885661921280_n.jpg%3Foe%3D5DFA87B2%26oh%3D95a9087b071ea1c28de049925db77c42&t=l&u=554797142184%40c.us&i=1551361749
+business: False
+caption: None

@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F70374212_2406521249598157_3805707727635742701_n.jpg%3Foe%3D5DFE749F%26oh%3Da41f09faf26ff4bb20cfbc99d727e293&t=l&u=554796087741%40c.us&i=1576154688
+name: Seu Valdir
+business: False
+saved: True
+caption: None
+phone: +55 47 9608-7741

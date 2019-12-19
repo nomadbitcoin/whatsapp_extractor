@@ -1,0 +1,6 @@
+saved: True
+name: Gabriela Mar
+phone: +55 48 9645-0704
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F65309231_1357623977747859_4788869637183897600_n.jpg%3Foe%3D5DFA9D3C%26oh%3Dd3662d8078361f16a34c6604fc9cb96d&t=l&u=554896450704%40c.us&i=1565991973
+business: False
+caption: None

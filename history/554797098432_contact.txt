@@ -1,0 +1,6 @@
+saved: True
+name: K Andreia
+phone: +55 47 9709-8432
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71238713_435111387378584_343185624831059555_n.jpg%3Foe%3D5DFA7EFB%26oh%3D8e327613c6fe13a5dbf8ac59f70562c9&t=l&u=554797098432%40c.us&i=1574178793
+business: False
+caption: None

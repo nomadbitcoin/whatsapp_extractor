@@ -1,0 +1,6 @@
+saved: True
+name: Sem Nome58
+phone: +55 47 8405-8939
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55964153_2320429441547984_1792475807524847616_n.jpg%3Foe%3D5DFA735A%26oh%3D84299a92d443f48d8a2d881d2bb38565&t=l&u=554784058939%40c.us&i=1531252919
+business: False
+caption: None

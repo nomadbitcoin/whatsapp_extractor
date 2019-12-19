@@ -1,0 +1,18 @@
+name: Edina
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56014829_322354728483299_5454665202437980160_n.jpg%3Foe%3D5DFD465F%26oh%3D098b0389b52707f3855029b48e5d6f35&t=l&u=554898432695%40c.us&i=1541617314
+saved: False
+business: False
+phone: +55 48 9843-2695
+caption: None
+name: Edina
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56014829_322354728483299_5454665202437980160_n.jpg%3Foe%3D5DFD465F%26oh%3D098b0389b52707f3855029b48e5d6f35&t=l&u=554898432695%40c.us&i=1541617314
+saved: False
+business: False
+phone: +55 48 9843-2695
+caption: None
+phone: +55 48 9843-2695
+name: Edina?
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56014829_322354728483299_5454665202437980160_n.jpg%3Foe%3D5DFE4DBA%26oh%3D456dec6dcd0b4024c6463f34dbe9b1ba&t=l&u=554898432695%40c.us&i=1541617314
+caption: None
+saved: True

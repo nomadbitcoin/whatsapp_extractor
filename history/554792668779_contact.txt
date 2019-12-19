@@ -4,3 +4,9 @@ name: B Smart
 caption: None
 business: True
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72304921_162600824960561_8345022395439193714_n.jpg%3Foe%3D5DF29FA6%26oh%3Dd9aced051fd22aecda1f3181b4d8d267&t=l&u=554792668779%40c.us&i=1575384181
+business: True
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72304921_162600824960561_8345022395439193714_n.jpg%3Foe%3D5DF5B601%26oh%3D4ffd3c55228291eee067c39cee68b6a6&t=l&u=554792668779%40c.us&i=1575384181
+caption: None
+saved: True
+name: B Smart
+phone: +55 47 9266-8779

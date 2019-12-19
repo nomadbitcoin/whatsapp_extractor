@@ -1,0 +1,6 @@
+name: Anderson Praiana
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74600200_109299247093681_7845171570761752085_n.jpg%3Foe%3D5DFD6DB5%26oh%3Dd63c8355e04242bdd02c6c42975db286&t=l&u=554796152211%40c.us&i=1576199559
+saved: True
+business: False
+phone: +55 47 9615-2211
+caption: None

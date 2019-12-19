@@ -1,0 +1,6 @@
+saved: True
+name: Jaqueli pb
+phone: +55 47 9914-8724
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72304921_444576329515099_5667970989069272878_n.jpg%3Foe%3D5DFA87B2%26oh%3D0b0bf09c8e7f203db07bdbb94f435981&t=l&u=554799148724%40c.us&i=1576428891
+business: False
+caption: None

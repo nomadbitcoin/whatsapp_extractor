@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F68806748_388631405422924_6992084359909998592_n.jpg%3Foe%3D5DFE6CDF%26oh%3D149198d538b56c71f76b3e64df120d8b&t=l&u=554784565690%40c.us&i=1571110647
+name: Samara Ifood
+business: False
+saved: True
+caption: None
+phone: +55 47 8456-5690

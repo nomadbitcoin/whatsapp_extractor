@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56106003_2315138018759535_8142020600253120512_n.jpg%3Foe%3D5DFEB4CE%26oh%3D0f875ec1676a8a3f4c3044b159216a71&t=l&u=554799661869%40c.us&i=1531917926
+caption: None
+saved: True
+business: False
+phone: +55 47 9966-1869
+name: 1esquina Dos Cartuchos

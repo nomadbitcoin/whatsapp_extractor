@@ -1,0 +1,6 @@
+saved: True
+name: Sem Nome33
+phone: +55 47 9622-8208
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73404198_815636755538234_5020416700031646617_n.jpg%3Foe%3D5DFA6553%26oh%3Da6ecdcb67671e24d2a9e61211712c0bc&t=l&u=554796228208%40c.us&i=1575722419
+business: False
+caption: None

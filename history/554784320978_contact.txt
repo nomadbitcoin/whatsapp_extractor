@@ -1,0 +1,6 @@
+saved: True
+name: Danilo 2
+phone: +55 47 8432-0978
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73404208_137991627614734_2438989438935972793_n.jpg%3Foe%3D5DFA917A%26oh%3D22c59639981a5150e104b6703dc0c98f&t=l&u=554784320978%40c.us&i=1575120871
+business: False
+caption: None

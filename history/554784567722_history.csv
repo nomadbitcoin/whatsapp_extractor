@@ -1,0 +1,48 @@
+,date,status,content,time,type
+0,05/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,05/12/2019,received,"bom dia
+08:38",08:38,text
+2,05/12/2019,received,"qual o valor da marmita ?
+08:39",08:39,text
+3,05/12/2019,viewed,"Bom dia
+08:39",08:39,text
+4,05/12/2019,viewed,"O valor é 10$
+08:39",08:39,text
+5,05/12/2019,viewed,blob:https://web.whatsapp.com/d1b9c2bc-51f1-40d6-ba8c-e0f11c152689,08:39,image
+6,05/12/2019,received,"gostaria de pedir já , 2 p hoje
+08:39",08:39,text
+7,05/12/2019,viewed,"Qual seu nome e endereço ?
+08:40",08:40,text
+8,05/12/2019,received,"hellen wolf , rua 302, 360, apto 601, edifício benvenuto
+08:40",08:40,text
+9,05/12/2019,received,"meia praia
+08:40",08:40,text
+10,05/12/2019,viewed,"Combinado então Hellen por volta das 12hs chega por aí
+08:41",08:41,text
+11,05/12/2019,received,"eh a primeira vez q eu peço , me diz uma coisa o feijão vem separado ?
+08:41",08:41,text
+12,05/12/2019,received,"e vcs aceitam cartão ?
+08:41",08:41,text
+13,05/12/2019,viewed,blob:https://web.whatsapp.com/0b07ab5c-3877-4e21-b6d1-eb15cba9c2b2,08:42,image
+14,05/12/2019,viewed,"Aceitamos cartão sim
+08:42",08:42,text
+15,05/12/2019,received,"ok obrigada
+08:42",08:42,text
+16,05/12/2019,received,"fico no aguardo então
+08:42",08:42,text
+17,05/12/2019,viewed,"Obrigado vamos caprichar pra vc conhecer nosso trabalho
+08:42",08:42,text
+18,05/12/2019,received,"ah ótimo , tive boas indicações de vcs
+08:43",08:43,text
+19,05/12/2019,viewed,"Ficamos gratos
+08:43",08:43,text
+20,05/12/2019,received,"gratidão
+08:43",08:43,text
+21,05/12/2019,received,https://web.whatsapp.com/img/4742377b4ae743abd4f117e58c6c829b_w_1682-64.png,08:43,image
+22,06/12/2019,viewed,blob:https://web.whatsapp.com/909f359e-70e2-4818-8020-6ee51c313446,09:09,image
+23,09/12/2019,viewed,blob:https://web.whatsapp.com/ea18cbcb-9c44-4c99-8cd6-def10a39fd68,09:23,image
+24,10/12/2019,viewed,blob:https://web.whatsapp.com/f79c12f9-57b8-4879-91b1-6cdfb2e0d5ea,09:17,image
+25,11/12/2019,viewed,blob:https://web.whatsapp.com/e40b06c7-9e68-4dfb-b80b-b8522f592d9f,09:04,image
+26,12/12/2019,viewed,blob:https://web.whatsapp.com/21cf3a6a-73d8-400d-80f1-12d2b9eda52b,09:14,image
+27,13/12/2019,viewed,blob:https://web.whatsapp.com/f454aaa8-9eb2-42f9-b0a9-373e72473f8d,09:31,image
+28,18/12/2019,viewed,blob:https://web.whatsapp.com/dea88aef-ab05-4172-a49d-71715b11e140,09:14,image

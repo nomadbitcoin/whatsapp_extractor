@@ -1,0 +1,6 @@
+saved: True
+name: Perequê Rosa
+phone: +55 47 9671-9904
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72201012_290339545217049_6601943591299849438_n.jpg%3Foe%3D5DFA9D3C%26oh%3De484ff63b8b468a41d617601777c9631&t=l&u=554796719904%40c.us&i=1575796163
+business: False
+caption: None

@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75246457_489049218382176_1780644061934420063_n.jpg%3Foe%3D5DFE579A%26oh%3D82bd7cf4c3820e85d5023f34ddfa60e6&t=l&u=554797248801%40c.us&i=1576688609
+name: Gringo Barber 4ilhas
+business: True
+saved: True
+caption: None
+phone: +55 47 9724-8801

@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72982854_447372569254404_1229891440857687279_n.jpg%3Foe%3D5DFE5943%26oh%3D4c580b9ba1b2fa706cc3835bd286cbe4&t=l&u=554796899727%40c.us&i=1574433086
+name: Ju Manson
+business: False
+saved: True
+caption: None
+phone: +55 47 9689-9727

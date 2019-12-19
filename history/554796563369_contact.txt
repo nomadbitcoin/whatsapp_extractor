@@ -1,0 +1,6 @@
+saved: True
+name: Gabriel Erthal
+phone: +55 47 9656-3369
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73244695_2652404111508063_2922691992191390949_n.jpg%3Foe%3D5DFA974C%26oh%3D2ff60cb9e854d066cb1a36aa02c4a2b3&t=l&u=554796563369%40c.us&i=1574871672
+business: False
+caption: None

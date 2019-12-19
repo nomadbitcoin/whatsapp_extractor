@@ -1,0 +1,6 @@
+business: False
+phone: +55 47 9988-9264
+caption: None
+saved: False
+image: None
+name: Dolce Segredo

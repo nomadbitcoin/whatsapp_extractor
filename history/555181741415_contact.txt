@@ -1,0 +1,6 @@
+saved: True
+name: Eloá (Yan)
+phone: +55 51 8174-1415
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72452460_226953481625885_3579534308666344399_n.jpg%3Foe%3D5DFA67D0%26oh%3Dfd99871af10521caf1e325ba50ded48f&t=l&u=555181741415%40c.us&i=1574392973
+business: False
+caption: None

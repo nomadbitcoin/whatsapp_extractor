@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71474744_1342419895918446_8556226937041715200_n.jpg%3Foe%3D5DFE9226%26oh%3Dc76f532daa103fdc3b72758380dcfca2&t=l&u=554796612102%40c.us&i=1572892157
+name: Roseli
+business: False
+saved: True
+caption: None
+phone: +55 47 9661-2102

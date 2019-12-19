@@ -4,3 +4,9 @@ business: False
 caption: None
 phone: +55 47 9629-4000
 name: Marcia 237
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56433495_427562177805034_5030180227226009600_n.jpg%3Foe%3D5DF5F752%26oh%3D3d00d545bf7a728a6f65637dca4c4b05&t=l&u=554796294000%40c.us&i=1551471902
+caption: None
+saved: True
+name: 
+phone: +55 47 9629-4000

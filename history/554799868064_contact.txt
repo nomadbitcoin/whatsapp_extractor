@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F57618622_869147760086689_8462830837375696896_n.jpg%3Foe%3D5DFEA483%26oh%3D91940ea116081410edc41eb5733de3dd&t=l&u=554799868064%40c.us&i=1555900029
+name: Rosa 269
+business: False
+saved: True
+caption: None
+phone: +55 47 9986-8064

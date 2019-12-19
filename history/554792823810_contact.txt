@@ -1,0 +1,6 @@
+saved: True
+name: Beatriz Ifood
+phone: +55 47 9282-3810
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F68976479_161390255252221_1880472695393474791_n.jpg%3Foe%3D5DFA82D7%26oh%3D924e9be6f4c52a31057f32e7a1144626&t=l&u=554792823810%40c.us&i=1574872565
+business: False
+caption: None

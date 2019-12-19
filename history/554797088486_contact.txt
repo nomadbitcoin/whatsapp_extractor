@@ -1,0 +1,6 @@
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73091793_706026036556225_4974768625922150779_n.jpg%3Foe%3D5DF5A0BA%26oh%3Dd98e422405060e8d82e46924fe7e7a7b&t=l&u=554797088486%40c.us&i=1575415049
+caption: None
+saved: True
+name: Amanda
+phone: +55 47 9708-8486

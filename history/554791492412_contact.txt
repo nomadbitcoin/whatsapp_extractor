@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56153866_316734365682242_2990693656437981184_n.jpg%3Foe%3D5DFE8A30%26oh%3D23945a02fde2e9559f4e8d6e30f0a8ee&t=l&u=554791492412%40c.us&i=1526396938
+name: Bruno - ReidoMar
+business: False
+saved: True
+caption: None
+phone: +55 47 9149-2412

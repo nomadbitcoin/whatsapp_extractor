@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56332475_2232309287019800_2138506642365349888_n.jpg%3Foe%3D5DF7891C%26oh%3D3f5e19667043f2e3ba8a5deb1ecc078b&t=l&u=554792798028%40c.us&i=1551214132
+phone: +55 47 9279-8028
+caption: None
+business: False
+saved: True
+name: Dida Julia

@@ -1,0 +1,6 @@
+business: False
+name: Aline 296/670
+image: None
+caption: None
+phone: +55 48 9644-5548
+saved: True

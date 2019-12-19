@@ -1,0 +1,6 @@
+business: False
+phone: +55 47 9735-4189
+caption: None
+saved: True
+image: None
+name: Roh

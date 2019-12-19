@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56951247_2143431919106966_6772318107508670464_n.jpg%3Foe%3D5DFE84D3%26oh%3D05f71eca7e1169733436e94d59f724e3&t=l&u=554799522915%40c.us&i=1443996581
+name: Jode Adriano Deon
+business: False
+saved: True
+caption: None
+phone: +55 47 9952-2915

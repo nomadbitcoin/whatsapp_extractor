@@ -4,3 +4,9 @@ name: Emmely
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75371328_1250327775169676_737970124039297871_n.jpg%3Foe%3D5DF28AF0%26oh%3D8428b22af94e8934897e01e56600a981&t=l&u=554792332914%40c.us&i=1573828628
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75371328_1250327775169676_737970124039297871_n.jpg%3Foe%3D5DF5B023%26oh%3D70aa21b7420a693071086318d1bf3108&t=l&u=554792332914%40c.us&i=1573828628
+caption: None
+saved: True
+name: Emmely
+phone: +55 47 9233-2914

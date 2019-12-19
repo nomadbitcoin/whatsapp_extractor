@@ -1,0 +1,6 @@
+saved: True
+name: Junior Fagundes
+phone: +55 48 9988-1436
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55865387_2156678624637220_5082567072911720448_n.jpg%3Foe%3D5DFA87B2%26oh%3D0de1c9eadd099e574083ed9e366da01a&t=l&u=554899881436%40c.us&i=1551393033
+business: False
+caption: None

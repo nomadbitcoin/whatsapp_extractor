@@ -1,0 +1,6 @@
+saved: True
+name: Ivann Lista
+phone: +55 47 9998-6825
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56371177_392299621592735_3911093332515749888_n.jpg%3Foe%3D5DFA8E3A%26oh%3Da67f1e28ac106d336696d664abd73b9c&t=l&u=554799986825%40c.us&i=1503321321
+business: False
+caption: None

@@ -1,0 +1,30 @@
+,date,status,content,time,type
+0,17/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,17/12/2019,received,"Bom dia!
+10:00",10:00,text
+2,17/12/2019,received,"Qual o cardápio de hj?
+10:00",10:00,text
+3,17/12/2019,viewed,blob:https://web.whatsapp.com/aa67b54a-5c06-4821-8693-3e8c351bdb08,10:01,image
+4,17/12/2019,received,"Preciso de 3
+10:07",10:07,text
+5,17/12/2019,viewed,"Ok
+10:08",10:08,text
+6,17/12/2019,viewed,"Qual o endereço?
+10:08",10:08,text
+7,17/12/2019,received,"Mas uma não precisa colocar arroz e feijão, aí pode aumentar a salada?
+10:08",10:08,text
+8,17/12/2019,viewed,"Combinado
+10:08",10:08,text
+9,17/12/2019,received,"Você
+Qual o endereço?
+Na secretaria de saúde
+10:08",10:08,text
+10,17/12/2019,viewed,"Tá certo
+10:08",10:08,text
+11,17/12/2019,viewed,"Qual seu nome?
+10:08",10:08,text
+12,17/12/2019,received,"Elaine
+10:11",10:11,text
+13,17/12/2019,viewed,"Obrigado então Elaine
+10:11",10:11,text
+14,18/12/2019,viewed,blob:https://web.whatsapp.com/f739238c-fa31-4d61-8d88-ab3b88120ef3,10:21,image

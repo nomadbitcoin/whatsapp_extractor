@@ -4,3 +4,9 @@ name: Thaline Ifood
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64397795_1570340183102196_4758585032505819136_n.jpg%3Foe%3D5DF29C3F%26oh%3D38fe89a23953f340d91d28ab2c7e7a51&t=l&u=554792772226%40c.us&i=1561996524
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64397795_1570340183102196_4758585032505819136_n.jpg%3Foe%3D5DF5B7CD%26oh%3Dee06d2a7da04a2d6b3aa17a5e7b971ed&t=l&u=554792772226%40c.us&i=1561996524
+caption: None
+saved: True
+name: Thaline Ifood
+phone: +55 47 9277-2226

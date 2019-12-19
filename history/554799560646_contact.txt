@@ -1,0 +1,6 @@
+saved: True
+name: Loiraci
+phone: +55 47 9956-0646
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56105971_2281994745214581_6045518497524482048_n.jpg%3Foe%3D5DFA6EBC%26oh%3D7aa0dea7bec3347a2ce2ddc020e3be7a&t=l&u=554799560646%40c.us&i=1551372743
+business: False
+caption: None

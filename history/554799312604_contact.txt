@@ -1,0 +1,6 @@
+name: Fabio?
+caption: None
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69667027_504429487007176_9096093408342048768_n.jpg%3Foe%3D5DFEBBF8%26oh%3D0110a2ac72717806f7854c029b716029&t=l&u=554799312604%40c.us&i=1570492418
+business: False
+saved: True
+phone: +55 47 9931-2604

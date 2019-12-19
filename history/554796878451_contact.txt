@@ -1,0 +1,6 @@
+business: False
+name: K Adriane
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74715110_279386159645001_936802379641794087_n.jpg%3Foe%3D5DF65840%26oh%3Dcb1080a45c60ade610b0142bbc4d95e6&t=l&u=554796878451%40c.us&i=1574774816
+caption: None
+phone: +55 47 9687-8451
+saved: True

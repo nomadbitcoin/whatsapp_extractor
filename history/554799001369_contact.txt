@@ -1,0 +1,6 @@
+image: None
+name: Bruno Tattoo
+business: False
+saved: True
+caption: None
+phone: +55 47 9900-1369

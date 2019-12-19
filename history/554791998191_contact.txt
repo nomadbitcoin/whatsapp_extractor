@@ -1,0 +1,6 @@
+saved: True
+name: Gabrieli Praiana
+phone: +55 47 9199-8191
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F62092968_1220683508092351_1851984550800916480_n.jpg%3Foe%3D5DFA9D3C%26oh%3D7b30ab43690e4927ab34bbefcc58b6c0&t=l&u=554791998191%40c.us&i=1561734888
+business: True
+caption: None

@@ -1,0 +1,6 @@
+saved: True
+name: Ana pereque
+phone: +55 47 9672-5417
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69522445_202706147413623_3145041075643159334_n.jpg%3Foe%3D5DFA5D0A%26oh%3D30341a605d517bb956f065f746be57ed&t=l&u=554796725417%40c.us&i=1575769175
+business: False
+caption: None

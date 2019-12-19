@@ -1,0 +1,12 @@
+saved: True
+name: Sueli
+phone: +55 47 9736-3321
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F67836660_812988572429751_981454538860920832_n.jpg%3Foe%3D5DFA567C%26oh%3Df2bcfc3e67a0b7e562f517fec1a8d19a&t=l&u=554797363321%40c.us&i=1567903789
+business: False
+caption: None
+saved: True
+name: Sueli
+phone: +55 47 9736-3321
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F67836660_812988572429751_981454538860920832_n.jpg%3Foe%3D5DFA57AA%26oh%3Dae018ea4baabbd164e13ba9f14982166&t=l&u=554797363321%40c.us&i=1567903789
+business: False
+caption: None

@@ -1,0 +1,51 @@
+,date,status,content,time,type
+0,12/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,12/12/2019,received,"Oi bom dia qnto sai a marmita
+10:09",10:09,text
+2,12/12/2019,viewed,"Bom dia
+10:09",10:09,text
+3,12/12/2019,viewed,blob:https://web.whatsapp.com/eb321340-fcbe-4d1a-bcec-5a800943ae01,10:09,image
+4,12/12/2019,received,"Cobram entrega aqui ao lado da havam?
+10:10",10:10,text
+5,12/12/2019,viewed,"Havan de Porto Belo?
+10:10",10:10,text
+6,12/12/2019,received,"N itapema
+10:10",10:10,text
+7,12/12/2019,viewed,"Qual rua exatamente?
+10:10",10:10,text
+8,12/12/2019,received,"420
+10:11",10:11,text
+9,12/12/2019,viewed,blob:https://web.whatsapp.com/564a5a5e-ae0c-4b1f-b060-9b58369c1271,10:11,image
+10,12/12/2019,received,"E quase na meia so atravessar o túnel
+10:12",10:12,text
+11,12/12/2019,viewed,blob:https://web.whatsapp.com/b160f3ee-e0ee-4dfe-a3ab-84a098d5dca2,10:12,image
+12,12/12/2019,viewed,audio: blob:https://web.whatsapp.com/f70f9d1b-cc08-4449-94d8-c77c38616498,10:12,audio
+13,12/12/2019,viewed,audio: blob:https://web.whatsapp.com/976d19d7-8045-4fba-af8a-b406dc54c28c,10:12,audio
+14,12/12/2019,received,"E dai n da muito tarde
+10:13",10:13,text
+15,12/12/2019,viewed,"Poise
+10:13",10:13,text
+16,12/12/2019,viewed,"Te peço desculpas
+10:13",10:13,text
+17,12/12/2019,received,"Tranquilo
+10:13",10:13,text
+18,12/12/2019,received,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",10:13,image
+19,13/12/2019,viewed,blob:https://web.whatsapp.com/ec56ba58-c93c-45f0-98cc-b1f806b54929,10:09,image
+20,13/12/2019,received,"So uma pergunta vcs ficam localizados aonde
+10:34",10:34,text
+21,13/12/2019,viewed,"Nós somos de Porto Belo
+10:37",10:37,text
+22,13/12/2019,viewed,"Atendemos Porto Belo no caso e Meia Praia
+10:38",10:38,text
+23,16/12/2019,viewed,blob:https://web.whatsapp.com/b5af8340-bdca-4867-b2f7-f74924318c92,09:02,image
+24,17/12/2019,viewed,blob:https://web.whatsapp.com/aa67b54a-5c06-4821-8693-3e8c351bdb08,09:57,image
+25,17/12/2019,received,"Bom dia aonde vcs fican localizados
+10:58",10:58,text
+26,17/12/2019,viewed,"Bom Dia ,informamos que os pedidos de hoje estão encerrados Agradecemos muito a preferência e o sucesso de sempre!||#NaBike|#ComidaInteligente|10:59",10:59,automatic
+27,17/12/2019,received,"?
+10:59",10:59,text
+28,17/12/2019,received,"Nem pra retirada ai?
+11:00",11:00,text
+29,17/12/2019,viewed,audio: blob:https://web.whatsapp.com/f9c615c5-12a6-4031-bd3d-a714c125dd47,12:46,audio
+30,17/12/2019,received,https://web.whatsapp.com/img/4742377b4ae743abd4f117e58c6c829b_w_736-64.png,13:09,image
+31,18/12/2019,viewed,blob:https://web.whatsapp.com/f739238c-fa31-4d61-8d88-ab3b88120ef3,10:33,image

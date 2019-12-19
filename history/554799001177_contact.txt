@@ -1,0 +1,12 @@
+saved: True
+name: Guto?
+phone: +55 47 9900-1177
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56971622_538023350056182_5304013301770878976_n.jpg%3Foe%3D5DFA567C%26oh%3D0de520d8f6c39545d7cb65427705c255&t=l&u=554799001177%40c.us&i=1466693861
+business: False
+caption: None
+saved: True
+name: Guto?
+phone: +55 47 9900-1177
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56971622_538023350056182_5304013301770878976_n.jpg%3Foe%3D5DFA57AA%26oh%3Deccadb5e212ebd5507066507c1cb919b&t=l&u=554799001177%40c.us&i=1466693861
+business: False
+caption: None

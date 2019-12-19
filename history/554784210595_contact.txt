@@ -1,0 +1,6 @@
+saved: True
+name: Giuliana
+phone: +55 47 8421-0595
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F60802939_2214649975251221_8341870011266105344_n.jpg%3Foe%3D5DFA7EFB%26oh%3D3131885e9737ca910be990017db8d7c8&t=l&u=554784210595%40c.us&i=1558625963
+business: False
+caption: None

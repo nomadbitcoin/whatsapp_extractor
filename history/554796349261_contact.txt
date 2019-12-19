@@ -1,0 +1,6 @@
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F57489603_1299639540200762_8859761789202595840_n.jpg%3Foe%3D5DFE7B1E%26oh%3D230724d62eead018087122ae105dbcf2&t=l&u=554796349261%40c.us&i=1552915076
+name: Wm Vidros Wilian
+business: False
+saved: True
+caption: None
+phone: +55 47 9634-9261

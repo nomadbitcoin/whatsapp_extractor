@@ -4,3 +4,9 @@ name: Istela 226
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74490004_1202036389999743_604698029565977094_n.jpg%3Foe%3D5DF2851A%26oh%3Dd4794253134136cce3e323705e8b43fe&t=l&u=554791314511%40c.us&i=1575725398
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73411715_576570206495704_4539168623147873508_n.jpg%3Foe%3D5DF5AD05%26oh%3Dd015f9ca04e45fb6344ccfe0562d8d28&t=l&u=554791314511%40c.us&i=1575917344
+caption: None
+saved: True
+name: Istela 226
+phone: +55 47 9131-4511

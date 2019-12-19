@@ -1,0 +1,6 @@
+saved: True
+name: Delei Motos Mar
+phone: +55 47 9666-5545
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55964158_1195213900638804_6281234188288917504_n.jpg%3Foe%3D5DFA6BDD%26oh%3D89d73ef0d5ca557495c4e62e78bc228f&t=l&u=554796665545%40c.us&i=1478184735
+business: False
+caption: None

@@ -4,3 +4,9 @@ name: Minyar 296
 caption: None
 business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71171384_2826666110718606_4147388373410369722_n.jpg%3Foe%3D5DF2A28A%26oh%3Dc28adbd59aaa930a6c7622c23bd851b8&t=l&u=555481388083%40c.us&i=1573585385
+business: False
+name: Minyar 296
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71171384_2826666110718606_4147388373410369722_n.jpg%3Foe%3D5DF66852%26oh%3D01e13bea682e8fb939dbe7422d7a29ba&t=l&u=555481388083%40c.us&i=1573585385
+caption: None
+phone: +55 54 8138-8083
+saved: True

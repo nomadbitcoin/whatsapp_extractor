@@ -4,3 +4,9 @@ business: False
 caption: None
 phone: +55 47 9925-4263
 name: Jean
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F68744001_527030504736389_6857225015335583744_n.jpg%3Foe%3D5DF5CCFA%26oh%3D0a9e51973b43aa3372a6a152e09f66ff&t=l&u=554799254263%40c.us&i=1567433601
+caption: None
+saved: True
+name: Jean
+phone: +55 47 9925-4263

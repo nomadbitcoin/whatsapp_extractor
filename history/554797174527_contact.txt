@@ -4,3 +4,9 @@ business: False
 image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71539337_184901802688352_2808779112284969824_n.jpg%3Foe%3D5DF4FE80%26oh%3Dbb69993c0b1fc45dfbfed548dbd7666f&t=l&u=554797174527%40c.us&i=1575761638
 name: Sem Nome59
 phone: +55 47 9717-4527
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71539337_184901802688352_2808779112284969824_n.jpg%3Foe%3D5DF5F961%26oh%3D79c606038831401cb77edf4db66ebccd&t=l&u=554797174527%40c.us&i=1575761638
+caption: None
+saved: True
+name: Sem Nome59
+phone: +55 47 9717-4527

@@ -1,0 +1,6 @@
+saved: True
+name: Jáqueline Krass
+phone: +55 47 9642-9737
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F72397972_454666125163618_1380538714138323463_n.jpg%3Foe%3D5DFA8202%26oh%3Dbe71ee49442aa37abaed564b629c56c8&t=l&u=554796429737%40c.us&i=1573507839
+business: False
+caption: None
