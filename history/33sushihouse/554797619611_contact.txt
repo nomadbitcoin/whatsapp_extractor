@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64782304_529306004486976_3547257401512034304_n.jpg%3Foe%3D5E00AB57%26oh%3D62f7877bc2e915477251a586251a1a93&t=l&u=554797619611%40c.us&i=1567988504
+name: Iuri - R272D - N518 Ap 301
+phone: +55 47 9761-9611
+caption: None

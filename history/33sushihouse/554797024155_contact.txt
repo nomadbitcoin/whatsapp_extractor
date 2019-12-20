@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71885541_2210281812609176_4809519822981679675_n.jpg%3Foe%3D5E00A7E9%26oh%3D9677bc0ed6446b74869e19cb0ceb7087&t=l&u=554797024155%40c.us&i=1576326414
+name: Fernanda Opergel
+phone: +55 47 9702-4155
+caption: None

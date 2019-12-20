@@ -1,0 +1,48 @@
+,date,status,content,time,type
+0,11/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,11/12/2019,received,"Boa noite
+19:52",19:52,text
+2,11/12/2019,received,"Tudo bem?
+19:52",19:52,text
+3,11/12/2019,received,"Quero fazer um pedido
+19:52",19:52,text
+4,11/12/2019,viewed,"Ola, boa noite tudo bemm
+19:53",19:53,text
+5,11/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,19:53,image
+6,11/12/2019,received,"08 uramaki salmão
+08 Hot camarão
+08 sashimi salmão
+19:53",19:53,text
+7,11/12/2019,received,"01 sunomono
+19:54",19:54,text
+8,11/12/2019,received,"Rua Paraná, 121 Vila Nova. Fundo Ed. Vicente apto 01
+19:55",19:55,text
+9,11/12/2019,received,"Cristiano
+19:55",19:55,text
+10,11/12/2019,viewed,"Perfeito, vou lançar seu pedido
+19:55",19:55,text
+11,11/12/2019,received,"Qual valor e quanto tempo mais ou menos pra entregar?
+19:55",19:55,text
+12,11/12/2019,viewed,"Em 30 minutos esta entregue
+19:56",19:56,text
+13,11/12/2019,viewed,"ficou em R$ 72,60
+19:56",19:56,text
+14,11/12/2019,viewed,"mandar troco ou maquina de cartão?
+19:56",19:56,text
+15,11/12/2019,received,"Ok
+19:56",19:56,text
+16,11/12/2019,received,"Troco pra 100,00
+19:57",19:57,text
+17,11/12/2019,viewed,"perfeito
+19:57",19:57,text
+18,11/12/2019,viewed,"Consegue mandar localização só pra ajudar
+20:07",20:07,text
+19,11/12/2019,received,"Sim
+20:07",20:07,text
+20,11/12/2019,viewed,"obrigadoo
+20:08",20:08,text
+21,11/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.1621008%2C+-48.5648141&signature=jhJ5Bo9sW4ai0RPsqsDB3nFC3X0=,20:08,image
+22,11/12/2019,received,"Ele tem que entrar pela rua da igreja NATA, se for pela outra, dá nós fundos do edifício
+20:09",20:09,text
+23,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,20:03,image
+24,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:10,image

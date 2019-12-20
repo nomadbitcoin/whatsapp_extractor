@@ -1,0 +1,18 @@
+saved: True
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75457778_205011717189864_1857677995713439155_n.jpg%3Foe%3D5E00A05F%26oh%3D8c16f43ea3ed73a1586ab84dea49a155&t=l&u=554797058205%40c.us&i=1575850144
+phone: +55 47 9705-8205
+name: Eduardo Lopes
+caption: None
+business: False
+saved: True
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75457778_205011717189864_1857677995713439155_n.jpg%3Foe%3D5E00A30A%26oh%3D502893c4fdefd5a01c64ec5293670821&t=l&u=554797058205%40c.us&i=1575850144
+phone: +55 47 9705-8205
+name: Eduardo Lopes
+caption: None
+business: False
+saved: True
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75457778_205011717189864_1857677995713439155_n.jpg%3Foe%3D5E00A30A%26oh%3D502893c4fdefd5a01c64ec5293670821&t=l&u=554797058205%40c.us&i=1575850144
+phone: +55 47 9705-8205
+name: Eduardo Lopes
+caption: None
+business: False

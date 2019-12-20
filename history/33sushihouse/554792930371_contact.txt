@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74903007_476002729965480_7138542390273600202_n.jpg%3Foe%3D5E00AB19%26oh%3D9a5d996086a3280e65874a591fa7c929&t=l&u=554792930371%40c.us&i=1576463344
+name: Drica
+phone: +55 47 9293-0371
+caption: None

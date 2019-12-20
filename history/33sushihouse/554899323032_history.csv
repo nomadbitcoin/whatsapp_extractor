@@ -1,0 +1,19 @@
+,date,status,content,time,type
+0,16/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,16/12/2019,received,"Boa noite!
+19:30",19:30,text
+2,16/12/2019,viewed,"Ola, boa noite
+19:30",19:30,text
+3,16/12/2019,received,"Alguma promoção hoje ,?
+19:30",19:30,text
+4,16/12/2019,viewed,"Hoje não amigo, cardapio padrão
+19:30",19:30,text
+5,16/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,19:41,image
+6,16/12/2019,received,"Já pedi pelo iFood
+19:43",19:43,text
+7,16/12/2019,received,"Obrigado!!
+19:43",19:43,text
+8,16/12/2019,viewed,"Show!!
+19:50",19:50,text
+9,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:56,image
+10,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:17,image

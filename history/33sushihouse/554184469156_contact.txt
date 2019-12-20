@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64331329_2382748645308391_7668020613532876800_n.jpg%3Foe%3D5E00A837%26oh%3D2a1b6e61ee5b9a40b569ede1dc52bed5&t=l&u=554184469156%40c.us&i=1568587055
+name: Sem Nome24
+phone: +55 41 8446-9156
+caption: None

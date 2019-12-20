@@ -1,0 +1,68 @@
+,date,status,content,time,type
+0,11/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,11/12/2019,received,"Boa noite
+21:05",21:05,text
+2,11/12/2019,received,"Gostaria de fazer um pedido
+21:05",21:05,text
+3,11/12/2019,received,"Vc tem o cardápio
+21:05",21:05,text
+4,11/12/2019,viewed,"Olá boa noite
+21:06",21:06,text
+5,11/12/2019,viewed,blob:https://web.whatsapp.com/485d1295-e5ff-4221-bbac-3e65ce139691,21:07,image
+6,11/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,21:07,image
+7,11/12/2019,received,"Uramaki com abacate ao redor tem ?
+21:11",21:11,text
+8,11/12/2019,received,"De camarão
+21:12",21:12,text
+9,11/12/2019,viewed,"Esse é o avocado
+21:13",21:13,text
+10,11/12/2019,viewed,"e o de camarao temos 4
+21:14",21:14,text
+11,11/12/2019,viewed,"uramaki camarao, o fry, o especial fry e o ebi 33
+21:14",21:14,text
+12,11/12/2019,received,"Você
+Esse é o avocado
+Esse então não da pra fazer de camarão ?
+21:15",21:15,text
+13,11/12/2019,viewed,"O avocado não, ele é com atum
+21:21",21:21,text
+14,11/12/2019,received,"Então pode ser 1 fry de camarão 1 fry de salmão
+21:27",21:27,text
+15,11/12/2019,viewed,"perfeitoo
+21:28",21:28,text
+16,11/12/2019,received,"Para entregar
+21:28",21:28,text
+17,11/12/2019,viewed,"Ok
+21:28",21:28,text
+18,11/12/2019,viewed,"confirma endereço de entrega, se conseguir tambem a localização
+21:29",21:29,text
+19,11/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.140670776367188%2C+-48.6008415222168&signature=7GwPPsaAT_9jz0V_0bxTK9ibrMM=,21:29,image
+20,11/12/2019,received,"Rua 296 n793 apto 102 ao lado do colégio cuca
+21:29",21:29,text
+21,11/12/2019,viewed,"Ficou em R$ 50,80 com a entrega
+21:30",21:30,text
+22,11/12/2019,viewed,"Hashi para 1 pessoa?
+21:30",21:30,text
+23,11/12/2019,received,"2 pessoas
+21:35",21:35,text
+24,11/12/2019,received,"Se puder mandar gengibre tbm
+21:35",21:35,text
+25,11/12/2019,viewed,"ok, mando salada sunomono cortesia
+21:35",21:35,text
+26,11/12/2019,viewed,"mando sim
+21:35",21:35,text
+27,11/12/2019,received,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",21:35,image
+28,11/12/2019,viewed,"Obrigadoo voce
+21:37",21:37,text
+29,11/12/2019,viewed,"vai ser dinheiro ou cartão
+21:38",21:38,text
+30,11/12/2019,received,"Dinheiro
+21:43",21:43,text
+31,11/12/2019,viewed,"ook
+21:44",21:44,text
+32,11/12/2019,viewed,"precisa de troco?
+21:44",21:44,text
+33,11/12/2019,received,"Não
+21:48",21:48,text
+34,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,20:02,image
+35,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:11,image

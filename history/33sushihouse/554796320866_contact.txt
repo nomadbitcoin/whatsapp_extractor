@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56706388_637254373384039_3518046280959918080_n.jpg%3Foe%3D5E00AB68%26oh%3Da5ec45351e64dcc554fc92c8477fd6b3&t=l&u=554796320866%40c.us&i=1497461712
+name: Judite - N603
+phone: +55 47 9632-0866
+caption: None

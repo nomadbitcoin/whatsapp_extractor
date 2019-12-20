@@ -1,0 +1,6 @@
+saved: False
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F69875942_527534068005776_7765787645581459456_n.jpg%3Foe%3D5E00A7E4%26oh%3Dd151606660011e5ecdd20dc767e31b87&t=l&u=554799181062%40c.us&i=1568242845
+name: Patricia Didek
+phone: +55 47 9918-1062
+caption: None

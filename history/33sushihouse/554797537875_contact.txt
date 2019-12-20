@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71535646_156676255655730_3399886113207744253_n.jpg%3Foe%3D5E00A8CB%26oh%3D9785f8edd6b1da636ac903a28a354523&t=l&u=554797537875%40c.us&i=1573674851
+name: Nanda
+phone: +55 47 9753-7875
+caption: None

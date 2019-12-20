@@ -1,0 +1,6 @@
+saved: False
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F56737407_1998107107165929_2528132700930310144_n.jpg%3Foe%3D5E00ABC2%26oh%3D5b581ad81a128f68683d78494a5e7e1d&t=l&u=554791519470%40c.us&i=1552378630
+name: Bruninho
+phone: +55 47 9151-9470
+caption: None

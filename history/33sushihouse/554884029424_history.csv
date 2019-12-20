@@ -1,0 +1,96 @@
+,date,status,content,time,type
+0,18/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,18/12/2019,received,"Boa noite
+20:03",20:03,text
+2,18/12/2019,received,"Tem alguma promoção?
+20:03",20:03,text
+3,18/12/2019,viewed,"Boa noite tudo bem
+20:03",20:03,text
+4,18/12/2019,viewed,"hoje não temos nenhuma promoção
+20:03",20:03,text
+5,18/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,20:04,image
+6,18/12/2019,received,"1 Temaki salmão com cebolinha 
+1 temaki salmão Philadelphia 
+1 Uramaki salmão Phila
+20:05",20:05,text
+7,18/12/2019,received,"Entregam  no marios?
+Na conveniência
+20:05",20:05,text
+8,18/12/2019,viewed,audio: blob:https://web.whatsapp.com/8b247107-db7d-4ef1-9d39-fa4b34fa81b7,20:07,audio
+9,18/12/2019,viewed,"qual a forma de pagamento?
+20:09",20:09,text
+10,18/12/2019,received,"Cartão
+20:12",20:12,text
+11,18/12/2019,received,"Pedido foi colocado?
+20:17",20:17,text
+12,18/12/2019,viewed,"Foi sim
+20:19",20:19,text
+13,18/12/2019,viewed,"logo sai para entrega
+20:19",20:19,text
+14,18/12/2019,received,"Valeu
+20:20",20:20,text
+15,18/12/2019,received,"Saiu?
+20:43",20:43,text
+16,18/12/2019,viewed,"esta indo
+20:43",20:43,text
+17,18/12/2019,received,"Não saiu né?!
+20:54",20:54,text
+18,18/12/2019,received,"Vou busca e
+20:54",20:54,text
+19,18/12/2019,viewed,"beleza esta pronto ja
+20:55",20:55,text
+20,18/12/2019,viewed,"pode vir
+20:55",20:55,text
+21,18/12/2019,viewed,blob:https://web.whatsapp.com/e85a5790-d3a8-4863-9098-744a363cbfd3,21:08,image
+22,18/12/2019,received,"?
+21:08",21:08,text
+23,18/12/2019,viewed,blob:https://web.whatsapp.com/ffcd1e91-b185-4a99-9e08-54a74d710a4a,21:11,image
+24,18/12/2019,received,"Pedido temaki salmão com Philadelphia e veio algo salmão assado parece
+21:11",21:11,text
+25,18/12/2019,received,"Meu marido não come isso
+21:11",21:11,text
+26,18/12/2019,viewed,blob:https://web.whatsapp.com/8ffff76c-cf22-40a6-9e99-466891ce8975,21:11,image
+27,18/12/2019,viewed,"certo
+21:12",21:12,text
+28,18/12/2019,viewed,"pode passa aqui logo menos
+21:13",21:13,text
+29,18/12/2019,viewed,"pra receber?
+21:13",21:13,text
+30,18/12/2019,received,"Eu saí de cssa para buscar e veio  errado
+21:13",21:13,text
+31,18/12/2019,received,"Não vou sair novamente
+21:14",21:14,text
+32,18/12/2019,received,"Meu marido não come esse. Quer o que come
+21:14",21:14,text
+33,18/12/2019,viewed,"logo menos levamos para voce ok?
+21:14",21:14,text
+34,18/12/2019,viewed,"no marius isso?
+21:14",21:14,text
+35,18/12/2019,received,"Não
+21:14",21:14,text
+36,18/12/2019,received,"Rua Victor Fronza, 57 
+Apto 803
+21:14",21:14,text
+37,18/12/2019,received,"Perequê
+21:16",21:16,text
+38,18/12/2019,viewed,"Entendi
+21:19",21:19,text
+39,18/12/2019,viewed,"Foi só o temaki philadelphia errado ne
+21:19",21:19,text
+40,18/12/2019,viewed,"Ja esta no sushi seu pedido e logo mando ok
+21:19",21:19,text
+41,18/12/2019,viewed,"ficou $ 3,0
+21:20",21:20,text
+42,18/12/2019,viewed,"Ja levo junto
+21:20",21:20,text
+43,18/12/2019,received,"Sim, temaki veio errado
+21:20",21:20,text
+44,18/12/2019,viewed,"ok
+21:21",21:21,text
+45,18/12/2019,viewed,"oi ja esta indo
+21:36",21:36,text
+46,18/12/2019,viewed,"confirma com sua localizaqção fazendo um favor
+21:36",21:36,text
+47,18/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.1515544%2C+-48.5768814&signature=GBGU6BfhL47J0PrdPAG5sDQJIpA=,21:38,image
+48,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:50,image
+49,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:24,image

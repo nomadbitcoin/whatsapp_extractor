@@ -1,0 +1,6 @@
+saved: False
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F74528120_539069200274599_3786375482424002875_n.jpg%3Foe%3D5E00AAFE%26oh%3D7380cfae9950c6670858e593a03fd633&t=l&u=554991462414%40c.us&i=1576165334
+name: Daniel Jusepe Celuppi
+phone: +55 49 9146-2414
+caption: None

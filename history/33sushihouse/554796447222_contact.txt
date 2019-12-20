@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71940428_167495461032431_8077014184114368627_n.jpg%3Foe%3D5E00A96F%26oh%3D463254c1a0a7c06ec17248589c95f859&t=l&u=554796447222%40c.us&i=1573673084
+name: Fabi Fidelis
+phone: +55 47 9644-7222
+caption: None

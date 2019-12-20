@@ -1,0 +1,343 @@
+,date,status,content,time,type
+0,09/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,09/12/2019,received,"Oi
+21:49",21:49,text
+2,09/12/2019,viewed,"Encaminhada
+Rua manoel felipe da silva 596
+21:50",21:50,text
+3,09/12/2019,received,"Fabi ta em casa?
+22:30",22:30,text
+4,09/12/2019,received,"Qual o ap
+23:06",23:06,text
+5,09/12/2019,received,"Aqui do morretes
+23:07",23:07,text
+6,09/12/2019,received,"Rua 414
+23:07",23:07,text
+7,09/12/2019,viewed,"1104
+23:07",23:07,text
+8,10/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",19:07,image
+9,10/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.1560723%2C+-48.580657&signature=ixQRvqzHI30EQQQ7yxNDRRH3mlY=,22:30,image
+10,10/12/2019,viewed,"Av. Sen. Atílio Fontana, 947
+22:53",22:53,text
+11,10/12/2019,viewed,"1005 ● Residencial Kirchner
+22:53",22:53,text
+12,11/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",19:54,image
+13,11/12/2019,viewed,blob:https://web.whatsapp.com/29aa082f-39bd-4231-a274-bdf9b347d8ed,20:03,image
+14,11/12/2019,viewed,This message was deleted,21:50,deleted
+15,11/12/2019,received,"Ja vou la
+21:50",21:50,text
+16,11/12/2019,viewed,"va dormi
+21:50",21:50,text
+17,12/12/2019,viewed,"entao toma
+16:13",16:13,text
+18,12/12/2019,viewed,"https://www.youtube.com/watch?v=OqGfKIX-4-8
+16:13",16:13,text
+19,12/12/2019,received,"Ué
+16:23",16:23,text
+20,12/12/2019,viewed,"data:image/jpeg;base64,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",16:25,image
+21,12/12/2019,viewed,"vini passa no mercadis vindo
+17:29",17:29,text
+22,12/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",17:30,image
+23,12/12/2019,viewed,"precisamos de 15 pepinos japoneses bem lindus igual tu e se conseguir trazer uma caixa de ovo
+17:30",17:30,text
+24,12/12/2019,viewed,"amamos voce
+17:30",17:30,text
+25,12/12/2019,received,"Na moto?
+17:31",17:31,text
+26,12/12/2019,viewed,"nao cabe dentro os pepinnho
+17:32",17:32,text
+27,12/12/2019,received,"Nao
+17:33",17:33,text
+28,12/12/2019,received,"Eu levo a mochila
+17:41",17:41,text
+29,12/12/2019,viewed,"essas duas coisas vai conseguir trazer dai?
+17:42",17:42,text
+30,12/12/2019,received,"1 duzia de ovo?
+17:43",17:43,text
+31,12/12/2019,viewed,"Isso
+17:44",17:44,text
+32,12/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",18:57,image
+33,12/12/2019,viewed,blob:https://web.whatsapp.com/29aa082f-39bd-4231-a274-bdf9b347d8ed,18:58,image
+34,12/12/2019,viewed,"Encaminhada
+Entrega Rua Angélica Albano. N
+ 360, vila nova, porto belo
+20:05",20:05,text
+35,12/12/2019,viewed,"R. Rio Itajaí-Acu, 44 - Zimbros - Bombinhas
+20:32",20:32,text
+36,12/12/2019,viewed,"viniii
+21:43",21:43,text
+37,12/12/2019,viewed,"nao mandei o troco da bruna pra ti
+21:43",21:43,text
+38,12/12/2019,received,"Qual o ap
+21:51",21:51,text
+39,12/12/2019,received,"Rapido
+21:51",21:51,text
+40,12/12/2019,viewed,"bloco E 102
+21:51",21:51,text
+41,12/12/2019,received,"Avisa que to aqui
+22:57",22:57,text
+42,12/12/2019,received,"Rua 252
+22:57",22:57,text
+43,12/12/2019,viewed,"aviseiu
+22:57",22:57,text
+44,13/12/2019,viewed,audio: blob:https://web.whatsapp.com/a973f239-334b-4a10-aee7-e85e604afde0,10:48,audio
+45,13/12/2019,viewed,audio: blob:https://web.whatsapp.com/4fd84a00-4cf2-4c33-8821-dc3c0a21307d,10:48,audio
+46,13/12/2019,viewed,audio: blob:https://web.whatsapp.com/95ffa360-76ee-4294-a07a-e332962a72be,10:52,audio
+47,13/12/2019,viewed,audio: blob:https://web.whatsapp.com/db2c0c84-e369-4721-91ef-1297da7c3e15,10:52,audio
+48,13/12/2019,received,"Mano
+16:31",16:31,text
+49,13/12/2019,received,"Chegou só agr as msg do whatsapp aqui
+16:32",16:32,text
+50,13/12/2019,received,"Nao sei oq deu
+16:32",16:32,text
+51,13/12/2019,received,"Até estranhei que ninguém falou nada hj
+16:32",16:32,text
+52,13/12/2019,viewed,"Deu fuga né safadoo
+16:39",16:39,text
+53,13/12/2019,viewed,"sei
+16:39",16:39,text
+54,13/12/2019,viewed,"ashuashauhsauhs
+16:39",16:39,text
+55,13/12/2019,viewed,"deu boa eu me virei, sabe que sou ninja
+16:40",16:40,text
+56,13/12/2019,received,"Boa
+16:43",16:43,text
+57,13/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",19:23,image
+58,13/12/2019,viewed,blob:https://web.whatsapp.com/4c01f134-9762-4fc3-948f-444d8cdcb67a,19:24,image
+59,13/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.0995506%2C+-48.6191017&signature=gzA5bVbHTu0LbhlOEqCpt9KIOwM=,19:28,image
+60,13/12/2019,viewed,"Encaminhada
+Marginal Oeste, 22 Tabuleiro dos Oliveira
+19:28",19:28,text
+61,15/12/2019,viewed,"Irrruuuu
+18:51",18:51,text
+62,15/12/2019,received,"Irru
+18:53",18:53,text
+63,15/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",19:13,image
+64,15/12/2019,viewed,blob:https://web.whatsapp.com/29aa082f-39bd-4231-a274-bdf9b347d8ed,19:13,image
+65,15/12/2019,viewed,"Encaminhada
+Dr Orlando pereira
+21:53",21:53,text
+66,15/12/2019,viewed,"Encaminhada
+N 445
+21:53",21:53,text
+67,15/12/2019,viewed,"46984137064
+22:25",22:25,text
+68,15/12/2019,received,"Avisa o cara da imobiliária
+22:32",22:32,text
+69,15/12/2019,viewed,"avisei
+22:33",22:33,text
+70,15/12/2019,viewed,"o da baleia branca ja foi?
+22:33",22:33,text
+71,15/12/2019,received,"Nao
+22:33",22:33,text
+72,15/12/2019,received,"Ja aviso
+22:33",22:33,text
+73,15/12/2019,viewed,"ok
+22:34",22:34,text
+74,15/12/2019,viewed,"avisei ele
+22:34",22:34,text
+75,15/12/2019,viewed,"Rubens Alves 161
+22:41",22:41,text
+76,15/12/2019,viewed,"ap 102
+22:41",22:41,text
+77,15/12/2019,received,"Avisa do condomínio
+22:44",22:44,text
+78,15/12/2019,received,"Eii
+22:47",22:47,text
+79,15/12/2019,viewed,"to avisnaod
+22:49",22:49,text
+80,15/12/2019,viewed,"deixou a da imobiliaaria
+22:50",22:50,text
+81,15/12/2019,viewed,"a moça ta indo ai
+22:51",22:51,text
+82,15/12/2019,received,"Nao
+22:51",22:51,text
+83,15/12/2019,received,"Cara n atendeu
+22:51",22:51,text
+84,15/12/2019,viewed,"se enrolou la agora ta ligando atras
+22:51",22:51,text
+85,15/12/2019,viewed,"boca de caçapa
+22:51",22:51,text
+86,15/12/2019,received,"Buzinei altos
+22:51",22:51,text
+87,15/12/2019,viewed,"que espere agora
+22:51",22:51,text
+88,15/12/2019,received,"Né
+22:51",22:51,text
+89,15/12/2019,received,"Ja volto la
+22:51",22:51,text
+90,15/12/2019,viewed,"agr ele ta esperto la
+22:52",22:52,text
+91,16/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.1558608%2C+-48.5700855&signature=p7qXMhEDQgQTHwheVYTlBWHCjG0=,19:13,image
+92,16/12/2019,viewed,"Encaminhada
+Rua Leda Regina bertimes Serpa 116 casa 2
+19:13",19:13,text
+93,16/12/2019,received,"Avisa a fabi ai pra descer
+19:36",19:36,text
+94,16/12/2019,received,"Nao ta funcionando o interfone
+19:36",19:36,text
+95,16/12/2019,viewed,"ok
+19:36",19:36,text
+96,16/12/2019,received,"Avisa ai
+20:54",20:54,text
+97,16/12/2019,viewed,"de qual
+20:54",20:54,text
+98,16/12/2019,received,"Do lado do marius
+20:54",20:54,text
+99,16/12/2019,viewed,"ok
+20:54",20:54,text
+100,16/12/2019,viewed,"vindo?
+21:56",21:56,text
+101,16/12/2019,received,"Sim
+21:57",21:57,text
+102,16/12/2019,received,"Kkkk
+22:22",22:22,text
+103,16/12/2019,viewed,"oq acontece
+22:27",22:27,text
+104,16/12/2019,received,blob:https://web.whatsapp.com/a5c081c4-6e74-4954-9674-1814f2815aaa,22:34,image
+105,16/12/2019,viewed,"kkkkkk novax
+22:41",22:41,text
+106,16/12/2019,viewed,"toma uma bala hoje e fazer uns video de sarrinho
+22:41",22:41,text
+107,16/12/2019,received,"Tenho a bala
+22:43",22:43,text
+108,16/12/2019,received,"Kkkkkkk
+22:43",22:43,text
+109,16/12/2019,viewed,"eu também
+22:44",22:44,text
+110,16/12/2019,viewed,"fecho o pacote
+22:44",22:44,text
+111,16/12/2019,viewed,"bora
+22:44",22:44,text
+112,16/12/2019,received,"Ei
+22:50",22:50,text
+113,16/12/2019,received,"Na rua 264
+22:50",22:50,text
+114,16/12/2019,viewed,"diga
+22:50",22:50,text
+115,16/12/2019,received,"É numero 52 msm?
+22:50",22:50,text
+116,16/12/2019,viewed,blob:https://web.whatsapp.com/e64420de-360d-43c3-bab5-04b444a58423,22:51,image
+117,16/12/2019,received,"E o valor
+22:55",22:55,text
+118,16/12/2019,received,"Nao coloco
+22:55",22:55,text
+119,16/12/2019,viewed,"54,70
+22:56",22:56,text
+120,16/12/2019,viewed,"nycolas que fez ne
+22:56",22:56,text
+121,16/12/2019,viewed,https://web.whatsapp.com/img/4742377b4ae743abd4f117e58c6c829b_w_1892-64.png,22:56,image
+122,17/12/2019,received,"Rua jose manuel
+20:29",20:29,text
+123,17/12/2019,received,"Numero 728?
+20:29",20:29,text
+124,17/12/2019,received,"Ou 628
+20:29",20:29,text
+125,17/12/2019,viewed,"Rua José Manoel Serpa, 728.
+É a rua do Colégio Tiradentes
+20:30",20:30,text
+126,17/12/2019,viewed,"pedi aqi pra ela confirmar o endereço
+20:30",20:30,text
+127,17/12/2019,viewed,"não esta achando?
+20:30",20:30,text
+128,17/12/2019,received,"Achei
+20:32",20:32,text
+129,17/12/2019,viewed,"bao
+20:32",20:32,text
+130,17/12/2019,received,"No splendor
+20:44",20:44,text
+131,17/12/2019,received,"902 E? Ou F
+20:44",20:44,text
+132,17/12/2019,received,"No E nao tem ninguem
+20:44",20:44,text
+133,17/12/2019,viewed,"Encaminhada
+902 bloco E
+20:44",20:44,text
+134,17/12/2019,received,"Ninguem atende
+20:45",20:45,text
+135,17/12/2019,viewed,"vou ligar pra ela
+20:45",20:45,text
+136,17/12/2019,received,"Foi ifood?
+20:45",20:45,text
+137,17/12/2019,received,"Deu boa
+20:45",20:45,text
+138,17/12/2019,viewed,"Boa
+20:46",20:46,text
+139,17/12/2019,viewed,"Encaminhada
+Rua manoel felipe da silva 596
+21:27",21:27,text
+140,17/12/2019,received,"Qual o pedido da 303
+22:28",22:28,text
+141,17/12/2019,viewed,"combo 37pçs e 2 hot, ele foi na quadrada pequena, que geralmente vai o 21pçs
+22:28",22:28,text
+142,17/12/2019,viewed,"e dai 2 embalagem de hot em outra sacola
+22:29",22:29,text
+143,18/12/2019,viewed,"data:image/jpeg;base64,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",00:58,image
+144,18/12/2019,viewed,"vini
+21:38",21:38,text
+145,18/12/2019,viewed,"entrega la no seu joao mano
+21:38",21:38,text
+146,18/12/2019,viewed,"nao demora
+21:38",21:38,text
+147,18/12/2019,received,"An?
+21:38",21:38,text
+148,18/12/2019,viewed,"ué mano
+21:43",21:43,text
+149,18/12/2019,received,"Safado
+21:45",21:45,text
+150,19/12/2019,viewed,"Vini fique pronto ali por 18:45
+18:29",18:29,text
+151,19/12/2019,viewed,"pq ate votlar
+18:29",18:29,text
+152,19/12/2019,viewed,"e ta bombando ja os pedido ja
+18:29",18:29,text
+153,19/12/2019,viewed,"tem 3 ja
+18:30",18:30,text
+154,19/12/2019,viewed,"irru
+18:30",18:30,text
+155,19/12/2019,received,"Blza
+18:36",18:36,text
+156,19/12/2019,viewed,"fuiii
+18:43",18:43,text
+157,19/12/2019,viewed,"fique pronto te amo <#
+18:43",18:43,text
+158,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",18:43,image
+159,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",19:26,image
+160,19/12/2019,viewed,blob:https://web.whatsapp.com/4c01f134-9762-4fc3-948f-444d8cdcb67a,19:27,image
+161,19/12/2019,viewed,blob:https://web.whatsapp.com/b44cd583-5d45-471b-ad4f-04a13179c29b,19:49,image
+162,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:07,image
+163,19/12/2019,viewed,https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=270x200&scale=1&language=pt-BR&client=gme-whatsappinc&markers=color%3Ared%7C-27.1620478%2C+-48.578829&signature=AOqYsumqkOgKGN64_VLpPgIedYY=,21:31,image
+164,19/12/2019,viewed,"Encaminhada
+Número 55
+21:31",21:31,text
+165,19/12/2019,received,"Avisa essa loca pra sair
+21:41",21:41,text
+166,19/12/2019,received,"Kkk
+21:41",21:41,text
+167,19/12/2019,viewed,"pronto
+21:44",21:44,text
+168,19/12/2019,received,"Consegue avisar ai
+22:04",22:04,text
+169,19/12/2019,viewed,"oi
+22:04",22:04,text
+170,19/12/2019,viewed,"fala bb
+22:04",22:04,text
+171,19/12/2019,received,"Rua argemiro n213
+22:04",22:04,text
+172,19/12/2019,viewed,"avisar ela
+22:04",22:04,text
+173,19/12/2019,viewed,"avisei ja
+22:04",22:04,text
+174,19/12/2019,viewed,"Encaminhada
+Rua Pedro Jacinto Dias n200 apto 04 em cima da JP Nautica
+23:22",23:22,text
+175,19/12/2019,viewed,"Encaminhada
+Rua 258 C edifício Carajás 341 apartamento 702 
+Ponto de referência posto 4 ilhas
+23:25",23:25,text
+176,19/12/2019,received,"Você
+Rua Pedro Jacinto Dias n200 apto 04 em cima da JP Nautica
+Avisa ai
+23:45",23:45,text
+177,19/12/2019,viewed,"blz
+23:46",23:46,text

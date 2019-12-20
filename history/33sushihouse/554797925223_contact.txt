@@ -1,0 +1,6 @@
+saved: False
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55964177_410458233106242_6196459531094982656_n.jpg%3Foe%3D5E00A9C5%26oh%3De28a5329ae7f01a8455dc6b359baf937&t=l&u=554797925223%40c.us&i=1523659672
+name: Rosana
+phone: +55 47 9792-5223
+caption: None

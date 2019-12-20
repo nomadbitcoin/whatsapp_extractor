@@ -1,0 +1,17 @@
+,date,status,content,time,type
+0,16/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,16/12/2019,received,"oi
+18:27",18:27,text
+2,16/12/2019,received,"que horas abre hj?
+18:27",18:27,text
+3,16/12/2019,received,"ou hj não abre?
+18:28",18:28,text
+4,16/12/2019,received,https://web.whatsapp.com/img/4742377b4ae743abd4f117e58c6c829b_w_1533-64.png,18:28,image
+5,16/12/2019,viewed,"Ola boa noite
+18:34",18:34,text
+6,16/12/2019,viewed,"Hoje abre a partir das 19hrs
+18:34",18:34,text
+7,16/12/2019,viewed,https://web.whatsapp.com/img/4742377b4ae743abd4f117e58c6c829b_w_1532-40.png,18:34,image
+8,16/12/2019,received,https://web.whatsapp.com/img/4742377b4ae743abd4f117e58c6c829b_w_736-64.png,18:34,image
+9,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:56,image
+10,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:16,image

@@ -1,0 +1,15 @@
+,date,status,content,time,type
+0,14/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,14/12/2019,received,"Oi boa noite
+19:49",19:49,text
+2,14/12/2019,received,"Gostaria de saber se tem rodízio?
+19:50",19:50,text
+3,14/12/2019,viewed,"boa noite
+19:50",19:50,text
+4,14/12/2019,viewed,"rodizio somente domingo segundas e terças
+19:50",19:50,text
+5,14/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,19:51,image
+6,14/12/2019,received,"Entendi
+19:51",19:51,text
+7,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:58,image
+8,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:14,image

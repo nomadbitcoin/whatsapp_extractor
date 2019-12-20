@@ -1,0 +1,30 @@
+,date,status,content,time,type
+0,14/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,14/12/2019,received,"Ola
+poderia me passar o cardápio
+21:17",21:17,text
+2,14/12/2019,viewed,"Ola, boa noite
+21:22",21:22,text
+3,14/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,21:22,image
+4,16/12/2019,received,"Ola
+21:06",21:06,text
+5,16/12/2019,received,"o combinado de 65 peças é misto?
+21:07",21:07,text
+6,16/12/2019,viewed,"Ele vai 80% salmão
+21:08",21:08,text
+7,16/12/2019,viewed,"e acompanha peças variadas
+21:08",21:08,text
+8,16/12/2019,received,"quanto tempo para entrega em Bombas
+21:09",21:09,text
+9,16/12/2019,viewed,"Hoje nao estou entregando para bombas na verdade
+21:10",21:10,text
+10,16/12/2019,viewed,"estou sem motoboy, fazendo entrega com o carro ai não consigo
+21:10",21:10,text
+11,16/12/2019,viewed,":/
+21:10",21:10,text
+12,16/12/2019,received,"a tá bom então.. obrigada
+21:10",21:10,text
+13,16/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",21:10,image
+14,16/12/2019,received,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",21:11,image
+15,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:55,image
+16,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:17,image

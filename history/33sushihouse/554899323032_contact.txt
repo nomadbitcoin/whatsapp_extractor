@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F55963563_467360467136336_6009008908981501952_n.jpg%3Foe%3D5E00AA08%26oh%3D3ad063b72e5f40077e5e47adddb6ac73&t=l&u=554899323032%40c.us&i=1508095163
+name: Jander Luid
+phone: +55 48 9932-3032
+caption: None

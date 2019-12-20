@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F75279750_494664834588996_4781628847735663967_n.jpg%3Foe%3D5E00A96F%26oh%3Dd62b11222a4c094f4369892eb5051771&t=l&u=554792695199%40c.us&i=1576429930
+name: Luiza Guerreiro
+phone: +55 47 9269-5199
+caption: None

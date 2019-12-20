@@ -1,0 +1,21 @@
+,date,status,content,time,type
+0,15/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,15/12/2019,received,"Ola
+19:45",19:45,text
+2,15/12/2019,received,"Boa noite
+19:45",19:45,text
+3,15/12/2019,viewed,"Ola, boa noite
+19:45",19:45,text
+4,15/12/2019,received,"Tem alguma promoção pra delivery?
+19:45",19:45,text
+5,15/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,19:45,image
+6,15/12/2019,viewed,"tem sim
+19:45",19:45,text
+7,15/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",19:45,image
+8,15/12/2019,viewed,blob:https://web.whatsapp.com/485d1295-e5ff-4221-bbac-3e65ce139691,19:45,image
+9,15/12/2019,viewed,"são os umtilmos 4 combos do cardapio
+19:45",19:45,text
+10,15/12/2019,viewed,"do lado direito
+19:45",19:45,text
+11,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:57,image
+12,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:15,image

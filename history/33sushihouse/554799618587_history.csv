@@ -1,0 +1,13 @@
+,date,status,content,time,type
+0,11/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,11/12/2019,received,"Olá, boa noitr
+21:42",21:42,text
+2,11/12/2019,received,"Vocês poderiam me enviar os combos do dia, por favor?
+21:42",21:42,text
+3,11/12/2019,viewed,"Ola, boa noite
+21:42",21:42,text
+4,11/12/2019,received,"Oii
+21:44",21:44,text
+5,11/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,21:44,image
+6,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,20:02,image
+7,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:10,image

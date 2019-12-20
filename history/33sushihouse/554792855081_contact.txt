@@ -1,0 +1,6 @@
+saved: False
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73430874_167928367651277_6454843213541506679_n.jpg%3Foe%3D5E00A879%26oh%3D87ea47f91dd6651613400bd1975c9007&t=l&u=554792855081%40c.us&i=1574035520
+name: Alemão
+phone: +55 47 9285-5081
+caption: None

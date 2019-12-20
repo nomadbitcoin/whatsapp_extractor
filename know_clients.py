@@ -1,7 +1,13 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding: utf-8
 
 # In[1]:
+
+
+client = '33sushihouse/'
+
+
+# In[2]:
 
 
 import time
@@ -11,13 +17,13 @@ import pandas as pd
 # pd.set_option('display.max_rows', 1000)
 
 
-# In[2]:
+# In[3]:
 
 
 from engines import saveData
 
 
-# In[194]:
+# In[49]:
 
 
 from selenium import webdriver
@@ -32,14 +38,14 @@ options = webdriver.ChromeOptions()
 
 # open with saved informations in cache
 options.add_argument("profile")
-options.add_argument("user-data-dir=./whatsapp_nabike")
+options.add_argument("user-data-dir=./whatsapp_" + client)
 # options.add_argument("user-data-dir=./whatsapp_yan")
 
 driver = webdriver.Chrome(options=options, executable_path="./webdriver/chromedriver")
 driver.get('https://web.whatsapp.com/')
 
 
-# In[4]:
+# In[5]:
 
 
 # FUNCOES QUE PEGAM AS INFORMACOES DO CONTATO
@@ -105,7 +111,7 @@ def get_Name():
         #print('getName() [step 2] error: {}'.format(error))
 
 
-# In[5]:
+# In[6]:
 
 
 # FUNCOES DE NAVEGACAO PELO WHATSAPP COM CLIQUES E TECLAS DO TECLADO
@@ -139,7 +145,7 @@ def esc_conversation():
     press_esc.perform()
 
 
-# In[6]:
+# In[7]:
 
 
 # PEGA AS INFORMACOES DO CONTATO COM O QUAL TEVE A CONVERSA
@@ -173,7 +179,7 @@ def getContactData():
     return contact_info
 
 
-# In[7]:
+# In[8]:
 
 
 # FUNCOES QUE LIDAM COM O SCROLL UP DAS CONVERSAS PARA CAPUTRAR TODO O HISTORICO
@@ -219,12 +225,12 @@ def correct_day(day_name):
 
 # VERIFICA SE EH O FIM DA CONVERSA
 def verify_end():
-    engine_messages = ['As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.']
+    engine_messages = ['As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.', 'As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta. iFood pode contratar outra empresa para armazenar, ler e responder às suas mensagens e chamadas. Clique para mais informações.']
     try:
-        for element in driver.find_elements_by_xpath('//div[@role="button"]'):
-            if element.text in engine_messages:    
-                return True
-        return False
+        if driver.find_elements_by_xpath('//div[@role="button"]')[9].text in engine_messages:
+            return True
+        else:
+            return False
     except:
         return False
 
@@ -244,7 +250,7 @@ def scroll_history():
     return True
 
 
-# In[191]:
+# In[9]:
 
 
 # FUNCOES PARA TRATAR CADA MENSAGEM, TIME, STATUS, SE FOI ENVIADA OU RECEBIDA E CONTEUDO
@@ -339,7 +345,7 @@ def verify_content(mensagem):
     return content
 
 
-# In[192]:
+# In[10]:
 
 
 # PEGA O CONTEUDO DAS MENSAGENS E DO CONTATO
@@ -387,7 +393,7 @@ def getContent():
     return data
 
 
-# In[10]:
+# In[11]:
 
 
 # SALVA AS INFORMACOES COLETADAS NO BANCO DE DADOS
@@ -408,16 +414,16 @@ def save_to_db(data):
     print('Saved!')
 
 
-# In[11]:
+# In[12]:
 
 
 # SALVA LOCALMENTE AS INFORMACOES COLETADAS
 def contact_info_txt(contact_info):
     try:
         if 'history' not in os.listdir():
-            os.mkdir('history')
+            os.mkdir('history' + client)
 
-        contact_name = 'history/' + str(''.join(filter(str.isdigit, contact_info['phone']))) + '_contact.txt'
+        contact_name = 'history/' + client + str(''.join(filter(str.isdigit, contact_info['phone']))) + '_contact.txt'
 
         with open(contact_name, 'a') as filee:
             for key in contact_info.keys():
@@ -443,9 +449,9 @@ def history_csv(history, contact_name):
 
         # EXPORTA EM CSV
         if 'history' not in os.listdir():
-            os.mkdir('history')
+            os.mkdir('history' + client)
 
-        history_name = 'history/' + str(''.join(filter(str.isdigit, contact_name))) + '_history.csv'
+        history_name = 'history/' + client + str(''.join(filter(str.isdigit, contact_name))) + '_history.csv'
         df.to_csv(history_name, encoding='utf-8')
 
         return 'history info saved as: ' + str(history_name)
@@ -454,7 +460,7 @@ def history_csv(history, contact_name):
         print(error)
 
 
-# In[12]:
+# In[13]:
 
 
 def total_conversations():
@@ -473,36 +479,11 @@ def total_conversations():
         return 'Total Not Found'
 
 
-# In[13]:
-
-
-# #eh preciso o argumento force=True para iniciar a navegacao pelas conversas
-# # down_chat(force=True)
-# count = 178
-# chats = total_conversations()
-# for i in range(chats):
-#     count += 1
-#     time.sleep(1)
-#     if scroll_history():
-#         data_contact = getContent()
-        
-#         #save_to_db(data_contact)
-#         print(contact_info_txt(data_contact['contact']))
-#         print(history_csv(data_contact['history'], data_contact['contact']['phone']))
-    
-#     print('\n{} de {} historicos salvos'.format(count, chats))
-#     down_chat(force=False)
-#     if count == chats - 10:
-#         choice = input('continuar? aperte 1 se deseja parar')
-#         if choice == '1':
-#             break
-
-
-# In[15]:
+# In[39]:
 
 
 # VERIFICA OS QUE JA ESTAO SALVOS NO DIRETORIO
-path = './history/'
+path = './history/' + client
 saved = []
 for item in os.listdir(path):
     if item.endswith('.txt'):
@@ -511,27 +492,37 @@ for item in os.listdir(path):
             for line in data:
                 if ('name') in line:
                     saved.append(line[line.find(':')+2:line.find('\n')])
+                elif ('phone') in line:
+                    saved.append(line[line.find(':')+2:line.find('\n')])
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 
 
 # In[16]:
 
-input('aperte enter se o whatsapp ja estiver aberto')
-# count = 0
+
 # down_chat(force=True)
-# for i in range(850):
-# 	down_chat()
-# 	time.sleep(0.1)
-# 	count +=1
-	
+# for i in range(450):
+#     down_chat()
+#     time.sleep(0.3)
+input('aperte enter se o whatsapp ja estiver aberto')
 
 
-
-# In[193]:
+# In[51]:
 
 
 #eh preciso o argumento force=True para iniciar a navegacao pelas conversas
-# down_chat(force=True)
-
+down_chat(force=True)
 i = len(saved)
 chats = total_conversations()
 for i in range(chats):
@@ -548,7 +539,7 @@ for i in range(chats):
                     print(history_csv(data_contact['history'], data_contact['contact']['phone']))
                 except:
                     print('ao salvar conversa')
-                    # break
+                    break
                 print('\n{} de {} historicos salvos'.format(i, chats))
             down_chat()
         else:
@@ -556,9 +547,20 @@ for i in range(chats):
             down_chat()
     except Exception as error:
         print('quebrou no loop principal')
-        # break
+        break
         print(type(error))
         print(error)
         pass
-    # break
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 

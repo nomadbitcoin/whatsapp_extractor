@@ -1,0 +1,16 @@
+,date,status,content,time,type
+0,13/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,13/12/2019,received,"Boa noite, quais são os preços e opções de rodízio por favor?
+19:17",19:17,text
+2,13/12/2019,viewed,"Ola, boa noite tudo bem
+19:18",19:18,text
+3,13/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,19:18,image
+4,13/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",19:18,image
+5,13/12/2019,received,"Qual o preço hoje do rodízio padrão Teiko?
+19:20",19:20,text
+6,13/12/2019,viewed,"Hoje não temos rodizio
+19:23",19:23,text
+7,13/12/2019,viewed,"Padrão 33sushihouse **
+19:23",19:23,text
+8,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:59,image
+9,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:13,image

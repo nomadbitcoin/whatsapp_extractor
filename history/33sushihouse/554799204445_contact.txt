@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F59189200_395949027664744_1248942404816338944_n.jpg%3Foe%3D5E00AA67%26oh%3Dceb05a00b07544367b7f859f7b6082e5&t=l&u=554799204445%40c.us&i=1557859796
+name: Glória
+phone: +55 47 9920-4445
+caption: None

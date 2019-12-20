@@ -1,0 +1,48 @@
+,date,status,content,time,type
+0,10/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,10/12/2019,received,"Boa noite
+20:24",20:24,text
+2,10/12/2019,received,"Vcs tem rodízio
+20:24",20:24,text
+3,10/12/2019,viewed,"Olaa boa noite
+20:24",20:24,text
+4,10/12/2019,viewed,"sim hoje temos rodizio
+20:24",20:24,text
+5,10/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:24,image
+6,10/12/2019,received,"Legal
+20:25",20:25,text
+7,10/12/2019,received,"Quanto
+20:25",20:25,text
+8,10/12/2019,viewed,"49,90
+20:26",20:26,text
+9,10/12/2019,viewed,audio: blob:https://web.whatsapp.com/04877087-4a30-47cc-8b35-b0d63b3010d6,20:26,audio
+10,10/12/2019,viewed,audio: blob:https://web.whatsapp.com/001258af-d4d2-489e-9ad9-23d5cb3582f5,20:29,audio
+11,10/12/2019,viewed,audio: blob:https://web.whatsapp.com/f85fd384-f676-42a7-bf26-ce9fcac5d5ed,20:30,audio
+12,10/12/2019,viewed,audio: blob:https://web.whatsapp.com/96fd12b7-5fe8-44c1-b48b-5e37c4315de3,20:34,audio
+13,10/12/2019,viewed,audio: blob:https://web.whatsapp.com/7b12ca10-d0af-488e-9282-391b1ccf5d73,20:34,audio
+14,10/12/2019,viewed,audio: blob:https://web.whatsapp.com/cf318ae0-7611-478a-96b2-cd2bec28c0eb,20:34,audio
+15,10/12/2019,received,"Tá né
+20:35",20:35,text
+16,10/12/2019,received,"Kkkk
+20:35",20:35,text
+17,10/12/2019,received,"Pode fazer
+20:35",20:35,text
+18,10/12/2019,received,"Tá bom
+20:35",20:35,text
+19,10/12/2019,viewed,audio: blob:https://web.whatsapp.com/d3dfddc0-0e7e-4c17-91fa-81486fec7bd8,20:35,audio
+20,10/12/2019,viewed,"Hahahahah verdadee né
+20:39",20:39,text
+21,10/12/2019,viewed,"feito, logo fica pronto eu ja aviso
+20:39",20:39,text
+22,10/12/2019,received,"Ok
+20:39",20:39,text
+23,10/12/2019,viewed,"ta pronto
+20:58",20:58,text
+24,10/12/2019,received,"Ok
+21:03",21:03,text
+25,19/12/2019,viewed,blob:https://web.whatsapp.com/1314f66b-36e1-4ada-ab68-03a787d1ce12,20:03,image
+26,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:09,image
+27,19/12/2019,received,"Que legal
+22:20",22:20,text
+28,19/12/2019,viewed,This message was deleted,22:20,deleted
+29,19/12/2019,received,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",22:20,image

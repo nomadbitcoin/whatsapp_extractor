@@ -1,0 +1,17 @@
+,date,status,content,time,type
+0,14/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,14/12/2019,received,"Boa noite
+20:59",20:59,text
+2,14/12/2019,received,"Vcs tem entrega
+20:59",20:59,text
+3,14/12/2019,viewed,"Ola boa noite
+21:00",21:00,text
+4,14/12/2019,viewed,"temos sim
+21:00",21:00,text
+5,14/12/2019,viewed,"para porto belo nao cobramos
+21:00",21:00,text
+6,14/12/2019,viewed,blob:https://web.whatsapp.com/6ecae91e-9719-4f3c-9ee5-fa9d68f814e6,21:01,image
+7,14/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",21:01,image
+8,14/12/2019,viewed,blob:https://web.whatsapp.com/883d6887-5f93-4311-b23c-db4d9fcacf65,21:01,image
+9,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:58,image
+10,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:14,image

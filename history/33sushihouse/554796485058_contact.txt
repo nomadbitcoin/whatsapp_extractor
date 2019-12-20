@@ -1,0 +1,6 @@
+saved: True
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F57035149_402560633900023_5872793342584029184_n.jpg%3Foe%3D5E00A40E%26oh%3D5be3287687aaebae68704d1f2c4fdd44&t=l&u=554796485058%40c.us&i=1511227183
+phone: +55 47 9648-5058
+name: Vizinha
+caption: None
+business: False

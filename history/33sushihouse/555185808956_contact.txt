@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73411713_244643169833167_5266268408494747498_n.jpg%3Foe%3D5E00A79A%26oh%3Dadc27a38b858a8818ac0be273756bc3f&t=l&u=555185808956%40c.us&i=1574865964
+name: Bruna Condominio
+phone: +55 51 8580-8956
+caption: None

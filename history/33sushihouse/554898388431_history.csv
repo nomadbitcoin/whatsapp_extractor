@@ -1,0 +1,11 @@
+,date,status,content,time,type
+0,16/12/2019,ENGINE,As mensagens e chamadas dessa conversa estão protegidas com criptografia de ponta a ponta.,ENGINE,text
+1,16/12/2019,received,"Olá, boa noite
+19:59",19:59,text
+2,16/12/2019,received,"Como funciona o rodízio de vocês ?
+19:59",19:59,text
+3,16/12/2019,viewed,"Ola, boa noite
+20:01",20:01,text
+4,16/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:01,image
+5,19/12/2019,viewed,blob:https://web.whatsapp.com/148ec882-15a0-4f81-8e3c-2623346b2719,19:56,image
+6,19/12/2019,viewed,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",20:17,image

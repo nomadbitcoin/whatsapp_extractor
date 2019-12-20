@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F73512820_555014332018235_4141961599147645973_n.jpg%3Foe%3D5E00AA33%26oh%3D4584751e9909041b035628ef2bd9c5a9&t=l&u=554788146492%40c.us&i=1576626715
+name: Gringo Cabeleleiro
+phone: +55 47 8814-6492
+caption: None

@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F61201731_785175701948779_74921465345998848_n.jpg%3Foe%3D5E00A7DE%26oh%3D8ab958b543841e5a1e9291d037e24743&t=l&u=554788083682%40c.us&i=1560638167
+name: Vilsol Farmacia
+phone: +55 47 8808-3682
+caption: None

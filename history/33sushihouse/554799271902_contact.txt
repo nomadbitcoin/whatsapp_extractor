@@ -1,0 +1,6 @@
+saved: True
+business: False
+image: https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F64786559_2280263558901597_3793222585051774976_n.jpg%3Foe%3D5E00A4AD%26oh%3D98de94d18aea2014b1a87302ff00769a&t=l&u=554799271902%40c.us&i=1566322426
+name: Gringo Barbeiro
+phone: +55 47 9927-1902
+caption: None
